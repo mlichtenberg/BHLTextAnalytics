@@ -1,0 +1,1617 @@
+﻿Seq	PageID	Name	Type	SubType	WikipediaID	WikipediaLanguage	WikipediaUrl	Offset	Length	Score	WikipediaScore	IsScientificName
+1	2774073	University of Illinois at Urbana–Champaign	Organization	N/A	University of Illinois at Urbana–Champaign	en	https://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana–Champaign	116	22	0.800	0.006	False
+2	2774073	University of Illinois Library	Organization	N/A	N/A	N/A	N/A	116	30	0.974		False
+3	2774073	Library	Location	N/A	Library	en	https://en.wikipedia.org/wiki/Library	139	7	0.800	0.143	False
+4	2774077	Outfielder	Other	N/A	Outfielder	en	https://en.wikipedia.org/wiki/Outfielder	181	2	0.800	0.063	False
+5	2774077	Zoology	Organization	N/A	Zoology	en	https://en.wikipedia.org/wiki/Zoology	60	10	0.800	0.297	False
+6	2774077	Zoology	Organization	N/A	Zoology	en	https://en.wikipedia.org/wiki/Zoology	384	10	0.800	0.297	False
+7	2774077	Field Museum of Natural History	Location	N/A	Field Museum of Natural History	en	https://en.wikipedia.org/wiki/Field_Museum_of_Natural_History	89	31	0.837	0.813	False
+8	2774077	Field Museum of Natural History	Location	N/A	Field Museum of Natural History	en	https://en.wikipedia.org/wiki/Field_Museum_of_Natural_History	2208	31	0.800	0.813	False
+9	2774077	Trade paperback (comics)	Other	N/A	Trade paperback (comics)	en	https://en.wikipedia.org/wiki/Trade_paperback_(comics)	125	6	0.800	0.052	False
+10	2774077	Super Bowl XX	Other	N/A	Super Bowl XX	en	https://en.wikipedia.org/wiki/Super_Bowl_XX	132	2	0.800	0.107	False
+11	2774077	CHICAGO	Location	N/A	N/A	N/A	N/A	135	7	0.715		False
+12	2774077	JUNE 14, 1938	DateTime	Date	N/A	N/A	N/A	144	13	0.800		False
+13	2774077	June 14	Other	N/A	June 14	en	https://en.wikipedia.org/wiki/June_14	144	7	0.800	0.297	False
+14	2774077	31	Quantity	Number	N/A	N/A	N/A	162	2	0.800		False
+15	2774077	Food choice	Other	N/A	Food choice	en	https://en.wikipedia.org/wiki/Food_choice	169	11	0.800	0.725	False
+16	2774077	Food choice	Other	N/A	Food choice	en	https://en.wikipedia.org/wiki/Food_choice	750	11	0.800	0.725	False
+17	2774077	Food choice	Other	N/A	Food choice	en	https://en.wikipedia.org/wiki/Food_choice	1736	11	0.800	0.725	False
+18	2774077	ARCTIC BIRDS	Organization	N/A	N/A	N/A	N/A	189	12	0.544		False
+19	2774077	CLARENCE COTTAM	Person	N/A	N/A	N/A	N/A	224	15	0.703		False
+20	2774077	Logical conjunction	Other	N/A	Logical conjunction	en	https://en.wikipedia.org/wiki/Logical_conjunction	241	3	0.800	0.029	False
+21	2774077	HAROLD C. HANSON	Person	N/A	N/A	N/A	N/A	245	16	0.999		False
+22	2774077	the summer of 1936	DateTime	DateRange	N/A	N/A	N/A	274	18	0.800		False
+23	2774077	Sea captain	Other	N/A	Sea captain	en	https://en.wikipedia.org/wiki/Sea_captain	318	7	0.800	0.041	False
+24	2774077	R. A. Bartlett	Person	N/A	N/A	N/A	N/A	329	14	0.941		False
+25	2774077	Royal Academy of Arts	Organization	N/A	Royal Academy of Arts	en	https://en.wikipedia.org/wiki/Royal_Academy_of_Arts	329	5	0.800	0.190	False
+26	2774077	Chicago	Location	N/A	Chicago	en	https://en.wikipedia.org/wiki/Chicago	376	7	0.800	0.086	False
+27	2774077	Chicago Zoological    Society	Organization	N/A	N/A	N/A	N/A	376	29	0.663		False
+28	2774077	Society	Other	N/A	Society	en	https://en.wikipedia.org/wiki/Society	398	7	0.800	0.067	False
+29	2774077	New York City	Location	N/A	New York City	en	https://en.wikipedia.org/wiki/New_York_City	479	8	0.874	0.027	False
+30	2774077	June 23	DateTime	Date	June 23	en	https://en.wikipedia.org/wiki/June_23	491	7	0.800	0.281	False
+31	2774077	September 4	DateTime	Date	September 4	en	https://en.wikipedia.org/wiki/September_4	512	11	0.800	0.226	False
+32	2774077	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	543	12	0.705	0.131	False
+33	2774077	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	557	8	0.453	0.131	False
+34	2774077	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	571	9	0.930	0.279	False
+35	2774077	98	Quantity	Number	N/A	N/A	N/A	624	2	0.800		False
+36	2774077	23	Quantity	Number	N/A	N/A	N/A	636	2	0.800		False
+37	2774077	eight	Quantity	Number	N/A	N/A	N/A	654	5	0.800		False
+38	2774077	five	Quantity	Number	N/A	N/A	N/A	676	4	0.800		False
+39	2774077	Food Habits Laboratory	Organization	N/A	N/A	N/A	N/A	750	22	0.654		False
+40	2774077	Laboratory	Other	N/A	Laboratory	en	https://en.wikipedia.org/wiki/Laboratory	762	10	0.800	0.045	False
+41	2774077	Laboratory	Other	N/A	Laboratory	en	https://en.wikipedia.org/wiki/Laboratory	1125	10	0.800	0.045	False
+42	2774077	United States	Location	N/A	United States	en	https://en.wikipedia.org/wiki/United_States	780	13	0.800	0.340	False
+43	2774077	United States	Location	N/A	United States	en	https://en.wikipedia.org/wiki/United_States	2129	13	0.800	0.340	False
+44	2774077	United States Biologi-    cal Survey	Organization	N/A	N/A	N/A	N/A	780	36	0.641		False
+45	2774077	Surveying	Other	N/A	Surveying	en	https://en.wikipedia.org/wiki/Surveying	810	6	0.800	0.081	False
+46	2774077	Musical note	Other	N/A	Musical note	en	https://en.wikipedia.org/wiki/Musical_note	818	5	0.800	0.009	False
+47	2774077	The Bartlett	Organization	N/A	The Bartlett	en	https://en.wikipedia.org/wiki/The_Bartlett	1347	12	0.800	0.657	False
+48	2774077	1931	DateTime	DateRange	N/A	N/A	N/A	1378	4	0.800		False
+49	2774077	1932	DateTime	DateRange	N/A	N/A	N/A	1384	4	0.800		False
+50	2774077	1933	DateTime	DateRange	N/A	N/A	N/A	1394	4	0.800		False
+51	2774077	1936	DateTime	DateRange	N/A	N/A	N/A	1408	4	0.800		False
+52	2774077	165	Quantity	Number	N/A	N/A	N/A	1418	3	0.800		False
+53	2774077	177	Quantity	Number	N/A	N/A	N/A	1422	3	0.800		False
+54	2774077	Grateful (DJ Khaled album)	Other	N/A	Grateful (DJ Khaled album)	en	https://en.wikipedia.org/wiki/Grateful_(DJ_Khaled_album)	1502	8	0.800	0.049	False
+55	2774077	Clarence F. Smith	Person	N/A	N/A	N/A	N/A	1545	17	0.999		False
+56	2774077	Frederick Smith (entomologist)	Person	N/A	Frederick Smith (entomologist)	en	https://en.wikipedia.org/wiki/Frederick_Smith_(entomologist)	1554	8	0.800	0.749	False
+57	2774077	Francis Henry May	Person	N/A	Francis Henry May	en	https://en.wikipedia.org/wiki/Francis_Henry_May	1567	9	0.701	0.546	False
+58	2774077	Leon H. Kelso	Person	N/A	N/A	N/A	N/A	1578	13	0.993		False
+59	2774077	A. L. Nelson	Person	N/A	N/A	N/A	N/A	1593	12	0.536		False
+60	2774077	American League	Organization	N/A	American League	en	https://en.wikipedia.org/wiki/American_League	1593	5	0.800	0.082	False
+61	2774077	Clarence Stewart Williams	Person	N/A	Clarence Stewart Williams	en	https://en.wikipedia.org/wiki/Clarence_Stewart_Williams	1607	14	0.988	0.670	False
+62	2774077	FM broadcasting	Other	N/A	FM broadcasting	en	https://en.wikipedia.org/wiki/FM_broadcasting	1623	5	0.800	0.095	False
+63	2774077	F. M.    Uhler	Person	N/A	N/A	N/A	N/A	1623	14	0.943		False
+64	2774077	Philip Reese Uhler	Person	N/A	Philip Reese Uhler	en	https://en.wikipedia.org/wiki/Philip_Reese_Uhler	1632	5	0.800	0.069	False
+65	2774077	A. C. Martin	Person	N/A	N/A	N/A	N/A	1639	12	0.982		False
+66	2774077	Air conditioning	Other	N/A	Air conditioning	en	https://en.wikipedia.org/wiki/Air_conditioning	1639	5	0.800	0.064	False
+67	2774077	John-Roger Hinkins	Person	N/A	John-Roger Hinkins	en	https://en.wikipedia.org/wiki/John-Roger_Hinkins	1653	5	0.912	0.032	False
+68	2774077	Malloch	Person	N/A	N/A	N/A	N/A	1659	7	0.959		False
+69	2774077	Miss	Other	N/A	Miss	en	https://en.wikipedia.org/wiki/Miss	1676	6	0.800	0.052	False
+70	2774077	Alma M. Swords	Person	N/A	N/A	N/A	N/A	1683	14	0.646		False
+71	2774077	Phoebe Knappen	Person	N/A	N/A	N/A	N/A	1705	14	0.964		False
+72	2774077	Food Habits Staff	Organization	N/A	N/A	N/A	N/A	1736	17	0.792		False
+73	2774077	Employment	Other	N/A	Employment	en	https://en.wikipedia.org/wiki/Employment	1748	5	0.800	0.121	False
+74	2774077	Doctor of Philosophy	Other	N/A	Doctor of Philosophy	en	https://en.wikipedia.org/wiki/Doctor_of_Philosophy	1886	3	0.800	0.049	False
+75	2774077	Doctor of Philosophy	Other	N/A	Doctor of Philosophy	en	https://en.wikipedia.org/wiki/Doctor_of_Philosophy	1936	3	0.800	0.049	False
+76	2774077	Waldo Schmitt	Person	N/A	N/A	N/A	N/A	1890	13	0.998		False
+77	2774077	Clarence Shoemaker	Person	N/A	N/A	N/A	N/A	1912	18	0.999		False
+78	2774077	Harold Rehder	Person	N/A	N/A	N/A	N/A	1940	13	0.988		False
+79	2774077	United    States National Museum	Organization	N/A	N/A	N/A	N/A	1961	32	0.956		False
+80	2774077	National Museum of Natural History	Location	N/A	National Museum of Natural History	en	https://en.wikipedia.org/wiki/National_Museum_of_Natural_History	1978	15	0.800	0.150	False
+81	2774077	1	Quantity	Number	N/A	N/A	N/A	2109	1	0.800		False
+82	2774077	Senior status	Other	N/A	Senior status	en	https://en.wikipedia.org/wiki/Senior_status	2111	6	0.800	0.046	False
+83	2774077	Biology	Other	N/A	Biology	en	https://en.wikipedia.org/wiki/Biology	2118	9	0.800	0.081	False
+84	2774077	United States Biological Survey	Organization	N/A	N/A	N/A	N/A	2129	31	0.615		False
+85	2774077	Volunteering	Other	N/A	Volunteering	en	https://en.wikipedia.org/wiki/Volunteering	2168	9	0.800	0.120	False
+86	2774077	Physician assistant	Other	N/A	Physician assistant	en	https://en.wikipedia.org/wiki/Physician_assistant	2178	9	0.800	0.058	False
+87	2774077	Phylum	Other	N/A	Phylum	en	https://en.wikipedia.org/wiki/Phylum	2189	8	0.800	0.109	False
+88	2774077	Birds, Field Museum of Natural History	Organization	N/A	N/A	N/A	N/A	2201	38	0.561		False
+89	2774077	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	2201	5	0.800	0.119	False
+90	2774077	416 405	Quantity	Number	N/A	N/A	N/A	2249	7	0.800		False
+91	2774078	Field Museum of Natural History	Location	N/A	Field Museum of Natural History	en	https://en.wikipedia.org/wiki/Field_Museum_of_Natural_History	110	12	0.787	0.857	False
+92	2774078	.mr	Other	N/A	.mr	en	https://en.wikipedia.org/wiki/.mr	69	3	0.800	0.070	False
+93	2774078	Rudyerd Boulton	Person	N/A	Rudyerd Boulton	en	https://en.wikipedia.org/wiki/Rudyerd_Boulton	73	15	1.000	0.807	False
+94	2774078	Curator	Other	N/A	Curator	en	https://en.wikipedia.org/wiki/Curator	90	7	0.800	0.569	False
+95	2774078	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	101	5	0.800	0.140	False
+96	2774078	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	1644	5	0.800	0.140	False
+97	2774078	Sea captain	Other	N/A	Sea captain	en	https://en.wikipedia.org/wiki/Sea_captain	172	7	0.800	0.219	False
+98	2774078	Robert Bartlett (explorer)	Person	N/A	Robert Bartlett (explorer)	en	https://en.wikipedia.org/wiki/Robert_Bartlett_(explorer)	180	8	0.971	0.042	False
+99	2774078	Sooty shearwater	Other	N/A	Sooty shearwater	en	https://en.wikipedia.org/wiki/Sooty_shearwater	298	16	0.800	0.821	False
+100	2774078	Sooty shearwater	Other	N/A	Sooty shearwater	en	https://en.wikipedia.org/wiki/Sooty_shearwater	325	16	0.800	0.821	False
+101	2774078	Sooty shearwater	Other	N/A	Sooty shearwater	en	https://en.wikipedia.org/wiki/Sooty_shearwater	355	17	0.800	0.821	False
+102	2774078	Johann Friedrich Gmelin	Person	N/A	Johann Friedrich Gmelin	en	https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin	316	6	0.800	0.231	False
+103	2774078	1	Quantity	Number	N/A	N/A	N/A	343	1	0.800		False
+104	2774078	1	Quantity	Number	N/A	N/A	N/A	2334	1	0.800		False
+105	2774078	Three	Quantity	Number	N/A	N/A	N/A	349	5	0.800		False
+106	2774078	Three Sooty Shearwaters	Organization	N/A	N/A	N/A	N/A	349	23	0.642		False
+107	2774078	June 25	DateTime	Date	June 25	en	https://en.wikipedia.org/wiki/June_25	390	7	0.800	0.171	False
+108	2774078	miles	Quantity	Dimension	N/A	N/A	N/A	405	5	0.800		False
+109	2774078	Bay of Fundy	Location	N/A	Bay of Fundy	en	https://en.wikipedia.org/wiki/Bay_of_Fundy	427	12	0.903	0.813	False
+110	2774078	Bay of Fundy	Location	N/A	Bay of Fundy	en	https://en.wikipedia.org/wiki/Bay_of_Fundy	865	12	0.824	0.813	False
+111	2774078	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	469	8	0.921	0.185	False
+112	2774078	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	1390	8	0.457	0.185	False
+113	2774078	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	485	9	0.869	0.282	False
+114	2774078	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	607	9	0.994	0.282	False
+115	2774078	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	1421	9	0.729	0.282	False
+116	2774078	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2313	9	0.809	0.282	False
+117	2774078	N. Lat	Person	N/A	N/A	N/A	N/A	635	6	0.691		False
+118	2774078	N. Lat	Person	N/A	N/A	N/A	N/A	1455	6	0.934		False
+119	2774078	July 20	DateTime	Date	July 20	en	https://en.wikipedia.org/wiki/July_20	644	7	0.800	0.154	False
+120	2774078	Great shearwater	Other	N/A	Great shearwater	en	https://en.wikipedia.org/wiki/Great_shearwater	704	18	0.800	0.847	False
+121	2774078	Great shearwater	Other	N/A	Great shearwater	en	https://en.wikipedia.org/wiki/Great_shearwater	738	15	0.800	0.847	False
+122	2774078	Great shearwater	Other	N/A	Great shearwater	en	https://en.wikipedia.org/wiki/Great_shearwater	766	18	0.800	0.847	False
+123	2774078	O'Reilly Media	Organization	N/A	O'Reilly Media	en	https://en.wikipedia.org/wiki/O'Reilly_Media	755	8	0.800	0.027	False
+124	2774078	first	Quantity	Ordinal	N/A	N/A	N/A	815	5	0.800		False
+125	2774078	first	Quantity	Ordinal	N/A	N/A	N/A	1787	5	0.800		False
+126	2774078	first	Quantity	Ordinal	N/A	N/A	N/A	1900	5	0.800		False
+127	2774078	Cape Race	Location	N/A	Cape Race	en	https://en.wikipedia.org/wiki/Cape_Race	924	23	0.800	0.771	False
+128	2774078	June 30	DateTime	Date	June 30	en	https://en.wikipedia.org/wiki/June_30	964	7	0.800	0.141	False
+129	2774078	Funk Islands	Organization	N/A	N/A	N/A	N/A	1016	12	0.536		False
+130	2774078	Funk Islands	Organization	N/A	N/A	N/A	N/A	1829	12	0.912		False
+131	2774078	Island	Other	N/A	Island	en	https://en.wikipedia.org/wiki/Island	1021	7	0.800	0.244	False
+132	2774078	Island	Other	N/A	Island	en	https://en.wikipedia.org/wiki/Island	1834	7	0.800	0.244	False
+133	2774078	July 5	DateTime	Date	July 5	en	https://en.wikipedia.org/wiki/July_5	1030	6	0.800	0.164	False
+134	2774078	50	Quantity	Number	N/A	N/A	N/A	1057	2	0.800		False
+135	2774078	100 in	Quantity	Dimension	N/A	N/A	N/A	1063	6	0.800		False
+136	2774078	2,000	Quantity	Number	N/A	N/A	N/A	1137	5	0.800		False
+137	2774078	Greenwich, Connecticut	Location	N/A	Greenwich, Connecticut	en	https://en.wikipedia.org/wiki/Greenwich,_Connecticut	1375	13	0.978	0.681	False
+138	2774078	Cape Farewell, Greenland	Location	N/A	Cape Farewell, Greenland	en	https://en.wikipedia.org/wiki/Cape_Farewell,_Greenland	1403	13	0.637	0.218	False
+139	2774078	62	Quantity	Number	N/A	N/A	N/A	1452	2	0.800		False
+140	2774078	August 12	DateTime	Date	August 12	en	https://en.wikipedia.org/wiki/August_12	1585	9	0.800	0.123	False
+141	2774078	Tasiilaq	Location	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	1625	11	0.800	0.783	False
+142	2774078	Northern fulmar	Other	N/A	Northern fulmar	en	https://en.wikipedia.org/wiki/Northern_fulmar	1717	18	0.800	0.806	False
+143	2774078	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	1747	8	0.800	0.302	False
+144	2774078	ATLANTIC	Location	N/A	N/A	N/A	N/A	1758	8	0.860		False
+145	2774078	Fulmar	Other	N/A	Fulmar	en	https://en.wikipedia.org/wiki/Fulmar	1767	6	0.800	0.067	False
+146	2774078	Fulmar	Other	N/A	Fulmar	en	https://en.wikipedia.org/wiki/Fulmar	1779	7	0.800	0.067	False
+147	2774078	the following day	DateTime	Date	N/A	N/A	N/A	1849	17	0.800		False
+148	2774078	Whale	Other	N/A	Whale	en	https://en.wikipedia.org/wiki/Whale	2042	5	0.800	0.271	False
+149	2774078	Unless	Other	N/A	Unless	en	https://en.wikipedia.org/wiki/Unless	2336	6	0.800	0.166	False
+150	2774078	Division by zero	Other	N/A	Division by zero	en	https://en.wikipedia.org/wiki/Division_by_zero	2417	5	0.800	0.047	False
+151	2774078	U. Checklist	Person	N/A	N/A	N/A	N/A	2423	12	0.832		False
+152	2774078	1931	DateTime	DateRange	N/A	N/A	N/A	2437	4	0.800		False
+153	2774079	Hanson, Massachusetts	Organization	N/A	Hanson, Massachusetts	en	https://en.wikipedia.org/wiki/Hanson,_Massachusetts	51	6	0.593	0.005	False
+154	2774079	407	Quantity	Number	N/A	N/A	N/A	62	3	0.800		False
+155	2774079	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	136	8	0.902	0.004	False
+156	2774079	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	148	9	0.965	0.175	False
+157	2774079	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	291	15	0.899	0.175	False
+158	2774079	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	755	9	0.895	0.175	False
+159	2774079	Franz    Josef Fjord	Person	N/A	N/A	N/A	N/A	190	20	0.851		False
+160	2774079	Franz Boas	Person	N/A	Franz Boas	en	https://en.wikipedia.org/wiki/Franz_Boas	190	5	0.800	0.107	False
+161	2774079	Atlantic Ocean	Location	N/A	Atlantic Ocean	en	https://en.wikipedia.org/wiki/Atlantic_Ocean	388	12	0.800	0.390	False
+162	2774079	Atlantic Ocean	Location	N/A	Atlantic Ocean	en	https://en.wikipedia.org/wiki/Atlantic_Ocean	1009	8	0.636	0.390	False
+163	2774079	Atlantic Ocean	Location	N/A	Atlantic Ocean	en	https://en.wikipedia.org/wiki/Atlantic_Ocean	1445	12	0.800	0.390	False
+164	2774079	previously	DateTime	N/A	N/A	N/A	N/A	410	10	0.800		False
+165	2774079	Biological Survey	Organization	N/A	N/A	N/A	N/A	463	17	0.668		False
+166	2774079	1936	DateTime	DateRange	N/A	N/A	N/A	490	4	0.800		False
+167	2774079	167	Quantity	Number	N/A	N/A	N/A	505	3	0.800		False
+168	2774079	13	Quantity	Number	N/A	N/A	N/A	553	2	0.800		False
+169	2774079	one	Quantity	Number	N/A	N/A	N/A	611	3	0.800		False
+170	2774079	64	Quantity	Number	N/A	N/A	N/A	777	2	0.800		False
+171	2774079	67	Quantity	Number	N/A	N/A	N/A	783	2	0.800		False
+172	2774079	N. Lat	Person	N/A	N/A	N/A	N/A	789	6	0.996		False
+173	2774079	39	Quantity	Number	N/A	N/A	N/A	801	2	0.800		False
+174	2774079	W. Long	Person	N/A	N/A	N/A	N/A	804	7	0.956		False
+175	2774079	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	871	4	0.800	0.134	False
+176	2774079	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	1854	4	0.800	0.134	False
+177	2774079	Polychaete	Other	N/A	Polychaete	en	https://en.wikipedia.org/wiki/Polychaete	896	5	0.800	0.183	False
+178	2774079	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	967	4	0.800	0.036	False
+179	2774079	1	Quantity	Number	N/A	N/A	N/A	998	1	0.800		False
+180	2774079	1	Quantity	Number	N/A	N/A	N/A	1048	1	0.800		False
+181	2774079	1	Quantity	Number	N/A	N/A	N/A	1144	1	0.800		False
+182	2774079	1	Quantity	Number	N/A	N/A	N/A	1252	1	0.800		False
+183	2774079	1	Quantity	Number	N/A	N/A	N/A	1902	1	0.800		False
+184	2774079	12	Quantity	Number	N/A	N/A	N/A	1006	2	0.800		False
+185	2774079	12	Quantity	Number	N/A	N/A	N/A	1662	2	0.800		False
+186	2774079	Fulmar	Other	N/A	Fulmar	en	https://en.wikipedia.org/wiki/Fulmar	1018	7	0.800	0.152	False
+187	2774079	Fulmar	Other	N/A	Fulmar	en	https://en.wikipedia.org/wiki/Fulmar	1458	6	0.800	0.152	False
+188	2774079	8	Quantity	Number	N/A	N/A	N/A	1046	1	0.800		False
+189	2774079	8	Quantity	Number	N/A	N/A	N/A	1137	1	0.800		False
+190	2774079	Cassette tape	Other	N/A	Cassette tape	en	https://en.wikipedia.org/wiki/Cassette_tape	1067	2	0.800	0.051	False
+191	2774079	Spiny river snail	Other	N/A	Spiny river snail	en	https://en.wikipedia.org/wiki/Spiny_river_snail	1070	7	0.800	0.063	False
+192	2774079	O E U W O	Organization	N/A	N/A	N/A	N/A	1076	9	0.993		False
+193	2774079	Walkover	Other	N/A	Walkover	en	https://en.wikipedia.org/wiki/Walkover	1082	3	0.800	0.005	False
+194	2774079	15	Quantity	Number	N/A	N/A	N/A	1092	2	0.800		False
+195	2774079	90f	Quantity	Temperature	N/A	N/A	N/A	1099	3	0.800		False
+196	2774079	65f	Quantity	Temperature	N/A	N/A	N/A	1114	3	0.800		False
+197	2774079	2	Quantity	Number	N/A	N/A	N/A	1159	1	0.800		False
+198	2774079	21	Quantity	Number	N/A	N/A	N/A	1164	2	0.800		False
+199	2774079	17	Quantity	Number	N/A	N/A	N/A	1170	2	0.800		False
+200	2774079	17     percent	Quantity	Percentage	N/A	N/A	N/A	1176	14	0.800		False
+201	2774079	93.75	Quantity	Number	N/A	N/A	N/A	1194	5	0.800		False
+202	2774079	21.67	Quantity	Number	N/A	N/A	N/A	1204	5	0.800		False
+203	2774079	5.08	Quantity	Number	N/A	N/A	N/A	1210	4	0.800		False
+204	2774079	17.17	Quantity	Number	N/A	N/A	N/A	1215	5	0.800		False
+205	2774079	0.92	Quantity	Number	N/A	N/A	N/A	1221	4	0.800		False
+206	2774079	20.00	Quantity	Number	N/A	N/A	N/A	1226	5	0.800		False
+207	2774079	28.41	Quantity	Number	N/A	N/A	N/A	1232	5	0.800		False
+208	2774079	0.50	Quantity	Number	N/A	N/A	N/A	1238	4	0.800		False
+209	2774079	6.25	Quantity	Number	N/A	N/A	N/A	1243	4	0.800		False
+210	2774079	Gravel	Organization	N/A	Gravel	en	https://en.wikipedia.org/wiki/Gravel	1254	6	0.564	0.113	False
+211	2774079	cent	Quantity	Currency	N/A	N/A	N/A	1282	4	0.800		False
+212	2774079	Brunner-Winkle Bird	Other	N/A	Brunner-Winkle Bird	en	https://en.wikipedia.org/wiki/Brunner-Winkle_Bird	1371	7	0.800	0.620	False
+213	2774079	Mammal	Organization	N/A	Mammal	en	https://en.wikipedia.org/wiki/Mammal	1379	6	0.946	0.587	False
+214	2774079	Sand dollar	Other	N/A	Sand dollar	en	https://en.wikipedia.org/wiki/Sand_dollar	1389	11	0.800	0.787	False
+215	2774079	John Lennon	Person	N/A	John Lennon	en	https://en.wikipedia.org/wiki/John_Lennon	1406	2	0.800	0.067	False
+216	2774079	Atlantic Fulmar	Location	N/A	N/A	N/A	N/A	1449	15	0.836		False
+217	2774079	28.41 per cent	Quantity	Percentage	N/A	N/A	N/A	1584	14	0.800		False
+218	2774079	seven	Quantity	Number	N/A	N/A	N/A	1649	5	0.800		False
+219	2774079	Little tern	Other	N/A	Little tern	en	https://en.wikipedia.org/wiki/Little_tern	1684	6	0.800	0.154	False
+220	2774079	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	1772	5	0.800	0.359	False
+221	2774079	JJ Bird	Person	N/A	JJ Bird	en	https://en.wikipedia.org/wiki/JJ_Bird	1826	2	0.800	0.229	False
+222	2774079	21.67 per cent	Quantity	Percentage	N/A	N/A	N/A	1876	14	0.800		False
+223	2774079	Laboratory	Other	N/A	Laboratory	en	https://en.wikipedia.org/wiki/Laboratory	1904	10	0.800	0.087	False
+224	2774079	United States	Location	N/A	United States	en	https://en.wikipedia.org/wiki/United_States	1993	17	0.800	0.657	False
+225	2774079	United States Biological Survey	Organization	N/A	N/A	N/A	N/A	1997	31	0.552		False
+226	2774080	Gadidae	Other	N/A	Gadidae	en	https://en.wikipedia.org/wiki/Gadidae	113	6	0.800	0.831	True
+227	2774080	Pollock	Other	N/A	Pollock	en	https://en.wikipedia.org/wiki/Pollock	144	10	0.800	0.833	False
+228	2774080	Urophycis	Other	N/A	Urophycis	en	https://en.wikipedia.org/wiki/Urophycis	171	9	0.800	0.780	True
+229	2774080	one	Quantity	Number	N/A	N/A	N/A	255	3	0.800		False
+230	2774080	one	Quantity	Number	N/A	N/A	N/A	914	3	0.800		False
+231	2774080	one	Quantity	Number	N/A	N/A	N/A	1171	3	0.800		False
+232	2774080	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	289	4	0.800	0.165	False
+233	2774080	twelve	Quantity	Number	N/A	N/A	N/A	342	6	0.800		False
+234	2774080	Polychaete	Other	N/A	Polychaete	en	https://en.wikipedia.org/wiki/Polychaete	360	16	0.800	0.886	False
+235	2774080	one-fifth	Quantity	Number	N/A	N/A	N/A	409	9	0.800		False
+236	2774080	10	Quantity	Number	N/A	N/A	N/A	509	2	0.800		False
+237	2774080	12	Quantity	Number	N/A	N/A	N/A	519	2	0.800		False
+238	2774080	12	Quantity	Number	N/A	N/A	N/A	1230	2	0.800		False
+239	2774080	60 per cent	Quantity	Percentage	N/A	N/A	N/A	548	11	0.800		False
+240	2774080	two	Quantity	Number	N/A	N/A	N/A	578	3	0.800		False
+241	2774080	two	Quantity	Number	N/A	N/A	N/A	2330	3	0.800		False
+242	2774080	91	Quantity	Number	N/A	N/A	N/A	605	2	0.800		False
+243	2774080	Cephalopod	Other	N/A	Cephalopod	en	https://en.wikipedia.org/wiki/Cephalopod	699	11	0.800	0.908	True
+244	2774080	next	Quantity	Ordinal	N/A	N/A	N/A	736	4	0.800		False
+245	2774080	nine	Quantity	Number	N/A	N/A	N/A	804	4	0.800		False
+246	2774080	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	816	5	0.800	0.297	False
+247	2774080	17.17 per cent	Quantity	Percentage	N/A	N/A	N/A	839	14	0.800		False
+248	2774080	one-half	Quantity	Number	N/A	N/A	N/A	890	8	0.800		False
+249	2774080	10 s	DateTime	DateRange	N/A	N/A	N/A	942	4	0.800		False
+250	2774080	Fossil	Other	N/A	Fossil	en	https://en.wikipedia.org/wiki/Fossil	969	9	0.800	0.015	False
+251	2774080	three	Quantity	Number	N/A	N/A	N/A	1024	5	0.800		False
+252	2774080	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	1075	11	0.800	0.554	False
+253	2774080	Cumacea	Other	N/A	Cumacea	en	https://en.wikipedia.org/wiki/Cumacea	1143	9	0.800	0.845	True
+254	2774080	eight	Quantity	Number	N/A	N/A	N/A	1217	5	0.800		False
+255	2774080	5.08 per cent	Quantity	Percentage	N/A	N/A	N/A	1286	13	0.800		False
+256	2774080	One	Quantity	Number	N/A	N/A	N/A	1330	3	0.800		False
+257	2774080	One	Quantity	Number	N/A	N/A	N/A	1857	3	0.800		False
+258	2774080	a third	Quantity	Number	N/A	N/A	N/A	1369	7	0.800		False
+259	2774080	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	1569	4	0.800	0.019	False
+260	2774080	6 per cent	Quantity	Percentage	N/A	N/A	N/A	1899	10	0.800		False
+261	2774080	dollar	Quantity	Currency	N/A	N/A	N/A	1935	6	0.800		False
+262	2774080	Vegetable	Other	N/A	Vegetable	en	https://en.wikipedia.org/wiki/Vegetable	1947	9	0.800	0.223	False
+263	2774080	Ascophyllum	Other	N/A	Ascophyllum	en	https://en.wikipedia.org/wiki/Ascophyllum	2104	19	0.800	0.837	True
+264	2774080	Polygonum	Other	N/A	Polygonum	en	https://en.wikipedia.org/wiki/Polygonum	2137	9	0.800	0.779	True
+265	2774080	Potentilla	Other	N/A	Potentilla	en	https://en.wikipedia.org/wiki/Potentilla	2178	10	0.800	0.873	True
+266	2774080	Wilson's storm petrel	Other	N/A	Wilson's storm petrel	en	https://en.wikipedia.org/wiki/Wilson's_storm_petrel	2369	19	0.800	0.878	False
+267	2774080	Wilson's storm petrel	Other	N/A	Wilson's storm petrel	en	https://en.wikipedia.org/wiki/Wilson's_storm_petrel	2397	15	0.800	0.878	False
+268	2774080	Wilson's storm petrel	Other	N/A	Wilson's storm petrel	en	https://en.wikipedia.org/wiki/Wilson's_storm_petrel	2418	8	0.800	0.878	False
+269	2774080	Heinrich Kuhl	Person	N/A	Heinrich Kuhl	en	https://en.wikipedia.org/wiki/Heinrich_Kuhl	2390	4	0.800	0.136	False
+270	2774080	Petrel	Other	N/A	Petrel	en	https://en.wikipedia.org/wiki/Petrel	2427	7	0.800	0.826	False
+271	2774080	first	Quantity	Ordinal	N/A	N/A	N/A	2440	5	0.800		False
+272	2774080	Long Island Sound	Location	N/A	Long Island Sound	en	https://en.wikipedia.org/wiki/Long_Island_Sound	2458	17	0.655	0.504	False
+273	2774080	June 24	DateTime	Date	June 24	en	https://en.wikipedia.org/wiki/June_24	2482	7	0.800	0.051	False
+274	2774080	Bay of Fundy	Location	N/A	Bay of Fundy	en	https://en.wikipedia.org/wiki/Bay_of_Fundy	2527	12	0.817	0.794	False
+275	2774080	June 26	DateTime	Date	June 26	en	https://en.wikipedia.org/wiki/June_26	2546	7	0.800	0.086	False
+276	2774080	Water pollution	Other	N/A	Water pollution	en	https://en.wikipedia.org/wiki/Water_pollution	2570	5	0.800	0.001	False
+277	2774081	Labrador	Location	N/A	Labrador	en	https://en.wikipedia.org/wiki/Labrador	200	14	0.800	0.768	False
+278	2774081	Indian    Harbor	Location	N/A	N/A	N/A	N/A	243	16	0.837		False
+279	2774081	Harbor	Other	N/A	Harbor	en	https://en.wikipedia.org/wiki/Harbor	253	6	0.800	0.144	False
+280	2774081	July 12	DateTime	Date	July 12	en	https://en.wikipedia.org/wiki/July_12	263	7	0.800	0.257	False
+281	2774081	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	298	12	0.994	0.097	False
+282	2774081	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	648	12	0.719	0.097	False
+283	2774081	August 12	DateTime	Date	August 12	en	https://en.wikipedia.org/wiki/August_12	317	9	0.800	0.184	False
+284	2774081	a hundred    miles	Quantity	Dimension	N/A	N/A	N/A	367	18	0.800		False
+285	2774081	Geography of Mauritius	Person	N/A	Geography of Mauritius	en	https://en.wikipedia.org/wiki/Geography_of_Mauritius	457	5	0.873	0.024	False
+286	2774081	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	472	8	0.800	0.349	False
+287	2774081	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	790	8	0.800	0.349	False
+288	2774081	Cape Race	Location	N/A	Cape Race	en	https://en.wikipedia.org/wiki/Cape_Race	520	23	0.800	0.782	False
+289	2774081	a    dozen	Quantity	Number	N/A	N/A	N/A	551	10	0.800		False
+290	2774081	Conception Bay	Location	N/A	Conception Bay	en	https://en.wikipedia.org/wiki/Conception_Bay	632	14	0.990	0.369	False
+291	2774081	Funk Islands	Organization	N/A	N/A	N/A	N/A	674	12	0.673		False
+292	2774081	Island	Other	N/A	Island	en	https://en.wikipedia.org/wiki/Island	679	7	0.800	0.273	False
+293	2774081	Great cormorant	Other	N/A	Great cormorant	en	https://en.wikipedia.org/wiki/Great_cormorant	763	19	0.800	0.834	False
+294	2774081	EUROPEAN CORMORANT	Organization	N/A	N/A	N/A	N/A	801	18	0.929		False
+295	2774081	Cormorant	Other	N/A	Cormorant	en	https://en.wikipedia.org/wiki/Cormorant	810	9	0.800	0.061	False
+296	2774081	June 28	Other	N/A	June 28	en	https://en.wikipedia.org/wiki/June_28	892	7	0.800	0.153	False
+297	2774081	June 28, 1931	DateTime	Date	N/A	N/A	N/A	892	13	0.800		False
+298	2774081	Sea captain	Other	N/A	Sea captain	en	https://en.wikipedia.org/wiki/Sea_captain	910	5	0.800	0.189	False
+299	2774081	Robert Bartlett (explorer)	Person	N/A	Robert Bartlett (explorer)	en	https://en.wikipedia.org/wiki/Robert_Bartlett_(explorer)	916	8	0.893	0.110	False
+300	2774081	Robert Bartlett (explorer)	Person	N/A	Robert Bartlett (explorer)	en	https://en.wikipedia.org/wiki/Robert_Bartlett_(explorer)	2177	8	0.800	0.110	False
+301	2774081	Iceland	Location	N/A	Iceland	en	https://en.wikipedia.org/wiki/Iceland	955	7	0.576	0.383	False
+302	2774081	a previous	Quantity	Number	N/A	N/A	N/A	967	10	0.800		False
+303	2774081	a previous	Quantity	Number	N/A	N/A	N/A	2166	10	0.800		False
+304	2774081	Fishing	Other	N/A	Fishing	en	https://en.wikipedia.org/wiki/Fishing	1078	4	0.800	0.008	False
+305	2774081	Ninety-six    per cent	Quantity	Percentage	N/A	N/A	N/A	1084	22	0.800		False
+306	2774081	six	Quantity	Number	N/A	N/A	N/A	1132	3	0.800		False
+307	2774081	Myoxocephalus	Other	N/A	Myoxocephalus	en	https://en.wikipedia.org/wiki/Myoxocephalus	1169	13	0.800	0.785	True
+308	2774081	Great spider crab	Other	N/A	Great spider crab	en	https://en.wikipedia.org/wiki/Great_spider_crab	1213	12	0.800	0.828	False
+309	2774081	4 per cent	Quantity	Percentage	N/A	N/A	N/A	1252	10	0.800		False
+310	2774081	Worm	Other	N/A	Worm	en	https://en.wikipedia.org/wiki/Worm	1299	4	0.800	0.349	False
+311	2774081	two	Quantity	Number	N/A	N/A	N/A	1308	3	0.800		False
+312	2774081	Thais (gastropod)	Other	N/A	Thais (gastropod)	en	https://en.wikipedia.org/wiki/Thais_(gastropod)	1326	5	0.800	0.023	False
+313	2774081	one	Quantity	Number	N/A	N/A	N/A	1342	3	0.800		False
+314	2774081	one	Quantity	Number	N/A	N/A	N/A	2149	3	0.800		False
+315	2774081	Acmaea	Other	N/A	Acmaea	en	https://en.wikipedia.org/wiki/Acmaea	1354	6	0.800	0.693	True
+316	2774081	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	1456	4	0.800	0.326	False
+317	2774081	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	1716	4	0.800	0.326	False
+318	2774081	Tundra swan	Organization	N/A	Tundra swan	en	https://en.wikipedia.org/wiki/Tundra_swan	1466	18	0.800	0.821	False
+319	2774081	Tundra swan	Organization	N/A	Tundra swan	en	https://en.wikipedia.org/wiki/Tundra_swan	1492	14	0.800	0.821	False
+320	2774081	Tundra swan	Organization	N/A	Tundra swan	en	https://en.wikipedia.org/wiki/Tundra_swan	1553	14	0.664	0.821	False
+321	2774081	Tasiilaq	Location	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	1574	11	0.800	0.838	False
+322	2774081	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	1587	9	0.720	0.299	False
+323	2774081	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	1731	9	0.588	0.299	False
+324	2774081	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	1867	9	0.988	0.299	False
+325	2774081	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2203	15	0.800	0.299	False
+326	2774081	four	Quantity	Number	N/A	N/A	N/A	1629	4	0.800		False
+327	2774081	May, 1935	DateTime	DateRange	N/A	N/A	N/A	1660	9	0.800		False
+328	2774081	Barnacle goose	Other	N/A	Barnacle goose	en	https://en.wikipedia.org/wiki/Barnacle_goose	1746	16	0.800	0.838	False
+329	2774081	Barnacle goose	Other	N/A	Barnacle goose	en	https://en.wikipedia.org/wiki/Barnacle_goose	1776	14	0.800	0.838	False
+330	2774081	Barnacle goose	Other	N/A	Barnacle goose	en	https://en.wikipedia.org/wiki/Barnacle_goose	1804	14	0.800	0.838	False
+331	2774081	C. Bechstein	Organization	N/A	C. Bechstein	en	https://en.wikipedia.org/wiki/C._Bechstein	1764	9	0.800	0.045	False
+332	2774081	Fifteen	Quantity	Number	N/A	N/A	N/A	1796	7	0.800		False
+333	2774081	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	1836	7	0.800	0.401	False
+334	2774081	Musk-ox Fjord	Organization	N/A	N/A	N/A	N/A	1836	13	0.505		False
+335	2774081	Fjord	Other	N/A	Fjord	en	https://en.wikipedia.org/wiki/Fjord	1844	5	0.800	0.470	False
+336	2774081	Hudson    Land	Organization	N/A	N/A	N/A	N/A	1851	14	0.905		False
+337	2774081	-land	Other	N/A	-land	en	https://en.wikipedia.org/wiki/-land	1861	4	0.800	0.149	False
+338	2774081	Ymer    Island	Location	N/A	N/A	N/A	N/A	1915	14	0.825		False
+339	2774081	Ymer (1976 icebreaker)	Other	N/A	Ymer (1976 icebreaker)	en	https://en.wikipedia.org/wiki/Ymer_(1976_icebreaker)	1915	4	0.800	0.017	False
+340	2774081	miles	Quantity	Dimension	N/A	N/A	N/A	2046	5	0.800		False
+341	2774081	Bartlett Expedition	Person	N/A	N/A	N/A	N/A	2177	19	0.802		False
+342	2774081	Exploration	Other	N/A	Exploration	en	https://en.wikipedia.org/wiki/Exploration	2186	10	0.800	0.102	False
+343	2774081	1936	DateTime	DateRange	N/A	N/A	N/A	2265	4	0.800		False
+344	2774081	167	Quantity	Number	N/A	N/A	N/A	2274	3	0.800		False
+345	2774082	Pink-footed goose	Other	N/A	Pink-footed goose	en	https://en.wikipedia.org/wiki/Pink-footed_goose	57	20	0.800	0.812	False
+346	2774082	Pink-footed goose	Other	N/A	Pink-footed goose	en	https://en.wikipedia.org/wiki/Pink-footed_goose	87	17	0.800	0.812	False
+347	2774082	Pink-footed goose	Other	N/A	Pink-footed goose	en	https://en.wikipedia.org/wiki/Pink-footed_goose	114	17	0.800	0.812	False
+348	2774082	Louis Antoine François Baillon	Person	N/A	Louis Antoine François Baillon	en	https://en.wikipedia.org/wiki/Louis_Antoine_François_Baillon	78	7	0.800	0.045	False
+349	2774082	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	163	9	0.831	0.141	False
+350	2774082	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	358	15	0.800	0.141	False
+351	2774082	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	501	9	0.594	0.141	False
+352	2774082	1932	DateTime	DateRange	N/A	N/A	N/A	189	4	0.800		False
+353	2774082	33	Quantity	Number	N/A	N/A	N/A	199	2	0.800		False
+354	2774082	38	Quantity	Number	N/A	N/A	N/A	202	2	0.800		False
+355	2774082	120	Quantity	Number	N/A	N/A	N/A	206	3	0.800		False
+356	2774082	1936	DateTime	DateRange	N/A	N/A	N/A	254	4	0.800		False
+357	2774082	Musk-ox Fjord, North Greenland	Organization	N/A	N/A	N/A	N/A	343	30	0.567		False
+358	2774082	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	343	7	0.800	0.495	False
+359	2774082	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	2597	7	0.800	0.495	False
+360	2774082	Fjord	Other	N/A	Fjord	en	https://en.wikipedia.org/wiki/Fjord	351	5	0.800	0.404	False
+361	2774082	Fjord	Other	N/A	Fjord	en	https://en.wikipedia.org/wiki/Fjord	2605	5	0.800	0.404	False
+362	2774082	July 31	DateTime	Date	July 31	en	https://en.wikipedia.org/wiki/July_31	378	7	0.800	0.166	False
+363	2774082	previously	DateTime	N/A	N/A	N/A	N/A	411	10	0.800		False
+364	2774082	Sea captain	Other	N/A	Sea captain	en	https://en.wikipedia.org/wiki/Sea_captain	447	7	0.800	0.025	False
+365	2774082	Bartletts Island	Person	N/A	Bartletts Island	en	https://en.wikipedia.org/wiki/Bartletts_Island	458	8	0.892	0.059	False
+366	2774082	Clavering Island	Location	N/A	Clavering Island	en	https://en.wikipedia.org/wiki/Clavering_Island	470	16	0.548	0.841	False
+367	2774082	Clavering Island	Location	N/A	Clavering Island	en	https://en.wikipedia.org/wiki/Clavering_Island	1468	16	0.610	0.841	False
+368	2774082	August 6	Other	N/A	August 6	en	https://en.wikipedia.org/wiki/August_6	515	8	0.800	0.123	False
+369	2774082	August 6,    1931	DateTime	Date	N/A	N/A	N/A	515	17	0.800		False
+370	2774082	Biological Survey	Organization	N/A	N/A	N/A	N/A	652	17	0.538		False
+371	2774082	Hudson Land	Organization	N/A	N/A	N/A	N/A	1053	11	0.919		False
+372	2774082	-land	Other	N/A	-land	en	https://en.wikipedia.org/wiki/-land	1060	4	0.800	0.006	False
+373	2774082	65 per cent	Quantity	Percentage	N/A	N/A	N/A	1083	11	0.800		False
+374	2774082	Dietary fiber	Other	N/A	Dietary fiber	en	https://en.wikipedia.org/wiki/Dietary_fiber	1119	5	0.800	0.053	False
+375	2774082	Dietary fiber	Other	N/A	Dietary fiber	en	https://en.wikipedia.org/wiki/Dietary_fiber	1230	5	0.800	0.053	False
+376	2774082	Dietary fiber	Other	N/A	Dietary fiber	en	https://en.wikipedia.org/wiki/Dietary_fiber	1564	5	0.800	0.053	False
+377	2774082	Dietary fiber	Other	N/A	Dietary fiber	en	https://en.wikipedia.org/wiki/Dietary_fiber	1644	5	0.800	0.053	False
+378	2774082	Poa	Organization	N/A	Poa	en	https://en.wikipedia.org/wiki/Poa	1145	3	0.528	0.317	False
+379	2774082	16 per cent	Quantity	Percentage	N/A	N/A	N/A	1188	11	0.800		False
+380	2774082	Car	Other	N/A	Car	en	https://en.wikipedia.org/wiki/Car	1213	3	0.800	0.199	True
+381	2774082	Seed	Other	N/A	Seed	en	https://en.wikipedia.org/wiki/Seed	1240	5	0.800	0.343	False
+382	2774082	Seed	Other	N/A	Seed	en	https://en.wikipedia.org/wiki/Seed	1574	5	0.800	0.343	False
+383	2774082	Fossil	Other	N/A	Fossil	en	https://en.wikipedia.org/wiki/Fossil	1250	9	0.800	0.012	False
+384	2774082	Persicaria vivipara	Other	N/A	Persicaria vivipara	en	https://en.wikipedia.org/wiki/Persicaria_vivipara	1339	19	0.800	0.763	True
+385	2774082	4 per cent	Quantity	Percentage	N/A	N/A	N/A	1370	10	0.800		False
+386	2774082	three	Quantity	Number	N/A	N/A	N/A	1382	5	0.800		False
+387	2774082	5 per cent	Quantity	Percentage	N/A	N/A	N/A	1407	10	0.800		False
+388	2774082	5 per cent	Quantity	Percentage	N/A	N/A	N/A	1675	10	0.800		False
+389	2774082	10 per cent	Quantity	Percentage	N/A	N/A	N/A	1448	11	0.800		False
+390	2774082	93	Quantity	Number	N/A	N/A	N/A	1519	2	0.800		False
+391	2774082	cent	Quantity	Currency	N/A	N/A	N/A	1529	4	0.800		False
+392	2774082	Carex	Other	N/A	Carex	en	https://en.wikipedia.org/wiki/Carex	1548	5	0.800	0.826	True
+393	2774082	Polygonum	Other	N/A	Polygonum	en	https://en.wikipedia.org/wiki/Polygonum	1581	9	0.800	0.796	True
+394	2774082	2 per cent	Quantity	Percentage	N/A	N/A	N/A	1613	10	0.800		False
+395	2774082	Christiaan Both (ecologist)	Person	N/A	Christiaan Both (ecologist)	en	https://en.wikipedia.org/wiki/Christiaan_Both_(ecologist)	1687	4	0.800	0.004	False
+396	2774082	Animal	Other	N/A	Animal	en	https://en.wikipedia.org/wiki/Animal	1722	6	0.800	0.052	False
+397	2774082	one	Quantity	Number	N/A	N/A	N/A	1740	3	0.800		False
+398	2774082	John Cordeaux	Person	N/A	John Cordeaux	en	https://en.wikipedia.org/wiki/John_Cordeaux	1791	13	1.000	0.033	False
+399	2774082	Agrostis	Other	N/A	Agrostis	en	https://en.wikipedia.org/wiki/Agrostis	1806	4	0.800	0.218	True
+400	2774082	1925	DateTime	DateRange	N/A	N/A	N/A	1812	4	0.800		False
+401	2774082	202	Quantity	Number	N/A	N/A	N/A	1821	3	0.800		False
+402	2774082	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	1889	4	0.800	0.144	False
+403	2774082	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	2107	4	0.800	0.144	False
+404	2774082	the day	DateTime	Date	N/A	N/A	N/A	2003	7	0.800		False
+405	2774082	in the evening	DateTime	TimeRange	N/A	N/A	N/A	2016	14	0.800		False
+406	2774082	Maize	Other	N/A	Maize	en	https://en.wikipedia.org/wiki/Maize	2331	4	0.800	0.030	False
+407	2774082	Long-tailed duck	Other	N/A	Long-tailed duck	en	https://en.wikipedia.org/wiki/Long-tailed_duck	2378	17	0.800	0.776	False
+408	2774082	Long-tailed duck	Other	N/A	Long-tailed duck	en	https://en.wikipedia.org/wiki/Long-tailed_duck	2408	9	0.800	0.776	False
+409	2774082	Long-tailed duck	Other	N/A	Long-tailed duck	en	https://en.wikipedia.org/wiki/Long-tailed_duck	2433	9	0.800	0.776	False
+410	2774082	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	2397	8	0.800	0.336	False
+411	2774082	winter	DateTime	DateRange	N/A	N/A	N/A	2518	6	0.800		False
+412	2774083	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	61	4	0.800	0.387	False
+413	2774083	1936	DateTime	DateRange	N/A	N/A	N/A	148	4	0.800		False
+414	2774083	1936	DateTime	DateRange	N/A	N/A	N/A	1029	4	0.800		False
+415	2774083	1936	DateTime	DateRange	N/A	N/A	N/A	1602	4	0.800		False
+416	2774083	six	Quantity	Number	N/A	N/A	N/A	306	3	0.800		False
+417	2774083	Cottidae	Organization	N/A	Cottidae	en	https://en.wikipedia.org/wiki/Cottidae	331	8	0.800	0.852	False
+418	2774083	Cottidae	Organization	N/A	Cottidae	en	https://en.wikipedia.org/wiki/Cottidae	410	8	0.800	0.852	False
+419	2774083	Cottidae	Organization	N/A	Cottidae	en	https://en.wikipedia.org/wiki/Cottidae	1662	8	0.800	0.852	False
+420	2774083	Cottidae	Organization	N/A	Cottidae	en	https://en.wikipedia.org/wiki/Cottidae	2111	8	0.922	0.852	False
+421	2774083	44	Quantity	Number	N/A	N/A	N/A	385	2	0.800		False
+422	2774083	6 per cent	Quantity	Percentage	N/A	N/A	N/A	421	10	0.800		False
+423	2774083	Mysis relicta	Other	N/A	Mysis relicta	en	https://en.wikipedia.org/wiki/Mysis_relicta	462	13	0.800	0.769	True
+424	2774083	83 per cent	Quantity	Percentage	N/A	N/A	N/A	478	11	0.800		False
+425	2774083	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	532	9	0.800	0.888	False
+426	2774083	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	1919	9	0.800	0.888	False
+427	2774083	10 per cent	Quantity	Percentage	N/A	N/A	N/A	543	11	0.800		False
+428	2774083	1 per cent	Quantity	Percentage	N/A	N/A	N/A	591	10	0.800		False
+429	2774083	Feather	Location	N/A	Feather	en	https://en.wikipedia.org/wiki/Feather	606	7	0.447	0.263	False
+430	2774083	Common eider	Organization	N/A	Common eider	en	https://en.wikipedia.org/wiki/Common_eider	670	20	0.800	0.813	False
+431	2774083	Common eider	Organization	N/A	Common eider	en	https://en.wikipedia.org/wiki/Common_eider	713	5	0.673	0.813	False
+432	2774083	1	Quantity	Number	N/A	N/A	N/A	698	1	0.800		False
+433	2774083	1	Quantity	Number	N/A	N/A	N/A	2433	1	0.800		False
+434	2774083	NORTHERN	Location	N/A	N/A	N/A	N/A	700	8	0.446		False
+435	2774083	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	973	9	0.513	0.263	False
+436	2774083	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2266	9	0.800	0.263	False
+437	2774083	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2535	9	0.899	0.263	False
+438	2774083	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2623	9	0.964	0.263	False
+439	2774083	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2651	9	0.942	0.263	False
+440	2774083	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2797	9	0.800	0.263	False
+441	2774083	five	Quantity	Number	N/A	N/A	N/A	1071	4	0.800		False
+442	2774083	Liverpool	Location	N/A	Liverpool	en	https://en.wikipedia.org/wiki/Liverpool	1092	9	0.873	0.149	False
+443	2774083	previously	DateTime	N/A	N/A	N/A	N/A	1242	10	0.800		False
+444	2774083	Northern Canada	Location	N/A	Northern Canada	en	https://en.wikipedia.org/wiki/Northern_Canada	1266	9	0.800	0.073	False
+445	2774083	North-    ern Eider	Location	N/A	N/A	N/A	N/A	1270	19	0.659		False
+446	2774083	ern	Quantity	Currency	N/A	N/A	N/A	1280	3	0.800		False
+447	2774083	Anatidae	Other	N/A	Anatidae	en	https://en.wikipedia.org/wiki/Anatidae	1348	8	0.800	0.827	True
+448	2774083	Mergini	Organization	N/A	Mergini	en	https://en.wikipedia.org/wiki/Mergini	1369	8	0.971	0.785	False
+449	2774083	North Fjord	Location	N/A	N/A	N/A	N/A	1458	11	0.547		False
+450	2774083	Fjord	Other	N/A	Fjord	en	https://en.wikipedia.org/wiki/Fjord	1464	5	0.800	0.418	False
+451	2774083	-land	Other	N/A	-land	en	https://en.wikipedia.org/wiki/-land	1481	4	0.800	0.025	False
+452	2774083	August 1 (film)	DateTime	Date	August 1 (film)	en	https://en.wikipedia.org/wiki/August_1_(film)	1490	8	0.800	0.014	False
+453	2774083	previous	Quantity	Ordinal	N/A	N/A	N/A	1563	8	0.800		False
+454	2774083	Bartletts Island	Person	N/A	Bartletts Island	en	https://en.wikipedia.org/wiki/Bartletts_Island	1572	8	0.996	0.050	False
+455	2774083	168	Quantity	Number	N/A	N/A	N/A	1611	3	0.800		False
+456	2774083	17	Quantity	Number	N/A	N/A	N/A	1649	2	0.800		False
+457	2774083	Myoxocephalus	Other	N/A	Myoxocephalus	en	https://en.wikipedia.org/wiki/Myoxocephalus	1683	13	0.800	0.818	True
+458	2774083	74 per cent	Quantity	Percentage	N/A	N/A	N/A	1720	11	0.800		False
+459	2774083	Astarte borealis	Other	N/A	Astarte borealis	en	https://en.wikipedia.org/wiki/Astarte_borealis	1770	7	0.800	0.013	True
+460	2774083	next	Quantity	Ordinal	N/A	N/A	N/A	1787	4	0.800		False
+461	2774083	23 per cent	Quantity	Percentage	N/A	N/A	N/A	1824	11	0.800		False
+462	2774083	Fragment of a Novel	Other	N/A	Fragment of a Novel	en	https://en.wikipedia.org/wiki/Fragment_of_a_Novel	1837	10	0.800	0.550	False
+463	2774083	Soft-bodied organism	Other	N/A	Soft-bodied organism	en	https://en.wikipedia.org/wiki/Soft-bodied_organism	1907	11	0.800	0.108	False
+464	2774083	3 per cent	Quantity	Percentage	N/A	N/A	N/A	2002	10	0.800		False
+465	2774083	3 per cent	Quantity	Percentage	N/A	N/A	N/A	2205	10	0.800		False
+466	2774083	The	Other	N/A	The	en	https://en.wikipedia.org/wiki/The	2014	3	0.800	0.222	False
+467	2774083	92 per cent	Quantity	Percentage	N/A	N/A	N/A	2042	11	0.800		False
+468	2774083	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	2069	4	0.800	0.193	False
+469	2774083	Fossil	Other	N/A	Fossil	en	https://en.wikipedia.org/wiki/Fossil	2121	9	0.800	0.080	False
+470	2774083	Fucus	Other	N/A	Fucus	en	https://en.wikipedia.org/wiki/Fucus	2134	5	0.800	0.769	True
+471	2774083	Dietary fiber	Other	N/A	Dietary fiber	en	https://en.wikipedia.org/wiki/Dietary_fiber	2170	5	0.800	0.024	False
+472	2774083	5	Quantity	Number	N/A	N/A	N/A	2199	1	0.800		False
+473	2774083	Rock ptarmigan	Other	N/A	Rock ptarmigan	en	https://en.wikipedia.org/wiki/Rock_ptarmigan	2235	13	0.800	0.847	False
+474	2774083	Rock ptarmigan	Other	N/A	Rock ptarmigan	en	https://en.wikipedia.org/wiki/Rock_ptarmigan	2276	14	0.800	0.847	False
+475	2774083	Rock ptarmigan	Other	N/A	Rock ptarmigan	en	https://en.wikipedia.org/wiki/Rock_ptarmigan	2807	14	0.800	0.847	False
+476	2774083	2	Quantity	Number	N/A	N/A	N/A	2256	1	0.800		False
+477	2774083	2	Quantity	Number	N/A	N/A	N/A	2751	1	0.800		False
+478	2774083	Wilhelm Peters	Person	N/A	Wilhelm Peters	en	https://en.wikipedia.org/wiki/Wilhelm_Peters	2258	6	0.953	0.164	False
+479	2774083	Wilhelm Peters	Person	N/A	Wilhelm Peters	en	https://en.wikipedia.org/wiki/Wilhelm_Peters	2571	6	0.998	0.164	False
+480	2774083	Wilhelm Peters	Person	N/A	Wilhelm Peters	en	https://en.wikipedia.org/wiki/Wilhelm_Peters	2829	6	0.976	0.164	False
+481	2774083	GREENLAND ROCK PTARMIGAN	Location	N/A	N/A	N/A	N/A	2266	24	0.687		False
+482	2774083	seven	Quantity	Number	N/A	N/A	N/A	2334	5	0.800		False
+483	2774083	two	Quantity	Number	N/A	N/A	N/A	2353	3	0.800		False
+484	2774083	One	Quantity	Number	N/A	N/A	N/A	2425	3	0.800		False
+485	2774083	The A.	Organization	N/A	N/A	N/A	N/A	2435	6	0.974		False
+486	2774083	Division by zero	Other	N/A	Division by zero	en	https://en.wikipedia.org/wiki/Division_by_zero	2439	5	0.800	0.006	False
+487	2774083	U. Checklist	Person	N/A	N/A	N/A	N/A	2445	12	0.797		False
+488	2774083	North America	Location	N/A	North America	en	https://en.wikipedia.org/wiki/North_America	2496	13	1.000	0.019	False
+489	2774083	1931	DateTime	DateRange	N/A	N/A	N/A	2579	4	0.800		False
+490	2774083	179	Quantity	Number	N/A	N/A	N/A	2588	3	0.800		False
+491	2774083	Greenland Rock Ptarmigan	Organization	N/A	N/A	N/A	N/A	2797	24	0.616		False
+492	2774083	1934	DateTime	DateRange	N/A	N/A	N/A	2837	4	0.800		False
+493	2774083	35	Quantity	Number	N/A	N/A	N/A	2846	2	0.800		False
+494	2774083	Finn Salomonsen	Person	N/A	Finn Salomonsen	en	https://en.wikipedia.org/wiki/Finn_Salomonsen	2854	10	0.800	0.214	False
+495	2774083	1926	DateTime	DateRange	N/A	N/A	N/A	2866	4	0.800		False
+496	2774083	33	Quantity	Number	N/A	N/A	N/A	2875	2	0.800		False
+497	2774084	Rock ptarmigan	Other	N/A	Rock ptarmigan	en	https://en.wikipedia.org/wiki/Rock_ptarmigan	57	13	0.800	0.826	False
+498	2774084	Rock ptarmigan	Other	N/A	Rock ptarmigan	en	https://en.wikipedia.org/wiki/Rock_ptarmigan	550	13	0.800	0.826	False
+499	2774084	Rock ptarmigan	Other	N/A	Rock ptarmigan	en	https://en.wikipedia.org/wiki/Rock_ptarmigan	603	9	0.800	0.826	False
+500	2774084	Ymer Island	Location	N/A	Ymer Island	en	https://en.wikipedia.org/wiki/Ymer_Island	95	11	0.663	0.750	False
+501	2774084	88 per cent	Quantity	Percentage	N/A	N/A	N/A	127	11	0.800		False
+502	2774084	Willow	Organization	N/A	Willow	en	https://en.wikipedia.org/wiki/Willow	174	5	0.970	0.562	False
+503	2774084	12 per cent	Quantity	Percentage	N/A	N/A	N/A	184	11	0.800		False
+504	2774084	Carex	Other	N/A	Carex	en	https://en.wikipedia.org/wiki/Carex	202	5	0.800	0.851	True
+505	2774084	Carex	Other	N/A	Carex	en	https://en.wikipedia.org/wiki/Carex	948	5	0.800	0.851	True
+506	2774084	Fruit	Other	N/A	Fruit	en	https://en.wikipedia.org/wiki/Fruit	313	6	0.800	0.494	False
+507	2774084	two	Quantity	Number	N/A	N/A	N/A	494	3	0.800		False
+508	2774084	two	Quantity	Number	N/A	N/A	N/A	1177	3	0.800		False
+509	2774084	three	Quantity	Number	N/A	N/A	N/A	510	5	0.800		False
+510	2774084	Johann Friedrich Gmelin	Person	N/A	Johann Friedrich Gmelin	en	https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin	575	6	0.800	0.237	False
+511	2774084	Hudson Bay	Location	N/A	Hudson Bay	en	https://en.wikipedia.org/wiki/Hudson_Bay	584	10	0.800	0.125	False
+512	2774084	HUDSON BAY ROCK    PTARMIGAN	Location	N/A	N/A	N/A	N/A	584	28	0.873		False
+513	2774084	Rock music	Other	N/A	Rock music	en	https://en.wikipedia.org/wiki/Rock_music	595	4	0.800	0.052	False
+514	2774084	six	Quantity	Number	N/A	N/A	N/A	622	3	0.800		False
+515	2774084	six	Quantity	Number	N/A	N/A	N/A	780	3	0.800		False
+516	2774084	Tasiilaq	Other	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	641	11	0.910	0.694	False
+517	2774084	Tasiilaq	Other	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	1250	11	0.800	0.694	False
+518	2774084	Tasiilaq	Other	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	1386	11	0.800	0.694	False
+519	2774084	Empetrum nigrum	Other	N/A	Empetrum nigrum	en	https://en.wikipedia.org/wiki/Empetrum_nigrum	701	15	0.800	0.870	True
+520	2774084	Empetrum nigrum	Other	N/A	Empetrum nigrum	en	https://en.wikipedia.org/wiki/Empetrum_nigrum	821	15	0.800	0.870	True
+521	2774084	81.5 per cent	Quantity	Percentage	N/A	N/A	N/A	838	13	0.800		False
+522	2774084	Persicaria vivipara	Other	N/A	Persicaria vivipara	en	https://en.wikipedia.org/wiki/Persicaria_vivipara	889	19	0.800	0.790	True
+523	2774084	Persicaria vivipara	Other	N/A	Persicaria vivipara	en	https://en.wikipedia.org/wiki/Persicaria_vivipara	1337	19	0.800	0.790	True
+524	2774084	18 per cent	Quantity	Percentage	N/A	N/A	N/A	910	11	0.800		False
+525	2774084	Seed	Other	N/A	Seed	en	https://en.wikipedia.org/wiki/Seed	923	5	0.800	0.296	False
+526	2774084	Fiber	Other	N/A	Fiber	en	https://en.wikipedia.org/wiki/Fiber	939	5	0.800	0.006	True
+527	2774084	17 per cent	Quantity	Percentage	N/A	N/A	N/A	962	11	0.800		False
+528	2774084	Vaccinium vitis-idaea	Other	N/A	Vaccinium vitis-idaea	en	https://en.wikipedia.org/wiki/Vaccinium_vitis-idaea	991	21	0.800	0.834	True
+529	2774084	33 per cent	Quantity	Percentage	N/A	N/A	N/A	1014	11	0.800		False
+530	2774084	Pedicularis	Other	N/A	Pedicularis	en	https://en.wikipedia.org/wiki/Pedicularis	1039	11	0.800	0.750	True
+531	2774084	One	Quantity	Number	N/A	N/A	N/A	1105	3	0.800		False
+532	2774084	One	Quantity	Number	N/A	N/A	N/A	1236	3	0.800		False
+533	2774084	1,300	Quantity	Number	N/A	N/A	N/A	1137	5	0.800		False
+534	2774084	1,000	Quantity	Number	N/A	N/A	N/A	1213	5	0.800		False
+535	2774084	500	Quantity	Number	N/A	N/A	N/A	1296	3	0.800		False
+536	2774084	August 11	DateTime	Date	August 11	en	https://en.wikipedia.org/wiki/August_11	1409	9	0.800	0.195	False
+537	2774084	Hanson Formation	Person	N/A	Hanson Formation	en	https://en.wikipedia.org/wiki/Hanson_Formation	1423	6	0.921	0.022	False
+538	2774084	25	Quantity	Number	N/A	N/A	N/A	1452	2	0.800		False
+539	2774084	Previous	Quantity	Ordinal	N/A	N/A	N/A	1488	8	0.800		False
+540	2774084	summer	DateTime	DateRange	N/A	N/A	N/A	1655	6	0.800		False
+541	2774084	eight	Quantity	Number	N/A	N/A	N/A	1767	5	0.800		False
+542	2774084	one	Quantity	Number	N/A	N/A	N/A	1794	3	0.800		False
+543	2774084	Common ringed plover	Other	N/A	Common ringed plover	en	https://en.wikipedia.org/wiki/Common_ringed_plover	1816	20	0.800	0.810	False
+544	2774084	Common ringed plover	Other	N/A	Common ringed plover	en	https://en.wikipedia.org/wiki/Common_ringed_plover	1876	13	0.800	0.810	False
+545	2774084	Finn Salomonsen	Person	N/A	Finn Salomonsen	en	https://en.wikipedia.org/wiki/Finn_Salomonsen	1849	10	0.818	0.118	False
+546	2774084	1	Quantity	Number	N/A	N/A	N/A	1861	1	0.800		False
+547	2774084	1	Quantity	Number	N/A	N/A	N/A	2424	1	0.800		False
+548	2774084	Greenland	Organization	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	1863	9	0.691	0.197	False
+549	2774084	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	1937	4	0.800	0.429	False
+550	2774084	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	2024	4	0.800	0.429	False
+551	2774084	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	1973	7	0.800	0.363	False
+552	2774084	Musk-ox Fjord	Organization	N/A	N/A	N/A	N/A	1973	13	0.737		False
+553	2774084	Fjord	Other	N/A	Fjord	en	https://en.wikipedia.org/wiki/Fjord	1981	5	0.800	0.261	False
+554	2774084	Hudson Land	Organization	N/A	N/A	N/A	N/A	1988	11	0.889		False
+555	2774084	Landform	Other	N/A	Landform	en	https://en.wikipedia.org/wiki/Landform	1995	4	0.800	0.032	False
+556	2774084	July 31	DateTime	Date	July 31	en	https://en.wikipedia.org/wiki/July_31	2004	7	0.800	0.225	False
+557	2774084	Five	Quantity	Number	N/A	N/A	N/A	2150	4	0.800		False
+558	2774084	North America	Location	N/A	North America	en	https://en.wikipedia.org/wiki/North_America	2236	8	0.800	0.084	False
+559	2774084	four-fifths	Quantity	Number	N/A	N/A	N/A	2363	11	0.800		False
+560	2774084	82.8 per cent	Quantity	Percentage	N/A	N/A	N/A	2376	13	0.800		False
+561	2774084	Episcopal see	Other	N/A	Episcopal see	en	https://en.wikipedia.org/wiki/Episcopal_see	2426	3	0.800	0.046	False
+562	2774084	Wilhelm Peters	Person	N/A	Wilhelm Peters	en	https://en.wikipedia.org/wiki/Wilhelm_Peters	2430	6	0.975	0.005	False
+563	2774084	1934	DateTime	DateRange	N/A	N/A	N/A	2438	4	0.800		False
+564	2774084	247	Quantity	Number	N/A	N/A	N/A	2447	3	0.800		False
+565	2774085	10.2 per cent	Quantity	Percentage	N/A	N/A	N/A	139	13	0.800		False
+566	2774085	One	Quantity	Number	N/A	N/A	N/A	167	3	0.800		False
+567	2774085	Animal	Other	N/A	Animal	en	https://en.wikipedia.org/wiki/Animal	200	9	0.800	0.246	False
+568	2774085	43 per cent	Quantity	Percentage	N/A	N/A	N/A	227	11	0.800		False
+569	2774085	7 per cent	Quantity	Percentage	N/A	N/A	N/A	269	10	0.800		False
+570	2774085	7 per cent	Quantity	Percentage	N/A	N/A	N/A	1315	10	0.800		False
+571	2774085	7 per cent	Quantity	Percentage	N/A	N/A	N/A	1350	10	0.800		False
+572	2774085	Bee	Other	N/A	Bee	en	https://en.wikipedia.org/wiki/Bee	317	4	0.800	0.297	False
+573	2774085	Insect	Other	N/A	Insect	en	https://en.wikipedia.org/wiki/Insect	378	7	0.800	0.372	False
+574	2774085	Insect	Other	N/A	Insect	en	https://en.wikipedia.org/wiki/Insect	2282	6	0.800	0.372	False
+575	2774085	Semipalmated plover	Other	N/A	Semipalmated plover	en	https://en.wikipedia.org/wiki/Semipalmated_plover	579	23	0.800	0.786	False
+576	2774085	Semipalmated plover	Other	N/A	Semipalmated plover	en	https://en.wikipedia.org/wiki/Semipalmated_plover	614	19	0.800	0.786	False
+577	2774085	Semipalmated plover	Other	N/A	Semipalmated plover	en	https://en.wikipedia.org/wiki/Semipalmated_plover	1031	19	0.800	0.786	False
+578	2774085	Charles Lucien Bonaparte	Location	N/A	Charles Lucien Bonaparte	en	https://en.wikipedia.org/wiki/Charles_Lucien_Bonaparte	603	9	0.763	0.102	False
+579	2774085	one	Quantity	Number	N/A	N/A	N/A	1006	3	0.800		False
+580	2774085	one	Quantity	Number	N/A	N/A	N/A	1775	3	0.800		False
+581	2774085	July 8	DateTime	Date	July 8	en	https://en.wikipedia.org/wiki/July_8	1061	6	0.800	0.115	False
+582	2774085	Greenwich, Connecticut	Location	N/A	Greenwich, Connecticut	en	https://en.wikipedia.org/wiki/Greenwich,_Connecticut	1072	13	0.980	0.586	False
+583	2774085	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	1087	8	0.456	0.078	False
+584	2774085	42	Quantity	Number	N/A	N/A	N/A	1097	2	0.800		False
+585	2774085	Cidaria	Other	N/A	Cidaria	en	https://en.wikipedia.org/wiki/Cidaria	1110	7	0.800	0.811	True
+586	2774085	Geometer moth	Other	N/A	Geometer moth	en	https://en.wikipedia.org/wiki/Geometer_moth	1126	11	0.800	0.862	False
+587	2774085	35 per cent	Quantity	Percentage	N/A	N/A	N/A	1169	11	0.800		False
+588	2774085	1	Quantity	Number	N/A	N/A	N/A	1182	1	0.800		False
+589	2774085	1	Quantity	Number	N/A	N/A	N/A	1220	1	0.800		False
+590	2774085	1	Quantity	Number	N/A	N/A	N/A	1273	1	0.800		False
+591	2774085	Colias	Other	N/A	Colias	en	https://en.wikipedia.org/wiki/Colias	1196	6	0.800	0.804	True
+592	2774085	4 per cent	Quantity	Percentage	N/A	N/A	N/A	1208	10	0.800		False
+593	2774085	Noctuidae	Other	N/A	Noctuidae	en	https://en.wikipedia.org/wiki/Noctuidae	1247	9	0.800	0.894	True
+594	2774085	Noctuidae	Other	N/A	Noctuidae	en	https://en.wikipedia.org/wiki/Noctuidae	2584	9	0.800	0.894	True
+595	2774085	4	Quantity	Number	N/A	N/A	N/A	1258	1	0.800		False
+596	2774085	4	Quantity	Number	N/A	N/A	N/A	1402	1	0.800		False
+597	2774085	cent	Quantity	Currency	N/A	N/A	N/A	1267	4	0.800		False
+598	2774085	cent	Quantity	Currency	N/A	N/A	N/A	1411	4	0.800		False
+599	2774085	cent	Quantity	Currency	N/A	N/A	N/A	1756	4	0.800		False
+600	2774085	cent	Quantity	Currency	N/A	N/A	N/A	1898	4	0.800		False
+601	2774085	cent	Quantity	Currency	N/A	N/A	N/A	2607	4	0.800		False
+602	2774085	5	Quantity	Number	N/A	N/A	N/A	1327	1	0.800		False
+603	2774085	5	Quantity	Number	N/A	N/A	N/A	1889	1	0.800		False
+604	2774085	Cur	Other	N/A	Cur	en	https://en.wikipedia.org/wiki/Cur	1329	3	0.800	0.062	False
+605	2774085	two	Quantity	Number	N/A	N/A	N/A	1375	3	0.800		False
+606	2774085	two	Quantity	Number	N/A	N/A	N/A	1502	3	0.800		False
+607	2774085	two	Quantity	Number	N/A	N/A	N/A	1687	3	0.800		False
+608	2774085	two	Quantity	Number	N/A	N/A	N/A	2504	3	0.800		False
+609	2774085	two	Quantity	Number	N/A	N/A	N/A	2624	3	0.800		False
+610	2774085	7	Quantity	Number	N/A	N/A	N/A	1417	1	0.800		False
+611	2774085	Click beetle	Other	N/A	Click beetle	en	https://en.wikipedia.org/wiki/Click_beetle	1419	10	0.800	0.862	False
+612	2774085	8 per cent	Quantity	Percentage	N/A	N/A	N/A	1431	10	0.800		False
+613	2774085	Beetle	Other	N/A	Beetle	en	https://en.wikipedia.org/wiki/Beetle	1462	10	0.800	0.616	False
+614	2774085	6    per cent	Quantity	Percentage	N/A	N/A	N/A	1474	13	0.800		False
+615	2774085	5 per cent	Quantity	Percentage	N/A	N/A	N/A	1534	10	0.800		False
+616	2774085	seven	Quantity	Number	N/A	N/A	N/A	1562	5	0.800		False
+617	2774085	seven	Quantity	Number	N/A	N/A	N/A	1868	5	0.800		False
+618	2774085	Carpenter ant	Organization	N/A	Carpenter ant	en	https://en.wikipedia.org/wiki/Carpenter_ant	1568	10	0.863	0.839	False
+619	2774085	Ant	Other	N/A	Ant	en	https://en.wikipedia.org/wiki/Ant	1593	10	0.800	0.924	False
+620	2774085	6 per cent	Quantity	Percentage	N/A	N/A	N/A	1605	10	0.800		False
+621	2774085	Hymenoptera	Other	N/A	Hymenoptera	en	https://en.wikipedia.org/wiki/Hymenoptera	1646	11	0.800	0.619	True
+622	2774085	2 per cent	Quantity	Percentage	N/A	N/A	N/A	1659	10	0.800		False
+623	2774085	Acalypta	Other	N/A	Acalypta	en	https://en.wikipedia.org/wiki/Acalypta	1691	8	0.800	0.779	True
+624	2774085	1 per cent	Quantity	Percentage	N/A	N/A	N/A	1705	10	0.800		False
+625	2774085	1 per cent	Quantity	Percentage	N/A	N/A	N/A	1791	10	0.800		False
+626	2774085	1 per cent	Quantity	Percentage	N/A	N/A	N/A	1843	10	0.800		False
+627	2774085	1 per cent	Quantity	Percentage	N/A	N/A	N/A	1933	10	0.800		False
+628	2774085	3	Quantity	Number	N/A	N/A	N/A	1747	1	0.800		False
+629	2774085	Fly	Other	N/A	Fly	en	https://en.wikipedia.org/wiki/Fly	1834	7	0.800	0.636	False
+630	2774085	Littorina	Other	N/A	Littorina	en	https://en.wikipedia.org/wiki/Littorina	1874	9	0.800	0.753	True
+631	2774085	Carex	Other	N/A	Carex	en	https://en.wikipedia.org/wiki/Carex	1922	5	0.800	0.830	True
+632	2774085	Ruddy turnstone	Other	N/A	Ruddy turnstone	en	https://en.wikipedia.org/wiki/Ruddy_turnstone	1988	18	0.800	0.801	False
+633	2774085	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	2018	8	0.800	0.381	False
+634	2774085	EUROPEAN TURNSTONE	Organization	N/A	N/A	N/A	N/A	2029	18	0.979		False
+635	2774085	Turnstone	Other	N/A	Turnstone	en	https://en.wikipedia.org/wiki/Turnstone	2038	9	0.800	0.411	False
+636	2774085	Two	Quantity	Number	N/A	N/A	N/A	2053	3	0.800		False
+637	2774085	Europe	Location	N/A	Europe	en	https://en.wikipedia.org/wiki/Europe	2081	8	0.800	0.371	False
+638	2774085	Hudson Land	Organization	N/A	N/A	N/A	N/A	2114	11	0.894		False
+639	2774085	Earth	Other	N/A	Earth	en	https://en.wikipedia.org/wiki/Earth	2121	4	0.800	0.005	False
+640	2774085	July 31	DateTime	Date	July 31	en	https://en.wikipedia.org/wiki/July_31	2127	7	0.800	0.032	False
+641	2774085	previous	Quantity	Ordinal	N/A	N/A	N/A	2162	8	0.800		False
+642	2774085	1936	DateTime	DateRange	N/A	N/A	N/A	2191	4	0.800		False
+643	2774085	1936	DateTime	DateRange	N/A	N/A	N/A	2376	4	0.800		False
+644	2774085	170	Quantity	Number	N/A	N/A	N/A	2200	3	0.800		False
+645	2774085	1932	DateTime	DateRange	N/A	N/A	N/A	2220	4	0.800		False
+646	2774085	55	Quantity	Number	N/A	N/A	N/A	2229	2	0.800		False
+647	2774085	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	2381	5	0.800	0.315	False
+648	2774085	Nymphalidae	Organization	N/A	Nymphalidae	en	https://en.wikipedia.org/wiki/Nymphalidae	2568	11	0.912	0.868	False
+649	2774085	56.5	Quantity	Number	N/A	N/A	N/A	2595	4	0.800		False
+650	2774085	7.5 per cent	Quantity	Percentage	N/A	N/A	N/A	2645	12	0.800		False
+651	2774086	5.5 per cent	Quantity	Percentage	N/A	N/A	N/A	69	12	0.800		False
+652	2774086	Hymenoptera	Other	N/A	Hymenoptera	en	https://en.wikipedia.org/wiki/Hymenoptera	83	11	0.800	0.659	True
+653	2774086	Hymenoptera	Other	N/A	Hymenoptera	en	https://en.wikipedia.org/wiki/Hymenoptera	1235	11	0.800	0.659	True
+654	2774086	2 per cent	Quantity	Percentage	N/A	N/A	N/A	96	10	0.800		False
+655	2774086	2 per cent	Quantity	Percentage	N/A	N/A	N/A	225	10	0.800		False
+656	2774086	Beetle	Other	N/A	Beetle	en	https://en.wikipedia.org/wiki/Beetle	108	10	0.800	0.742	False
+657	2774086	Beetle	Other	N/A	Beetle	en	https://en.wikipedia.org/wiki/Beetle	688	10	0.800	0.742	False
+658	2774086	1	Quantity	Number	N/A	N/A	N/A	120	1	0.800		False
+659	2774086	cent	Quantity	Currency	N/A	N/A	N/A	129	4	0.800		False
+660	2774086	cent	Quantity	Currency	N/A	N/A	N/A	1257	4	0.800		False
+661	2774086	3.5 per cent	Quantity	Percentage	N/A	N/A	N/A	157	12	0.800		False
+662	2774086	Dryas iulia	Other	N/A	Dryas iulia	en	https://en.wikipedia.org/wiki/Dryas_iulia	190	5	0.800	0.003	True
+663	2774086	4.5 per cent	Quantity	Percentage	N/A	N/A	N/A	204	12	0.800		False
+664	2774086	17.5    per cent	Quantity	Percentage	N/A	N/A	N/A	264	16	0.800		False
+665	2774086	Pisobia	Person	N/A	N/A	N/A	N/A	286	7	0.972		False
+666	2774086	Louis Jean Pierre Vieillot	Person	N/A	Louis Jean Pierre Vieillot	en	https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot	305	8	0.800	0.747	False
+667	2774086	Least sandpiper	Other	N/A	Least sandpiper	en	https://en.wikipedia.org/wiki/Least_sandpiper	316	15	0.800	0.817	False
+668	2774086	Least sandpiper	Other	N/A	Least sandpiper	en	https://en.wikipedia.org/wiki/Least_sandpiper	375	15	0.800	0.817	False
+669	2774086	one	Quantity	Number	N/A	N/A	N/A	342	3	0.800		False
+670	2774086	one	Quantity	Number	N/A	N/A	N/A	2492	3	0.800		False
+671	2774086	the Least Sandpiper	Organization	N/A	N/A	N/A	N/A	371	19	0.557		False
+672	2774086	Greenwich, Connecticut	Location	N/A	Greenwich, Connecticut	en	https://en.wikipedia.org/wiki/Greenwich,_Connecticut	423	13	0.987	0.639	False
+673	2774086	Greenwich, Connecticut	Location	N/A	Greenwich, Connecticut	en	https://en.wikipedia.org/wiki/Greenwich,_Connecticut	997	13	0.965	0.639	False
+674	2774086	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	438	8	0.466	0.085	False
+675	2774086	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	1012	8	0.455	0.085	False
+676	2774086	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	1480	12	0.994	0.085	False
+677	2774086	July	DateTime	DateRange	N/A	N/A	N/A	457	4	0.800		False
+678	2774086	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	463	4	0.800	0.086	False
+679	2774086	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	1790	4	0.800	0.086	False
+680	2774086	Chironomus	Other	N/A	Chironomus	en	https://en.wikipedia.org/wiki/Chironomus	548	10	0.800	0.782	True
+681	2774086	Fly	Organization	N/A	Fly	en	https://en.wikipedia.org/wiki/Fly	581	7	0.800	0.539	False
+682	2774086	Fly	Organization	N/A	Fly	en	https://en.wikipedia.org/wiki/Fly	1297	7	0.688	0.539	False
+683	2774086	45 per cent	Quantity	Percentage	N/A	N/A	N/A	590	11	0.800		False
+684	2774086	three	Quantity	Number	N/A	N/A	N/A	619	5	0.800		False
+685	2774086	three	Quantity	Number	N/A	N/A	N/A	2169	5	0.800		False
+686	2774086	Ground beetle	Other	N/A	Ground beetle	en	https://en.wikipedia.org/wiki/Ground_beetle	641	9	0.800	0.361	False
+687	2774086	Ground beetle	Other	N/A	Ground beetle	en	https://en.wikipedia.org/wiki/Ground_beetle	1353	10	0.800	0.361	False
+688	2774086	40 per cent	Quantity	Percentage	N/A	N/A	N/A	653	11	0.800		False
+689	2774086	5 per cent	Quantity	Percentage	N/A	N/A	N/A	700	10	0.800		False
+690	2774086	Dietary fiber	Other	N/A	Dietary fiber	en	https://en.wikipedia.org/wiki/Dietary_fiber	731	5	0.800	0.042	False
+691	2774086	Dietary fiber	Other	N/A	Dietary fiber	en	https://en.wikipedia.org/wiki/Dietary_fiber	1400	5	0.800	0.042	False
+692	2774086	10 per cent	Quantity	Percentage	N/A	N/A	N/A	738	11	0.800		False
+693	2774086	10 per cent	Quantity	Percentage	N/A	N/A	N/A	1365	11	0.800		False
+694	2774086	10 per cent	Quantity	Percentage	N/A	N/A	N/A	1407	11	0.800		False
+695	2774086	bits	Quantity	Dimension	N/A	N/A	N/A	810	4	0.800		False
+696	2774086	Lobipes	Person	N/A	N/A	N/A	N/A	860	7	0.770		False
+697	2774086	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	877	8	0.800	0.386	False
+698	2774086	NORTHERN	Location	N/A	N/A	N/A	N/A	888	8	0.446		False
+699	2774086	July 8	DateTime	Date	July 8	en	https://en.wikipedia.org/wiki/July_8	965	6	0.800	0.170	False
+700	2774086	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	1112	4	0.800	0.267	False
+701	2774086	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	2381	5	0.800	0.267	False
+702	2774086	3	Quantity	Number	N/A	N/A	N/A	1248	1	0.800		False
+703	2774086	77    per cent	Quantity	Percentage	N/A	N/A	N/A	1319	14	0.800		False
+704	2774086	five	Quantity	Number	N/A	N/A	N/A	1348	4	0.800		False
+705	2774086	This (fly)	Other	N/A	This (fly)	en	https://en.wikipedia.org/wiki/This_(fly)	1420	4	0.800	0.214	False
+706	2774086	Cape Cod	Location	N/A	Cape Cod	en	https://en.wikipedia.org/wiki/Cape_Cod	1496	8	0.892	0.340	False
+707	2774086	August	DateTime	DateRange	August	en	https://en.wikipedia.org/wiki/August	1534	6	0.800	0.004	False
+708	2774086	Pomarine jaeger	Person	N/A	Pomarine jaeger	en	https://en.wikipedia.org/wiki/Pomarine_jaeger	1546	22	0.800	0.777	False
+709	2774086	Pomarine jaeger	Person	N/A	Pomarine jaeger	en	https://en.wikipedia.org/wiki/Pomarine_jaeger	1581	15	0.770	0.777	False
+710	2774086	Pomarine jaeger	Person	N/A	Pomarine jaeger	en	https://en.wikipedia.org/wiki/Pomarine_jaeger	1983	15	0.693	0.777	False
+711	2774086	Coenraad Jacob Temminck	Person	N/A	Coenraad Jacob Temminck	en	https://en.wikipedia.org/wiki/Coenraad_Jacob_Temminck	1570	8	0.800	0.781	False
+712	2774086	degree	Quantity	Temperature	N/A	N/A	N/A	1723	6	0.800		False
+713	2774086	Species	Other	N/A	Species	en	https://en.wikipedia.org/wiki/Species	1852	7	0.800	0.575	True
+714	2774086	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	1861	6	0.800	0.448	False
+715	2774086	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	2189	4	0.800	0.448	False
+716	2774086	July 27	DateTime	Date	July 27	en	https://en.wikipedia.org/wiki/July_27	2036	7	0.800	0.113	False
+717	2774086	Davy (film)	Other	N/A	Davy (film)	en	https://en.wikipedia.org/wiki/Davy_(film)	2048	4	0.800	0.005	False
+718	2774086	Davy Sound	Organization	N/A	N/A	N/A	N/A	2048	10	0.763		False
+719	2774086	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2070	9	0.630	0.301	False
+720	2774086	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2396	9	0.800	0.301	False
+721	2774086	Kittiwake	Organization	N/A	Kittiwake	en	https://en.wikipedia.org/wiki/Kittiwake	2112	10	0.510	0.026	False
+722	2774086	Pollachius virens	Other	N/A	Pollachius virens	en	https://en.wikipedia.org/wiki/Pollachius_virens	2195	17	0.800	0.833	True
+723	2774086	Long-tailed jaeger	Other	N/A	Long-tailed jaeger	en	https://en.wikipedia.org/wiki/Long-tailed_jaeger	2454	18	0.800	0.836	False
+724	2774086	ten	Quantity	Number	N/A	N/A	N/A	2485	3	0.800		False
+725	2774087	Norway	Location	N/A	Norway	en	https://en.wikipedia.org/wiki/Norway	163	9	0.800	0.147	False
+726	2774087	Parasitic jaeger	Organization	N/A	Parasitic jaeger	en	https://en.wikipedia.org/wiki/Parasitic_jaeger	186	24	0.800	0.776	False
+727	2774087	Parasitic jaeger	Organization	N/A	Parasitic jaeger	en	https://en.wikipedia.org/wiki/Parasitic_jaeger	223	16	0.506	0.776	False
+728	2774087	Parasitic jaeger	Organization	N/A	Parasitic jaeger	en	https://en.wikipedia.org/wiki/Parasitic_jaeger	272	16	0.562	0.776	False
+729	2774087	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	212	8	0.800	0.231	False
+730	2774087	August 3	DateTime	Date	August 3	en	https://en.wikipedia.org/wiki/August_3	295	8	0.800	0.063	False
+731	2774087	Ymer Island	Location	N/A	Ymer Island	en	https://en.wikipedia.org/wiki/Ymer_Island	311	11	0.728	0.822	False
+732	2774087	Ymer Island	Location	N/A	Ymer Island	en	https://en.wikipedia.org/wiki/Ymer_Island	596	11	0.522	0.822	False
+733	2774087	Pomarine jaeger	Person	N/A	Pomarine jaeger	en	https://en.wikipedia.org/wiki/Pomarine_jaeger	360	15	0.974	0.760	False
+734	2774087	four	Quantity	Number	N/A	N/A	N/A	430	4	0.800		False
+735	2774087	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	443	4	0.800	0.042	False
+736	2774087	Polish language	Other	N/A	Polish language	en	https://en.wikipedia.org/wiki/Polish_language	449	3	0.800	0.064	False
+737	2774087	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	538	9	0.991	0.214	False
+738	2774087	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	1068	9	0.621	0.214	False
+739	2774087	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	1135	9	0.972	0.214	False
+740	2774087	Long-tailed jaeger	Other	N/A	Long-tailed jaeger	en	https://en.wikipedia.org/wiki/Long-tailed_jaeger	666	24	0.800	0.805	False
+741	2774087	Long-tailed jaeger	Other	N/A	Long-tailed jaeger	en	https://en.wikipedia.org/wiki/Long-tailed_jaeger	701	18	0.800	0.805	False
+742	2774087	Long-tailed jaeger	Other	N/A	Long-tailed jaeger	en	https://en.wikipedia.org/wiki/Long-tailed_jaeger	799	18	0.800	0.805	False
+743	2774087	Louis Jean Pierre Vieillot	Person	N/A	Louis Jean Pierre Vieillot	en	https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot	691	8	0.573	0.643	False
+744	2774087	Hanson (band)	Person	N/A	Hanson (band)	en	https://en.wikipedia.org/wiki/Hanson_(band)	1017	6	0.528	0.010	False
+745	2774087	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	1027	7	0.800	0.416	False
+746	2774087	Hudson Land	Organization	N/A	N/A	N/A	N/A	1042	11	0.886		False
+747	2774087	-land	Other	N/A	-land	en	https://en.wikipedia.org/wiki/-land	1049	4	0.800	0.042	False
+748	2774087	July 31	DateTime	Date	July 31	en	https://en.wikipedia.org/wiki/July_31	1082	7	0.800	0.149	False
+749	2774087	July 31	DateTime	Date	July 31	en	https://en.wikipedia.org/wiki/July_31	1577	7	0.800	0.149	False
+750	2774087	Flocking (behavior)	Other	N/A	Flocking (behavior)	en	https://en.wikipedia.org/wiki/Flocking_(behavior)	1146	6	0.800	0.077	False
+751	2774087	eight	Quantity	Number	N/A	N/A	N/A	1159	5	0.800		False
+752	2774087	ten	Quantity	Number	N/A	N/A	N/A	1169	3	0.800		False
+753	2774087	Kittiwake	Other	N/A	Kittiwake	en	https://en.wikipedia.org/wiki/Kittiwake	1188	10	0.800	0.128	False
+754	2774087	Kittiwake	Other	N/A	Kittiwake	en	https://en.wikipedia.org/wiki/Kittiwake	1342	10	0.800	0.128	False
+755	2774087	Three	Quantity	Number	N/A	N/A	N/A	1528	5	0.800		False
+756	2774087	one	Quantity	Number	N/A	N/A	N/A	1586	3	0.800		False
+757	2774087	12	Quantity	Number	N/A	N/A	N/A	1667	2	0.800		False
+758	2774087	26	Quantity	Number	N/A	N/A	N/A	1699	2	0.800		False
+759	2774087	10	Quantity	Number	N/A	N/A	N/A	1706	2	0.800		False
+760	2774087	Median	Other	N/A	Median	en	https://en.wikipedia.org/wiki/Median	1713	7	0.800	0.055	False
+761	2774087	83	Quantity	Number	N/A	N/A	N/A	1730	2	0.800		False
+762	2774087	92	Quantity	Number	N/A	N/A	N/A	1735	2	0.800		False
+763	2774087	16.08	Quantity	Number	N/A	N/A	N/A	1772	5	0.800		False
+764	2774087	56.25	Quantity	Number	N/A	N/A	N/A	1778	5	0.800		False
+765	2774087	24.67	Quantity	Number	N/A	N/A	N/A	1784	5	0.800		False
+766	2774087	2.00	Quantity	Number	N/A	N/A	N/A	1790	4	0.800		False
+767	2774087	.83	Quantity	Number	N/A	N/A	N/A	1795	3	0.800		False
+768	2774087	8.75	Quantity	Number	N/A	N/A	N/A	1799	4	0.800		False
+769	2774087	2.92	Quantity	Number	N/A	N/A	N/A	1804	4	0.800		False
+770	2774087	5.41	Quantity	Number	N/A	N/A	N/A	1809	4	0.800		False
+771	2774088	second	Quantity	Ordinal	N/A	N/A	N/A	239	6	0.800		False
+772	2774088	the year	DateTime	DateRange	N/A	N/A	N/A	493	8	0.800		False
+773	2774088	12	Quantity	Number	N/A	N/A	N/A	510	2	0.800		False
+774	2774088	12	Quantity	Number	N/A	N/A	N/A	840	2	0.800		False
+775	2774088	12	Quantity	Number	N/A	N/A	N/A	1714	2	0.800		False
+776	2774088	12	Quantity	Number	N/A	N/A	N/A	2574	2	0.800		False
+777	2774088	one	Quantity	Number	N/A	N/A	N/A	539	3	0.800		False
+778	2774088	one	Quantity	Number	N/A	N/A	N/A	904	3	0.800		False
+779	2774088	one	Quantity	Number	N/A	N/A	N/A	2097	3	0.800		False
+780	2774088	one	Quantity	Number	N/A	N/A	N/A	2284	3	0.800		False
+781	2774088	Greenland Collared    Lemming	Organization	N/A	N/A	N/A	N/A	658	29	0.727		False
+782	2774088	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	658	9	0.800	0.179	False
+783	2774088	Collar (order)	Other	N/A	Collar (order)	en	https://en.wikipedia.org/wiki/Collar_(order)	668	8	0.800	0.008	False
+784	2774088	Northern collared lemming	Other	N/A	Northern collared lemming	en	https://en.wikipedia.org/wiki/Northern_collared_lemming	689	25	0.800	0.803	False
+785	2774088	56.25 per cent	Quantity	Percentage	N/A	N/A	N/A	744	14	0.800		False
+786	2774088	nine	Quantity	Number	N/A	N/A	N/A	828	4	0.800		False
+787	2774088	four	Quantity	Number	N/A	N/A	N/A	887	4	0.800		False
+788	2774088	four	Quantity	Number	N/A	N/A	N/A	1762	4	0.800		False
+789	2774088	four	Quantity	Number	N/A	N/A	N/A	2200	4	0.800		False
+790	2774088	four	Quantity	Number	N/A	N/A	N/A	2562	4	0.800		False
+791	2774088	four	Quantity	Number	N/A	N/A	N/A	2628	4	0.800		False
+792	2774088	seven	Quantity	Number	N/A	N/A	N/A	943	5	0.800		False
+793	2774088	1932	DateTime	DateRange	N/A	N/A	N/A	1116	4	0.800		False
+794	2774088	85	Quantity	Number	N/A	N/A	N/A	1126	2	0.800		False
+795	2774088	99	Quantity	Number	N/A	N/A	N/A	1129	2	0.800		False
+796	2774088	Longitude	Other	N/A	Longitude	en	https://en.wikipedia.org/wiki/Longitude	1150	4	0.800	0.135	False
+797	2774088	Skua	Person	N/A	Skua	en	https://en.wikipedia.org/wiki/Skua	1166	6	0.742	0.025	False
+798	2774088	Green sea turtle	Other	N/A	Green sea turtle	en	https://en.wikipedia.org/wiki/Green_sea_turtle	1555	5	0.800	0.008	False
+799	2774088	Iceland	Location	N/A	Iceland	en	https://en.wikipedia.org/wiki/Iceland	1577	7	0.947	0.196	False
+800	2774088	five	Quantity	Number	N/A	N/A	N/A	1702	4	0.800		False
+801	2774088	Insect	Other	N/A	Insect	en	https://en.wikipedia.org/wiki/Insect	1784	7	0.800	0.308	False
+802	2774088	24.67 per cent	Quantity	Percentage	N/A	N/A	N/A	1831	14	0.800		False
+803	2774088	Phaonia	Other	N/A	Phaonia	en	https://en.wikipedia.org/wiki/Phaonia	1918	7	0.800	0.759	True
+804	2774088	Fly	Other	N/A	Fly	en	https://en.wikipedia.org/wiki/Fly	1944	7	0.800	0.589	False
+805	2774088	Bee	Other	N/A	Bee	en	https://en.wikipedia.org/wiki/Bee	1954	4	0.800	0.250	False
+806	2774088	2 per cent	Quantity	Percentage	N/A	N/A	N/A	2013	10	0.800		False
+807	2774088	The	Other	N/A	The	en	https://en.wikipedia.org/wiki/The	2025	3	0.800	0.127	False
+808	2774088	Agrotis	Other	N/A	Agrotis	en	https://en.wikipedia.org/wiki/Agrotis	2123	7	0.800	0.797	True
+809	2774088	Nymphalidae	Organization	N/A	Nymphalidae	en	https://en.wikipedia.org/wiki/Nymphalidae	2139	11	0.574	0.809	False
+810	2774088	10	Quantity	Number	N/A	N/A	N/A	2269	2	0.800		False
+811	2774088	cent	Quantity	Currency	N/A	N/A	N/A	2276	4	0.800		False
+812	2774088	Long-tailed jaeger	Other	N/A	Long-tailed jaeger	en	https://en.wikipedia.org/wiki/Long-tailed_jaeger	2435	18	0.800	0.811	False
+813	2774088	One	Quantity	Number	N/A	N/A	N/A	2718	3	0.800		False
+814	2774088	95 per cent	Quantity	Percentage	N/A	N/A	N/A	2739	11	0.800		False
+815	2774088	Arctostaphylos	Other	N/A	Arctostaphylos	en	https://en.wikipedia.org/wiki/Arctostaphylos	2795	14	0.800	0.859	True
+816	2774089	Andrée Land (Greenland)	Other	N/A	Andrée Land (Greenland)	en	https://en.wikipedia.org/wiki/Andrée_Land_(Greenland)	1550	6	0.800	0.456	False
+817	2774089	Andrée Land (Greenland)	Other	N/A	Andrée Land (Greenland)	en	https://en.wikipedia.org/wiki/Andrée_Land_(Greenland)	1560	4	0.800	0.456	False
+818	2774089	Andrée Land (Greenland)	Other	N/A	Andrée Land (Greenland)	en	https://en.wikipedia.org/wiki/Andrée_Land_(Greenland)	1760	11	0.853	0.456	False
+819	2774089	three	Quantity	Number	N/A	N/A	N/A	58	5	0.800		False
+820	2774089	three	Quantity	Number	N/A	N/A	N/A	1334	5	0.800		False
+821	2774089	Great skua	Other	N/A	Great skua	en	https://en.wikipedia.org/wiki/Great_skua	153	15	0.800	0.787	False
+822	2774089	Morten Thrane Brünnich	Person	N/A	Morten Thrane Brünnich	en	https://en.wikipedia.org/wiki/Morten_Thrane_Brünnich	169	8	0.800	0.300	False
+823	2774089	NORTHERN	Location	N/A	N/A	N/A	N/A	179	8	0.497		False
+824	2774089	Four	Quantity	Number	N/A	N/A	N/A	198	4	0.800		False
+825	2774089	Four	Quantity	Number	N/A	N/A	N/A	1089	4	0.800		False
+826	2774089	Cape Farewell, Greenland	Location	N/A	Cape Farewell, Greenland	en	https://en.wikipedia.org/wiki/Cape_Farewell,_Greenland	289	13	0.800	0.226	False
+827	2774089	Tasiilaq	Location	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	325	11	0.970	0.833	False
+828	2774089	Tasiilaq	Location	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	2063	11	0.800	0.833	False
+829	2774089	Religion in Canada	Other	N/A	Religion in Canada	en	https://en.wikipedia.org/wiki/Religion_in_Canada	338	6	0.800	0.057	False
+830	2774089	Liverpool	Location	N/A	Liverpool	en	https://en.wikipedia.org/wiki/Liverpool	362	9	0.881	0.126	False
+831	2774089	Liverpool	Location	N/A	Liverpool	en	https://en.wikipedia.org/wiki/Liverpool	1570	9	0.800	0.126	False
+832	2774089	William Rathbone IV	Person	N/A	William Rathbone IV	en	https://en.wikipedia.org/wiki/William_Rathbone_IV	381	8	0.800	0.039	False
+833	2774089	Rathbone    Island	Location	N/A	N/A	N/A	N/A	381	18	0.993		False
+834	2774089	August 6	DateTime	Date	August 6	en	https://en.wikipedia.org/wiki/August_6	401	8	0.800	0.065	False
+835	2774089	Davy (film)	Other	N/A	Davy (film)	en	https://en.wikipedia.org/wiki/Davy_(film)	438	4	0.800	0.034	False
+836	2774089	Davy Sound	Organization	N/A	N/A	N/A	N/A	438	10	0.687		False
+837	2774089	Sound (geography)	Other	N/A	Sound (geography)	en	https://en.wikipedia.org/wiki/Sound_(geography)	443	5	0.800	0.113	False
+838	2774089	72	Quantity	Number	N/A	N/A	N/A	450	2	0.800		False
+839	2774089	N. Lat	Person	N/A	N/A	N/A	N/A	453	6	0.998		False
+840	2774089	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	613	4	0.800	0.334	False
+841	2774089	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	1521	4	0.800	0.334	False
+842	2774089	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	629	9	0.894	0.288	False
+843	2774089	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	864	9	0.692	0.288	False
+844	2774089	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2076	9	0.988	0.288	False
+845	2774089	previous	Quantity	Ordinal	N/A	N/A	N/A	660	8	0.800		False
+846	2774089	Scoresby Sound	Organization	N/A	Scoresby Sound	en	https://en.wikipedia.org/wiki/Scoresby_Sound	693	14	0.751	0.846	False
+847	2774089	two	Quantity	Number	N/A	N/A	N/A	716	3	0.800		False
+848	2774089	two	Quantity	Number	N/A	N/A	N/A	1656	3	0.800		False
+849	2774089	two	Quantity	Number	N/A	N/A	N/A	2330	3	0.800		False
+850	2774089	Morten Pedersen Porsild	Person	N/A	Morten Pedersen Porsild	en	https://en.wikipedia.org/wiki/Morten_Pedersen_Porsild	744	8	0.995	0.181	False
+851	2774089	May	DateTime	DateRange	May	en	https://en.wikipedia.org/wiki/May	756	3	0.800	0.109	False
+852	2774089	June, 1928	DateTime	DateRange	N/A	N/A	N/A	764	10	0.800		False
+853	2774089	The summer of 1936	DateTime	DateRange	N/A	N/A	N/A	776	18	0.800		False
+854	2774089	This may	DateTime	DateRange	N/A	N/A	N/A	884	8	0.800		False
+855	2774089	Ivory gull	Location	N/A	Ivory gull	en	https://en.wikipedia.org/wiki/Ivory_gull	1005	10	0.972	0.876	False
+856	2774089	Sabine's gull	Other	N/A	Sabine's gull	en	https://en.wikipedia.org/wiki/Sabine's_gull	1023	13	0.800	0.848	False
+857	2774089	Glaucous gull	Other	N/A	Glaucous gull	en	https://en.wikipedia.org/wiki/Glaucous_gull	1042	17	0.800	0.837	False
+858	2774089	Glaucous gull	Other	N/A	Glaucous gull	en	https://en.wikipedia.org/wiki/Glaucous_gull	1070	13	0.650	0.837	False
+859	2774089	Glaucous gull	Other	N/A	Glaucous gull	en	https://en.wikipedia.org/wiki/Glaucous_gull	1110	13	0.626	0.837	False
+860	2774089	Johan Ernst Gunnerus	Person	N/A	Johan Ernst Gunnerus	en	https://en.wikipedia.org/wiki/Johan_Ernst_Gunnerus	1060	8	0.800	0.719	False
+861	2774089	1936	DateTime	DateRange	N/A	N/A	N/A	1145	4	0.800		False
+862	2774089	1936	DateTime	DateRange	N/A	N/A	N/A	1198	4	0.800		False
+863	2774089	172	Quantity	Number	N/A	N/A	N/A	1207	3	0.800		False
+864	2774089	Fishing	Other	N/A	Fishing	en	https://en.wikipedia.org/wiki/Fishing	1230	4	0.800	0.042	False
+865	2774089	Fishing	Other	N/A	Fishing	en	https://en.wikipedia.org/wiki/Fishing	2186	4	0.800	0.042	False
+866	2774089	four	Quantity	Number	N/A	N/A	N/A	1272	4	0.800		False
+867	2774089	Pollachius virens	Other	N/A	Pollachius virens	en	https://en.wikipedia.org/wiki/Pollachius_virens	1310	17	0.800	0.834	True
+868	2774089	One	Quantity	Number	N/A	N/A	N/A	1376	3	0.800		False
+869	2774089	98 per cent	Quantity	Percentage	N/A	N/A	N/A	1404	11	0.800		False
+870	2774089	Strongylocentrotus	Other	N/A	Strongylocentrotus	en	https://en.wikipedia.org/wiki/Strongylocentrotus	1450	18	0.800	0.813	True
+871	2774089	Andree    Land	Organization	N/A	N/A	N/A	N/A	1550	14	0.906		False
+872	2774089	Ymer Island	Location	N/A	Ymer Island	en	https://en.wikipedia.org/wiki/Ymer_Island	1591	11	0.954	0.819	False
+873	2774089	August 3	DateTime	Date	August 3	en	https://en.wikipedia.org/wiki/August_3	1607	8	0.800	0.192	False
+874	2774089	Great black-backed gull	Other	N/A	Great black-backed gull	en	https://en.wikipedia.org/wiki/Great_black-backed_gull	1864	13	0.800	0.176	False
+875	2774089	Great black-backed gull	Other	N/A	Great black-backed gull	en	https://en.wikipedia.org/wiki/Great_black-backed_gull	1888	17	0.800	0.176	False
+876	2774089	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	1878	8	0.800	0.310	False
+877	2774089	Black-backed jackal	Other	N/A	Black-backed jackal	en	https://en.wikipedia.org/wiki/Black-backed_jackal	1915	12	0.800	0.527	False
+878	2774089	Conservative Party (UK)	Organization	N/A	Conservative Party (UK)	en	https://en.wikipedia.org/wiki/Conservative_Party_(UK)	1968	3	0.800	0.043	False
+879	2774089	Con-    ception Bay	Location	N/A	N/A	N/A	N/A	1968	19	0.519		False
+880	2774089	Bay	Other	N/A	Bay	en	https://en.wikipedia.org/wiki/Bay	1984	3	0.800	0.087	False
+881	2774089	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	1989	12	0.680	0.098	False
+882	2774089	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	2025	8	0.533	0.098	False
+883	2774089	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	2092	12	0.976	0.098	False
+884	2774089	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	2112	8	0.800	0.098	False
+885	2774089	Greenwich, Connecticut	Location	N/A	Greenwich, Connecticut	en	https://en.wikipedia.org/wiki/Greenwich,_Connecticut	2010	13	0.979	0.698	False
+886	2774089	bits	Quantity	Dimension	N/A	N/A	N/A	2175	4	0.800		False
+887	2774090	Black-legged kittiwake	Other	N/A	Black-legged kittiwake	en	https://en.wikipedia.org/wiki/Black-legged_kittiwake	57	16	0.800	0.837	False
+888	2774090	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	86	8	0.800	0.394	False
+889	2774090	ATLANTIC KITTIWAKE	Location	N/A	N/A	N/A	N/A	97	18	0.814		False
+890	2774090	Kittiwake	Person	N/A	Kittiwake	en	https://en.wikipedia.org/wiki/Kittiwake	106	9	0.800	0.071	False
+891	2774090	Kittiwake	Person	N/A	Kittiwake	en	https://en.wikipedia.org/wiki/Kittiwake	151	9	0.657	0.071	False
+892	2774090	Kittiwake	Person	N/A	Kittiwake	en	https://en.wikipedia.org/wiki/Kittiwake	440	10	0.800	0.071	False
+893	2774090	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	131	9	0.995	0.200	False
+894	2774090	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2141	15	0.610	0.200	False
+895	2774090	the    summer	DateTime	DateRange	N/A	N/A	N/A	243	13	0.800		False
+896	2774090	William Rathbone IV	Person	N/A	William Rathbone IV	en	https://en.wikipedia.org/wiki/William_Rathbone_IV	335	8	0.800	0.019	False
+897	2774090	Rathbone Island	Location	N/A	N/A	N/A	N/A	335	15	0.998		False
+898	2774090	Liverpool	Location	N/A	Liverpool	en	https://en.wikipedia.org/wiki/Liverpool	352	9	0.988	0.145	False
+899	2774090	Bernard Hantzsch	Person	N/A	N/A	N/A	N/A	373	16	0.999		False
+900	2774090	1928	DateTime	DateRange	N/A	N/A	N/A	391	4	0.800		False
+901	2774090	123	Quantity	Number	N/A	N/A	N/A	400	3	0.800		False
+902	2774090	Atlantic Ocean	Location	N/A	Atlantic Ocean	en	https://en.wikipedia.org/wiki/Atlantic_Ocean	428	8	0.800	0.164	False
+903	2774090	Atlantic    Kittiwakes	Location	N/A	N/A	N/A	N/A	428	22	0.936		False
+904	2774090	Capelin	Person	N/A	Capelin	en	https://en.wikipedia.org/wiki/Capelin	549	8	0.572	0.426	False
+905	2774090	Two	Quantity	Number	N/A	N/A	N/A	669	3	0.800		False
+906	2774090	Hantzsch	Organization	N/A	N/A	N/A	N/A	711	8	0.692		False
+907	2774090	Edward Howe Forbush	Person	N/A	Edward Howe Forbush	en	https://en.wikipedia.org/wiki/Edward_Howe_Forbush	742	7	0.675	0.176	False
+908	2774090	1925	DateTime	DateRange	N/A	N/A	N/A	751	4	0.800		False
+909	2774090	64	Quantity	Number	N/A	N/A	N/A	760	2	0.800		False
+910	2774090	Animal	Other	N/A	Animal	en	https://en.wikipedia.org/wiki/Animal	875	7	0.800	0.230	False
+911	2774090	Six	Quantity	Number	N/A	N/A	N/A	945	3	0.800		False
+912	2774090	1936	DateTime	DateRange	N/A	N/A	N/A	974	4	0.800		False
+913	2774090	Abraham Dee Bartlett	Person	N/A	Abraham Dee Bartlett	en	https://en.wikipedia.org/wiki/Abraham_Dee_Bartlett	979	8	0.996	0.063	False
+914	2774090	Exploration	Other	N/A	Exploration	en	https://en.wikipedia.org/wiki/Exploration	988	10	0.800	0.134	False
+915	2774090	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	1074	4	0.800	0.128	False
+916	2774090	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	2357	4	0.800	0.128	False
+917	2774090	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	1115	4	0.800	0.024	False
+918	2774090	three	Quantity	Number	N/A	N/A	N/A	1200	5	0.800		False
+919	2774090	three	Quantity	Number	N/A	N/A	N/A	1799	5	0.800		False
+920	2774090	three	Quantity	Number	N/A	N/A	N/A	2018	5	0.800		False
+921	2774090	six	Quantity	Number	N/A	N/A	N/A	1249	3	0.800		False
+922	2774090	Pollachius virens	Other	N/A	Pollachius virens	en	https://en.wikipedia.org/wiki/Pollachius_virens	1270	17	0.800	0.828	True
+923	2774090	37.83 per cent	Quantity	Percentage	N/A	N/A	N/A	1304	14	0.800		False
+924	2774090	Urophycis	Other	N/A	Urophycis	en	https://en.wikipedia.org/wiki/Urophycis	1327	9	0.800	0.750	True
+925	2774090	15 per cent	Quantity	Percentage	N/A	N/A	N/A	1349	11	0.800		False
+926	2774090	17.67 per cent	Quantity	Percentage	N/A	N/A	N/A	1411	14	0.800		False
+927	2774090	Squid	Other	N/A	Squid	en	https://en.wikipedia.org/wiki/Squid	1427	5	0.800	0.236	False
+928	2774090	16.83 per cent	Quantity	Percentage	N/A	N/A	N/A	1468	14	0.800		False
+929	2774090	two	Quantity	Number	N/A	N/A	N/A	1491	3	0.800		False
+930	2774090	25	Quantity	Number	N/A	N/A	N/A	1552	2	0.800		False
+931	2774090	Gammaracanthus	Organization	N/A	N/A	N/A	N/A	1656	14	0.604		False
+932	2774090	Thysanoessa	Other	N/A	Thysanoessa	en	https://en.wikipedia.org/wiki/Thysanoessa	1698	11	0.800	0.766	True
+933	2774090	Thysanoessa	Other	N/A	Thysanoessa	en	https://en.wikipedia.org/wiki/Thysanoessa	2564	11	0.800	0.766	True
+934	2774090	8 per cent	Quantity	Percentage	N/A	N/A	N/A	1735	10	0.800		False
+935	2774090	4 per cent	Quantity	Percentage	N/A	N/A	N/A	1831	10	0.800		False
+936	2774090	Plant	Other	N/A	Plant	en	https://en.wikipedia.org/wiki/Plant	1872	5	0.800	0.188	True
+937	2774090	cent	Quantity	Currency	N/A	N/A	N/A	1958	4	0.800		False
+938	2774090	Arctic tern	Location	N/A	Arctic tern	en	https://en.wikipedia.org/wiki/Arctic_tern	1968	17	0.800	0.838	False
+939	2774090	Arctic tern	Location	N/A	Arctic tern	en	https://en.wikipedia.org/wiki/Arctic_tern	1996	11	0.570	0.838	False
+940	2774090	Arctic tern	Location	N/A	Arctic tern	en	https://en.wikipedia.org/wiki/Arctic_tern	2040	11	0.901	0.838	False
+941	2774090	Morten Thrane Brünnich	Person	N/A	Morten Thrane Brünnich	en	https://en.wikipedia.org/wiki/Morten_Thrane_Brünnich	1986	8	0.800	0.304	False
+942	2774090	one	Quantity	Number	N/A	N/A	N/A	2053	3	0.800		False
+943	2774090	one	Quantity	Number	N/A	N/A	N/A	2392	3	0.800		False
+944	2774090	Hudson    Land, Ymer Island	Organization	N/A	N/A	N/A	N/A	2067	27	0.978		False
+945	2774090	Land	Other	N/A	Land	en	https://en.wikipedia.org/wiki/Land	2077	4	0.800	0.037	False
+946	2774090	Ymer Island	Location	N/A	Ymer Island	en	https://en.wikipedia.org/wiki/Ymer_Island	2083	11	0.800	0.814	False
+947	2774090	69	Quantity	Number	N/A	N/A	N/A	2122	2	0.800		False
+948	2774090	N. Lat	Person	N/A	N/A	N/A	N/A	2125	6	0.998		False
+949	2774090	1 per cent	Quantity	Percentage	N/A	N/A	N/A	2427	10	0.800		False
+950	2774090	One	Quantity	Number	N/A	N/A	N/A	2609	3	0.800		False
+951	2774090	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	2620	5	0.800	0.315	False
+952	2774091	Erik Pontoppidan	Person	N/A	Erik Pontoppidan	en	https://en.wikipedia.org/wiki/Erik_Pontoppidan	61	11	0.800	0.674	False
+953	2774091	ATLANTIC	Location	N/A	N/A	N/A	N/A	75	8	0.609		False
+954	2774091	Uria	Other	N/A	Uria	en	https://en.wikipedia.org/wiki/Uria	84	5	0.800	0.855	True
+955	2774091	Uria	Other	N/A	Uria	en	https://en.wikipedia.org/wiki/Uria	108	5	0.800	0.855	True
+956	2774091	Uria	Other	N/A	Uria	en	https://en.wikipedia.org/wiki/Uria	254	5	0.800	0.855	True
+957	2774091	Atlantic Ocean	Location	N/A	Atlantic Ocean	en	https://en.wikipedia.org/wiki/Atlantic_Ocean	95	12	0.800	0.524	False
+958	2774091	Funk Island	Location	N/A	Funk Island	en	https://en.wikipedia.org/wiki/Funk_Island	138	11	0.803	0.841	False
+959	2774091	Thick-billed murre	Other	N/A	Thick-billed murre	en	https://en.wikipedia.org/wiki/Thick-billed_murre	212	11	0.800	0.803	False
+960	2774091	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	232	8	0.800	0.286	False
+961	2774091	BRDNNICH	Person	N/A	N/A	N/A	N/A	243	8	0.929		False
+962	2774091	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	293	9	0.986	0.140	False
+963	2774091	Briinnich	Person	N/A	N/A	N/A	N/A	314	9	0.821		False
+964	2774091	first	Quantity	Ordinal	N/A	N/A	N/A	340	5	0.800		False
+965	2774091	68	Quantity	Number	N/A	N/A	N/A	380	2	0.800		False
+966	2774091	68	Quantity	Number	N/A	N/A	N/A	645	2	0.800		False
+967	2774091	N. Lat	Person	N/A	N/A	N/A	N/A	383	6	0.998		False
+968	2774091	N. Lat	Person	N/A	N/A	N/A	N/A	652	6	0.999		False
+969	2774091	Rathbone Island	Location	N/A	N/A	N/A	N/A	397	15	0.987		False
+970	2774091	Liverpool	Location	N/A	Liverpool	en	https://en.wikipedia.org/wiki/Liverpool	414	9	0.837	0.071	False
+971	2774091	Hanson Formation	Person	N/A	Hanson Formation	en	https://en.wikipedia.org/wiki/Hanson_Formation	507	6	0.952	0.011	False
+972	2774091	August 8	DateTime	Date	August 8	en	https://en.wikipedia.org/wiki/August_8	563	8	0.800	0.047	False
+973	2774091	19	Quantity	Number	N/A	N/A	N/A	610	2	0.800		False
+974	2774091	20-N	Person	N/A	20-N	en	https://en.wikipedia.org/wiki/20-N	648	6	0.800	0.053	False
+975	2774091	25	Quantity	Number	N/A	N/A	N/A	664	2	0.800		False
+976	2774091	W. Long	Person	N/A	N/A	N/A	N/A	670	7	0.811		False
+977	2774091	Longitude	Other	N/A	Longitude	en	https://en.wikipedia.org/wiki/Longitude	673	4	0.800	0.144	False
+978	2774091	nine	Quantity	Number	N/A	N/A	N/A	791	4	0.800		False
+979	2774091	nine	Quantity	Number	N/A	N/A	N/A	1532	4	0.800		False
+980	2774091	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	1068	9	0.800	0.902	False
+981	2774091	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	1789	9	0.800	0.902	False
+982	2774091	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	2217	10	0.800	0.902	False
+983	2774091	one	Quantity	Number	N/A	N/A	N/A	1521	3	0.800		False
+984	2774091	one	Quantity	Number	N/A	N/A	N/A	2567	3	0.800		False
+985	2774091	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	1572	4	0.800	0.160	False
+986	2774091	a fourth	Quantity	Number	N/A	N/A	N/A	1631	8	0.800		False
+987	2774091	Cottidae	Other	N/A	Cottidae	en	https://en.wikipedia.org/wiki/Cottidae	1672	8	0.800	0.855	True
+988	2774091	degree	Quantity	Temperature	N/A	N/A	N/A	1926	6	0.800		False
+989	2774091	eight	Quantity	Number	N/A	N/A	N/A	2042	5	0.800		False
+990	2774091	four	Quantity	Number	N/A	N/A	N/A	2065	4	0.800		False
+991	2774091	four	Quantity	Number	N/A	N/A	N/A	2175	4	0.800		False
+992	2774091	Thysanoessa	Other	N/A	Thysanoessa	en	https://en.wikipedia.org/wiki/Thysanoessa	2129	11	0.800	0.727	True
+993	2774091	96	Quantity	Number	N/A	N/A	N/A	2248	2	0.800		False
+994	2774091	99 per cent	Quantity	Percentage	N/A	N/A	N/A	2254	11	0.800		False
+995	2774091	500	Quantity	Number	N/A	N/A	N/A	2301	3	0.800		False
+996	2774091	Them (Themselves album)	Other	N/A	Them (Themselves album)	en	https://en.wikipedia.org/wiki/Them_(Themselves_album)	2377	4	0.800	0.045	False
+997	2774091	4 per cent	Quantity	Percentage	N/A	N/A	N/A	2403	10	0.800		False
+998	2774091	4 per cent	Quantity	Percentage	N/A	N/A	N/A	2541	10	0.800		False
+999	2774091	1 per cent	Quantity	Percentage	N/A	N/A	N/A	2418	10	0.800		False
+1000	2774091	two	Quantity	Number	N/A	N/A	N/A	2447	3	0.800		False
+1001	2774091	Gammarus	Organization	N/A	Gammarus	en	https://en.wikipedia.org/wiki/Gammarus	2470	8	0.837	0.765	False
+1002	2774091	2 per cent	Quantity	Percentage	N/A	N/A	N/A	2493	10	0.800		False
+1003	2774091	One	Quantity	Number	N/A	N/A	N/A	2629	3	0.800		False
+1004	2774091	Crab	Other	N/A	Crab	en	https://en.wikipedia.org/wiki/Crab	2712	4	0.800	0.333	False
+1005	2774092	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	118	4	0.800	0.221	False
+1006	2774092	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	406	4	0.800	0.221	False
+1007	2774092	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	644	4	0.800	0.221	False
+1008	2774092	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	805	4	0.800	0.221	False
+1009	2774092	11 per cent	Quantity	Percentage	N/A	N/A	N/A	155	11	0.800		False
+1010	2774092	88 per cent	Quantity	Percentage	N/A	N/A	N/A	205	11	0.800		False
+1011	2774092	two	Quantity	Number	N/A	N/A	N/A	238	3	0.800		False
+1012	2774092	Squid	Other	N/A	Squid	en	https://en.wikipedia.org/wiki/Squid	274	5	0.800	0.259	False
+1013	2774092	1	Quantity	Number	N/A	N/A	N/A	325	1	0.800		False
+1014	2774092	1	Quantity	Number	N/A	N/A	N/A	681	1	0.800		False
+1015	2774092	cent	Quantity	Currency	N/A	N/A	N/A	331	4	0.800		False
+1016	2774092	cent	Quantity	Currency	N/A	N/A	N/A	690	4	0.800		False
+1017	2774092	previous	Quantity	Ordinal	N/A	N/A	N/A	482	8	0.800		False
+1018	2774092	Robert Bartlett (explorer)	Person	N/A	Robert Bartlett (explorer)	en	https://en.wikipedia.org/wiki/Robert_Bartlett_(explorer)	491	8	0.998	0.008	False
+1019	2774092	Harold Cottam	Person	N/A	Harold Cottam	en	https://en.wikipedia.org/wiki/Harold_Cottam	533	6	0.800	0.038	False
+1020	2774092	1936	DateTime	DateRange	N/A	N/A	N/A	541	4	0.800		False
+1021	2774092	174	Quantity	Number	N/A	N/A	N/A	554	3	0.800		False
+1022	2774092	175	Quantity	Number	N/A	N/A	N/A	558	3	0.800		False
+1023	2774092	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	628	9	0.800	0.615	False
+1024	2774092	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	811	9	0.800	0.615	False
+1025	2774092	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	2074	11	0.800	0.615	False
+1026	2774092	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	2183	11	0.800	0.615	False
+1027	2774092	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	2344	10	0.800	0.615	False
+1028	2774092	Agrostis	Other	N/A	Agrostis	en	https://en.wikipedia.org/wiki/Agrostis	715	4	0.800	0.021	True
+1029	2774092	1919	DateTime	DateRange	N/A	N/A	N/A	721	4	0.800		False
+1030	2774092	194	Quantity	Number	N/A	N/A	N/A	730	3	0.800		False
+1031	2774092	Uria	Other	N/A	Uria	en	https://en.wikipedia.org/wiki/Uria	771	5	0.800	0.815	True
+1032	2774092	Little auk	Other	N/A	Little auk	en	https://en.wikipedia.org/wiki/Little_auk	903	9	0.800	0.834	False
+1033	2774092	Little auk	Other	N/A	Little auk	en	https://en.wikipedia.org/wiki/Little_auk	925	7	0.800	0.834	False
+1034	2774092	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	914	8	0.800	0.343	False
+1035	2774092	first	Quantity	Ordinal	N/A	N/A	N/A	952	5	0.800		False
+1036	2774092	63	Quantity	Number	N/A	N/A	N/A	967	2	0.800		False
+1037	2774092	20-N	Person	N/A	20-N	en	https://en.wikipedia.org/wiki/20-N	970	6	0.800	0.059	False
+1038	2774092	N. Lat	Person	N/A	N/A	N/A	N/A	974	6	0.820		False
+1039	2774092	one hundred miles	Quantity	Dimension	N/A	N/A	N/A	1029	17	0.800		False
+1040	2774092	Scoresby    Sound	Organization	N/A	N/A	N/A	N/A	1056	17	0.796		False
+1041	2774092	Scoresby Sound	Location	N/A	Scoresby Sound	en	https://en.wikipedia.org/wiki/Scoresby_Sound	1056	8	0.800	0.095	False
+1042	2774092	Sound (geography)	Other	N/A	Sound (geography)	en	https://en.wikipedia.org/wiki/Sound_(geography)	1068	5	0.800	0.054	False
+1043	2774092	in the evening	DateTime	TimeRange	N/A	N/A	N/A	1100	14	0.800		False
+1044	2774092	three	Quantity	Number	N/A	N/A	N/A	1441	5	0.800		False
+1045	2774092	The Green (Frogmore, South Carolina)	Location	N/A	The Green (Frogmore, South Carolina)	en	https://en.wikipedia.org/wiki/The_Green_(Frogmore,_South_Carolina)	1470	9	0.800	0.017	False
+1046	2774092	Green-    land Right Whale	Organization	N/A	N/A	N/A	N/A	1474	26	0.847		False
+1047	2774092	Right whale	Other	N/A	Right whale	en	https://en.wikipedia.org/wiki/Right_whale	1489	11	0.800	0.161	False
+1048	2774092	Liverpool	Location	N/A	Liverpool	en	https://en.wikipedia.org/wiki/Liverpool	1620	9	0.921	0.082	False
+1049	2774092	Dovekies	Organization	N/A	N/A	N/A	N/A	1652	8	0.817		False
+1050	2774092	six	Quantity	Number	N/A	N/A	N/A	1789	3	0.800		False
+1051	2774092	six	Quantity	Number	N/A	N/A	N/A	2497	3	0.800		False
+1052	2774092	July	DateTime	DateRange	N/A	N/A	N/A	1815	4	0.800		False
+1053	2774092	August Alle	DateTime	DateRange	August Alle	en	https://en.wikipedia.org/wiki/August_Alle	1824	6	0.800	0.058	False
+1054	2774092	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	1857	9	0.597	0.172	False
+1055	2774092	four	Quantity	Number	N/A	N/A	N/A	1879	4	0.800		False
+1056	2774092	Fish as food	Other	N/A	Fish as food	en	https://en.wikipedia.org/wiki/Fish_as_food	1894	4	0.800	0.048	False
+1057	2774092	one	Quantity	Number	N/A	N/A	N/A	2095	3	0.800		False
+1058	2774092	one	Quantity	Number	N/A	N/A	N/A	2553	3	0.800		False
+1059	2774092	93 per cent	Quantity	Percentage	N/A	N/A	N/A	2216	11	0.800		False
+1060	2774092	7 per cent	Quantity	Percentage	N/A	N/A	N/A	2275	10	0.800		False
+1061	2774092	Cottidae	Other	N/A	Cottidae	en	https://en.wikipedia.org/wiki/Cottidae	2306	8	0.800	0.850	True
+1062	2774092	degree	Quantity	Temperature	N/A	N/A	N/A	2400	6	0.800		False
+1063	2774092	Bernhard Hantzsch	Person	N/A	Bernhard Hantzsch	en	https://en.wikipedia.org/wiki/Bernhard_Hantzsch	2451	17	0.992	0.808	False
+1064	2774092	1928	DateTime	DateRange	N/A	N/A	N/A	2470	4	0.800		False
+1065	2774092	92	Quantity	Number	N/A	N/A	N/A	2479	2	0.800		False
+1066	2774092	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	2542	8	0.465	0.099	False
+1067	2774093	one	Quantity	Number	N/A	N/A	N/A	908	3	0.800		False
+1068	2774093	one	Quantity	Number	N/A	N/A	N/A	2270	3	0.800		False
+1069	2774093	Gammaridae	Other	N/A	Gammaridae	en	https://en.wikipedia.org/wiki/Gammaridae	147	10	0.800	0.823	True
+1070	2774093	Black guillemot	Other	N/A	Black guillemot	en	https://en.wikipedia.org/wiki/Black_guillemot	164	14	0.800	0.856	False
+1071	2774093	Black guillemot	Other	N/A	Black guillemot	en	https://en.wikipedia.org/wiki/Black_guillemot	208	15	0.800	0.856	False
+1072	2774093	1	Quantity	Number	N/A	N/A	N/A	188	1	0.800		False
+1073	2774093	1	Quantity	Number	N/A	N/A	N/A	2552	1	0.800		False
+1074	2774093	Christian Ludwig Brehm	Person	N/A	Christian Ludwig Brehm	en	https://en.wikipedia.org/wiki/Christian_Ludwig_Brehm	191	5	0.800	0.021	False
+1075	2774093	NORTHERN BLACK	Organization	N/A	N/A	N/A	N/A	199	14	0.939		False
+1076	2774093	four	Quantity	Number	N/A	N/A	N/A	236	4	0.800		False
+1077	2774093	four	Quantity	Number	N/A	N/A	N/A	675	4	0.800		False
+1078	2774093	four	Quantity	Number	N/A	N/A	N/A	838	4	0.800		False
+1079	2774093	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	381	9	0.800	0.921	False
+1080	2774093	Crustacean	Other	N/A	Crustacean	en	https://en.wikipedia.org/wiki/Crustacean	1608	9	0.800	0.921	False
+1081	2774093	Squid	Other	N/A	Squid	en	https://en.wikipedia.org/wiki/Squid	415	5	0.800	0.305	False
+1082	2774093	Squid	Other	N/A	Squid	en	https://en.wikipedia.org/wiki/Squid	1791	5	0.800	0.305	False
+1083	2774093	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	422	4	0.800	0.151	False
+1084	2774093	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	574	4	0.800	0.151	False
+1085	2774093	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	667	4	0.800	0.151	False
+1086	2774093	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	2335	4	0.800	0.151	False
+1087	2774093	Austin, Texas	Person	N/A	Austin, Texas	en	https://en.wikipedia.org/wiki/Austin,_Texas	508	6	0.999	0.118	False
+1088	2774093	1932	DateTime	DateRange	N/A	N/A	N/A	516	4	0.800		False
+1089	2774093	139	Quantity	Number	N/A	N/A	N/A	525	3	0.800		False
+1090	2774093	Lance	Other	N/A	Lance	en	https://en.wikipedia.org/wiki/Lance	602	5	0.800	0.054	False
+1091	2774093	Hantzsch	Person	N/A	N/A	N/A	N/A	609	8	0.554		False
+1092	2774093	1928	DateTime	DateRange	N/A	N/A	N/A	619	4	0.800		False
+1093	2774093	89	Quantity	Number	N/A	N/A	N/A	629	2	0.800		False
+1094	2774093	90	Quantity	Number	N/A	N/A	N/A	632	2	0.800		False
+1095	2774093	One	Quantity	Number	N/A	N/A	N/A	681	3	0.800		False
+1096	2774093	Gammarus	Other	N/A	Gammarus	en	https://en.wikipedia.org/wiki/Gammarus	771	8	0.800	0.797	True
+1097	2774093	Atylus	Person	N/A	N/A	N/A	N/A	791	6	0.965		False
+1098	2774093	Snail	Other	N/A	Snail	en	https://en.wikipedia.org/wiki/Snail	820	5	0.800	0.260	False
+1099	2774093	Liverpool	Location	N/A	Liverpool	en	https://en.wikipedia.org/wiki/Liverpool	870	9	0.897	0.127	False
+1100	2774093	Liverpool	Location	N/A	Liverpool	en	https://en.wikipedia.org/wiki/Liverpool	2184	9	0.881	0.127	False
+1101	2774093	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	897	9	0.800	0.086	False
+1102	2774093	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2211	9	0.549	0.086	False
+1103	2774093	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2491	9	0.980	0.086	False
+1104	2774093	18	Quantity	Number	N/A	N/A	N/A	922	2	0.800		False
+1105	2774093	Margarites	Person	N/A	Margarites	en	https://en.wikipedia.org/wiki/Margarites	947	10	0.655	0.737	False
+1106	2774093	125	Quantity	Number	N/A	N/A	N/A	1031	3	0.800		False
+1107	2774093	81 per cent	Quantity	Percentage	N/A	N/A	N/A	1064	11	0.800		False
+1108	2774093	Gastro-	Other	N/A	Gastro-	en	https://en.wikipedia.org/wiki/Gastro-	1089	6	0.800	0.731	False
+1109	2774093	two	Quantity	Number	N/A	N/A	N/A	1108	3	0.800		False
+1110	2774093	1 per cent	Quantity	Percentage	N/A	N/A	N/A	1159	10	0.800		False
+1111	2774093	1 per cent	Quantity	Percentage	N/A	N/A	N/A	1484	10	0.800		False
+1112	2774093	1 per cent	Quantity	Percentage	N/A	N/A	N/A	1536	10	0.800		False
+1113	2774093	1 per cent	Quantity	Percentage	N/A	N/A	N/A	2395	10	0.800		False
+1114	2774093	Remains (film)	Other	N/A	Remains (film)	en	https://en.wikipedia.org/wiki/Remains_(film)	1189	7	0.800	0.061	False
+1115	2774093	seven	Quantity	Number	N/A	N/A	N/A	1200	5	0.800		False
+1116	2774093	Loligo	Other	N/A	Loligo	en	https://en.wikipedia.org/wiki/Loligo	1213	6	0.800	0.851	True
+1117	2774093	18 per cent	Quantity	Percentage	N/A	N/A	N/A	1252	11	0.800		False
+1118	2774093	A second	DateTime	Duration	N/A	N/A	N/A	1352	8	0.800		False
+1119	2774093	94 per cent	Quantity	Percentage	N/A	N/A	N/A	1376	11	0.800		False
+1120	2774093	Amphipoda	Other	N/A	Amphipoda	en	https://en.wikipedia.org/wiki/Amphipoda	1400	9	0.800	0.882	True
+1121	2774093	4 per cent	Quantity	Percentage	N/A	N/A	N/A	1447	10	0.800		False
+1122	2774093	Margarites groenlandicus	Other	N/A	Margarites groenlandicus	en	https://en.wikipedia.org/wiki/Margarites_groenlandicus	1458	24	0.800	0.837	True
+1123	2774093	third	Quantity	Ordinal	N/A	N/A	N/A	1564	5	0.800		False
+1124	2774093	225	Quantity	Number	N/A	N/A	N/A	1639	3	0.800		False
+1125	2774093	Thysanoessa	Other	N/A	Thysanoessa	en	https://en.wikipedia.org/wiki/Thysanoessa	1658	11	0.800	0.732	True
+1126	2774093	99 per cent	Quantity	Percentage	N/A	N/A	N/A	1699	11	0.800		False
+1127	2774093	99 per cent	Quantity	Percentage	N/A	N/A	N/A	2422	11	0.800		False
+1128	2774093	5 per cent	Quantity	Percentage	N/A	N/A	N/A	1834	10	0.800		False
+1129	2774093	Atlantic puffin	Organization	N/A	Atlantic puffin	en	https://en.wikipedia.org/wiki/Atlantic_puffin	1868	18	0.800	0.875	False
+1130	2774093	Atlantic puffin	Organization	N/A	Atlantic puffin	en	https://en.wikipedia.org/wiki/Atlantic_puffin	1917	6	0.546	0.875	False
+1131	2774093	Atlantic puffin	Organization	N/A	Atlantic puffin	en	https://en.wikipedia.org/wiki/Atlantic_puffin	2027	6	0.800	0.875	False
+1132	2774093	W. W. Norton & Company	Organization	N/A	W. W. Norton & Company	en	https://en.wikipedia.org/wiki/W._W._Norton_&_Company	1896	6	0.812	0.069	False
+1133	2774093	Biological Survey	Organization	N/A	N/A	N/A	N/A	1941	17	0.794		False
+1134	2774093	one half	Quantity	Number	N/A	N/A	N/A	2070	8	0.800		False
+1135	2774093	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	2102	4	0.800	0.400	False
+1136	2774093	William Rathbone IV	Person	N/A	William Rathbone IV	en	https://en.wikipedia.org/wiki/William_Rathbone_IV	2161	8	0.800	0.053	False
+1137	2774093	Rathbone Island	Location	N/A	N/A	N/A	N/A	2161	15	0.964		False
+1138	2774093	Island	Other	N/A	Island	en	https://en.wikipedia.org/wiki/Island	2170	6	0.800	0.006	False
+1139	2774093	August 6	Other	N/A	August 6	en	https://en.wikipedia.org/wiki/August_6	2225	9	0.800	0.038	False
+1140	2774093	Worm	Other	N/A	Worm	en	https://en.wikipedia.org/wiki/Worm	2288	4	0.800	0.355	False
+1141	2774093	six	Quantity	Number	N/A	N/A	N/A	2317	3	0.800		False
+1142	2774093	Pollachius virens	Other	N/A	Pollachius virens	en	https://en.wikipedia.org/wiki/Pollachius_virens	2344	17	0.800	0.846	True
+1143	2774093	68	Quantity	Number	N/A	N/A	N/A	2510	2	0.800		False
+1144	2774093	N. Lat	Person	N/A	N/A	N/A	N/A	2513	6	0.992		False
+1145	2774093	Visual perception	Other	N/A	Visual perception	en	https://en.wikipedia.org/wiki/Visual_perception	2554	3	0.800	0.077	False
+1146	2774093	Wilhelm Peters	Person	N/A	Wilhelm Peters	en	https://en.wikipedia.org/wiki/Wilhelm_Peters	2558	6	0.975	0.185	False
+1147	2774093	1934	DateTime	DateRange	N/A	N/A	N/A	2566	4	0.800		False
+1148	2774093	354	Quantity	Number	N/A	N/A	N/A	2575	3	0.800		False
+1149	2774094	Austin, Texas	Person	N/A	Austin, Texas	en	https://en.wikipedia.org/wiki/Austin,_Texas	57	6	0.949	0.156	False
+1150	2774094	1932	DateTime	DateRange	N/A	N/A	N/A	65	4	0.800		False
+1151	2774094	143	Quantity	Number	N/A	N/A	N/A	74	3	0.800		False
+1152	2774094	Labrador	Location	N/A	Labrador	en	https://en.wikipedia.org/wiki/Labrador	98	14	0.800	0.583	False
+1153	2774094	Atlantic puffin	Other	N/A	Atlantic puffin	en	https://en.wikipedia.org/wiki/Atlantic_puffin	136	15	0.800	0.922	False
+1154	2774094	Atlantic puffin	Other	N/A	Atlantic puffin	en	https://en.wikipedia.org/wiki/Atlantic_puffin	435	18	0.800	0.922	False
+1155	2774094	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	171	4	0.800	0.117	False
+1156	2774094	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	376	4	0.800	0.117	False
+1157	2774094	Water	Other	N/A	Water	en	https://en.wikipedia.org/wiki/Water	212	5	0.800	0.067	False
+1158	2774094	Puffin	Other	N/A	Puffin	en	https://en.wikipedia.org/wiki/Puffin	252	6	0.800	0.044	False
+1159	2774094	one	Quantity	Number	N/A	N/A	N/A	271	3	0.800		False
+1160	2774094	three	Quantity	Number	N/A	N/A	N/A	370	5	0.800		False
+1161	2774094	three	Quantity	Number	N/A	N/A	N/A	733	5	0.800		False
+1162	2774094	Six	Quantity	Number	N/A	N/A	N/A	402	3	0.800		False
+1163	2774094	Biological Survey	Organization	N/A	N/A	N/A	N/A	500	17	0.679		False
+1164	2774094	two	Quantity	Number	N/A	N/A	N/A	633	3	0.800		False
+1165	2774094	Horned lark	Other	N/A	Horned lark	en	https://en.wikipedia.org/wiki/Horned_lark	659	18	0.800	0.777	False
+1166	2774094	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	689	8	0.800	0.403	False
+1167	2774094	Common raven	Other	N/A	Common raven	en	https://en.wikipedia.org/wiki/Common_raven	700	8	0.439	0.898	False
+1168	2774094	Common raven	Other	N/A	Common raven	en	https://en.wikipedia.org/wiki/Common_raven	2072	12	0.800	0.898	False
+1169	2774094	Common raven	Other	N/A	Common raven	en	https://en.wikipedia.org/wiki/Common_raven	2106	14	0.800	0.898	False
+1170	2774094	Common raven	Other	N/A	Common raven	en	https://en.wikipedia.org/wiki/Common_raven	2128	14	0.539	0.898	False
+1171	2774094	Common raven	Other	N/A	Common raven	en	https://en.wikipedia.org/wiki/Common_raven	2462	5	0.800	0.898	False
+1172	2774094	Horned puffin	Other	N/A	Horned puffin	en	https://en.wikipedia.org/wiki/Horned_puffin	709	6	0.800	0.070	False
+1173	2774094	July 8	DateTime	Date	July 8	en	https://en.wikipedia.org/wiki/July_8	758	6	0.800	0.276	False
+1174	2774094	Greenwich, Connecticut	Location	N/A	Greenwich, Connecticut	en	https://en.wikipedia.org/wiki/Greenwich,_Connecticut	768	13	0.974	0.651	False
+1175	2774094	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	783	8	0.457	0.105	False
+1176	2774094	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	806	4	0.800	0.539	False
+1177	2774094	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	1126	4	0.800	0.539	False
+1178	2774094	One	Quantity	Number	N/A	N/A	N/A	943	3	0.800		False
+1179	2774094	22	Quantity	Number	N/A	N/A	N/A	979	2	0.800		False
+1180	2774094	12	Quantity	Number	N/A	N/A	N/A	1051	2	0.800		False
+1181	2774094	Adult animation	Other	N/A	Adult animation	en	https://en.wikipedia.org/wiki/Adult_animation	1061	5	0.800	0.047	False
+1182	2774094	Lepidoptera	Organization	N/A	Lepidoptera	en	https://en.wikipedia.org/wiki/Lepidoptera	1081	11	0.741	0.566	False
+1183	2774094	a fourth	Quantity	Number	N/A	N/A	N/A	1157	8	0.800		False
+1184	2774094	27.33 per cent	Quantity	Percentage	N/A	N/A	N/A	1167	14	0.800		False
+1185	2774094	Agrotis	Other	N/A	Agrotis	en	https://en.wikipedia.org/wiki/Agrotis	1242	7	0.800	0.814	True
+1186	2774094	Geometer moth	Other	N/A	Geometer moth	en	https://en.wikipedia.org/wiki/Geometer_moth	1274	11	0.800	0.835	False
+1187	2774094	Noctuidae	Organization	N/A	Noctuidae	en	https://en.wikipedia.org/wiki/Noctuidae	1290	9	0.579	0.871	False
+1188	2774094	Carpenter ant	Other	N/A	Carpenter ant	en	https://en.wikipedia.org/wiki/Carpenter_ant	1313	10	0.800	0.872	False
+1189	2774094	next	Quantity	Ordinal	N/A	N/A	N/A	1337	4	0.800		False
+1190	2774094	next	Quantity	Ordinal	N/A	N/A	N/A	1555	4	0.800		False
+1191	2774094	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	1383	5	0.800	0.372	False
+1192	2774094	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	1794	4	0.800	0.372	False
+1193	2774094	7    per cent	Quantity	Percentage	N/A	N/A	N/A	1400	13	0.800		False
+1194	2774094	5.67 per cent	Quantity	Percentage	N/A	N/A	N/A	1502	13	0.800		False
+1195	2774094	4.33 per cent	Quantity	Percentage	N/A	N/A	N/A	1574	13	0.800		False
+1196	2774094	3.33 per cent	Quantity	Percentage	N/A	N/A	N/A	1617	13	0.800		False
+1197	2774094	Leafhopper	Other	N/A	Leafhopper	en	https://en.wikipedia.org/wiki/Leafhopper	1632	12	0.800	0.800	False
+1198	2774094	2.67 per cent	Quantity	Percentage	N/A	N/A	N/A	1686	13	0.800		False
+1199	2774094	Blue mussel	Other	N/A	Blue mussel	en	https://en.wikipedia.org/wiki/Blue_mussel	1732	14	0.800	0.826	False
+1200	2774094	1.67 per cent	Quantity	Percentage	N/A	N/A	N/A	1773	13	0.800		False
+1201	2774094	52 per cent	Quantity	Percentage	N/A	N/A	N/A	1828	11	0.800		False
+1202	2774094	48 per cent	Quantity	Percentage	N/A	N/A	N/A	1852	11	0.800		False
+1203	2774094	31	Quantity	Number	N/A	N/A	N/A	1884	2	0.800		False
+1204	2774094	67 per cent	Quantity	Percentage	N/A	N/A	N/A	1887	11	0.800		False
+1205	2774094	Vaccinium uliginosum	Other	N/A	Vaccinium uliginosum	en	https://en.wikipedia.org/wiki/Vaccinium_uliginosum	1953	20	0.800	0.823	True
+1206	2774094	Seed	Other	N/A	Seed	en	https://en.wikipedia.org/wiki/Seed	2024	5	0.800	0.309	False
+1207	2774094	Robert Ridgway	Person	N/A	Robert Ridgway	en	https://en.wikipedia.org/wiki/Robert_Ridgway	2097	7	0.865	0.299	False
+1208	2774094	Cape Tattershall	Location	N/A	N/A	N/A	N/A	2159	16	0.930		False
+1209	2774094	Tattershall	Location	N/A	Tattershall	en	https://en.wikipedia.org/wiki/Tattershall	2164	11	0.800	0.048	False
+1210	2774094	Liverpool	Organization	N/A	Liverpool	en	https://en.wikipedia.org/wiki/Liverpool	2177	9	0.775	0.099	False
+1211	2774094	Tasiilaq	Location	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	2239	11	0.800	0.687	False
+1212	2774094	Hanson (band)	Person	N/A	Hanson (band)	en	https://en.wikipedia.org/wiki/Hanson_(band)	2255	6	0.729	0.079	False
+1213	2774094	Stomach	Other	N/A	Stomach	en	https://en.wikipedia.org/wiki/Stomach	2321	7	0.800	0.086	False
+1214	2774094	previous	Quantity	Ordinal	N/A	N/A	N/A	2360	8	0.800		False
+1215	2774094	Abraham Dee Bartlett	Person	N/A	Abraham Dee Bartlett	en	https://en.wikipedia.org/wiki/Abraham_Dee_Bartlett	2369	8	0.999	0.089	False
+1216	2774094	1936	DateTime	DateRange	N/A	N/A	N/A	2404	4	0.800		False
+1217	2774094	176	Quantity	Number	N/A	N/A	N/A	2413	3	0.800		False
+1218	2774094	Corvidae	Other	N/A	Corvidae	en	https://en.wikipedia.org/wiki/Corvidae	2445	8	0.800	0.882	True
+1219	2774095	Northern wheatear	Other	N/A	Northern wheatear	en	https://en.wikipedia.org/wiki/Northern_wheatear	81	9	0.800	0.799	False
+1220	2774095	Northern wheatear	Other	N/A	Northern wheatear	en	https://en.wikipedia.org/wiki/Northern_wheatear	94	8	0.800	0.799	False
+1221	2774095	Northern wheatear	Other	N/A	Northern wheatear	en	https://en.wikipedia.org/wiki/Northern_wheatear	112	18	0.800	0.799	False
+1222	2774095	Northern wheatear	Other	N/A	Northern wheatear	en	https://en.wikipedia.org/wiki/Northern_wheatear	531	9	0.807	0.799	False
+1223	2774095	Northern wheatear	Other	N/A	Northern wheatear	en	https://en.wikipedia.org/wiki/Northern_wheatear	1210	9	0.843	0.799	False
+1224	2774095	Northern wheatear	Other	N/A	Northern wheatear	en	https://en.wikipedia.org/wiki/Northern_wheatear	1440	9	0.512	0.799	False
+1225	2774095	Northern wheatear	Other	N/A	Northern wheatear	en	https://en.wikipedia.org/wiki/Northern_wheatear	1628	9	0.629	0.799	False
+1226	2774095	Johann Friedrich Gmelin	Person	N/A	Johann Friedrich Gmelin	en	https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin	72	6	0.800	0.205	False
+1227	2774095	Tasiilaq	Location	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	195	11	0.800	0.812	False
+1228	2774095	Tasiilaq	Location	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	558	11	0.800	0.812	False
+1229	2774095	Tasiilaq	Location	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	750	11	0.800	0.812	False
+1230	2774095	Tasiilaq	Location	N/A	Tasiilaq	en	https://en.wikipedia.org/wiki/Tasiilaq	1085	11	0.814	0.812	False
+1231	2774095	Water pipit	Other	N/A	Water pipit	en	https://en.wikipedia.org/wiki/Water_pipit	252	17	0.800	0.768	False
+1232	2774095	Tunstall, Staffordshire	Location	N/A	Tunstall, Staffordshire	en	https://en.wikipedia.org/wiki/Tunstall,_Staffordshire	281	8	0.800	0.048	False
+1233	2774095	Buff-bellied pipit	Other	N/A	Buff-bellied pipit	en	https://en.wikipedia.org/wiki/Buff-bellied_pipit	292	14	0.800	0.829	False
+1234	2774095	Buff-bellied pipit	Other	N/A	Buff-bellied pipit	en	https://en.wikipedia.org/wiki/Buff-bellied_pipit	316	14	0.800	0.829	False
+1235	2774095	The American Pipit	Organization	N/A	N/A	N/A	N/A	312	18	0.569		False
+1236	2774095	Greenwich, Connecticut	Location	N/A	Greenwich, Connecticut	en	https://en.wikipedia.org/wiki/Greenwich,_Connecticut	357	13	0.974	0.694	False
+1237	2774095	Labrador	Location	N/A	Labrador	en	https://en.wikipedia.org/wiki/Labrador	375	8	0.467	0.014	False
+1238	2774095	Meadow pipit	Other	N/A	Meadow pipit	en	https://en.wikipedia.org/wiki/Meadow_pipit	435	16	0.800	0.811	False
+1239	2774095	Meadow pipit	Other	N/A	Meadow pipit	en	https://en.wikipedia.org/wiki/Meadow_pipit	473	12	0.800	0.811	False
+1240	2774095	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	453	8	0.800	0.422	False
+1241	2774095	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	679	8	0.800	0.422	False
+1242	2774095	Carl Linnaeus	Person	N/A	Carl Linnaeus	en	https://en.wikipedia.org/wiki/Carl_Linnaeus	932	8	0.800	0.422	False
+1243	2774095	EUROPEAN MEADOW	Organization	N/A	N/A	N/A	N/A	464	15	0.990		False
+1244	2774095	Lapland longspur	Other	N/A	Lapland longspur	en	https://en.wikipedia.org/wiki/Lapland_longspur	646	20	0.800	0.762	False
+1245	2774095	Sápmi	Organization	N/A	Sápmi	en	https://en.wikipedia.org/wiki/Sápmi	690	7	0.526	0.020	False
+1246	2774095	Longspur	Other	N/A	Longspur	en	https://en.wikipedia.org/wiki/Longspur	702	8	0.800	0.714	False
+1247	2774095	Three	Quantity	Number	N/A	N/A	N/A	716	5	0.800		False
+1248	2774095	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	845	4	0.800	0.119	False
+1249	2774095	Snow bunting	Other	N/A	Snow bunting	en	https://en.wikipedia.org/wiki/Snow_bunting	901	21	0.800	0.801	False
+1250	2774095	Eastern Settlement	Location	N/A	Eastern Settlement	en	https://en.wikipedia.org/wiki/Eastern_Settlement	943	7	0.800	0.115	False
+1251	2774095	Snow	Other	N/A	Snow	en	https://en.wikipedia.org/wiki/Snow	951	4	0.800	0.144	False
+1252	2774095	Bunting (bird)	Other	N/A	Bunting (bird)	en	https://en.wikipedia.org/wiki/Bunting_(bird)	959	7	0.800	0.230	False
+1253	2774095	Hudson Land	Organization	N/A	N/A	N/A	N/A	1041	11	0.908		False
+1254	2774095	Land	Other	N/A	Land	en	https://en.wikipedia.org/wiki/Land	1048	4	0.800	0.019	False
+1255	2774095	Land	Other	N/A	Land	en	https://en.wikipedia.org/wiki/Land	1189	4	0.800	0.019	False
+1256	2774095	Two	Quantity	Number	N/A	N/A	N/A	1101	3	0.800		False
+1257	2774095	Hudson Land, Musk-ox Fjord	Organization	N/A	N/A	N/A	N/A	1182	26	0.887		False
+1258	2774095	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	1195	7	0.800	0.836	False
+1259	2774095	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	1407	16	0.800	0.836	False
+1260	2774095	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	1450	8	0.800	0.836	False
+1261	2774095	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	1603	7	0.800	0.836	False
+1262	2774095	Muskox	Other	N/A	Muskox	en	https://en.wikipedia.org/wiki/Muskox	1962	7	0.800	0.836	False
+1263	2774095	Fjord	Other	N/A	Fjord	en	https://en.wikipedia.org/wiki/Fjord	1203	5	0.800	0.420	False
+1264	2774095	Fjord	Other	N/A	Fjord	en	https://en.wikipedia.org/wiki/Fjord	1611	5	0.800	0.420	False
+1265	2774095	July 31,    1936	DateTime	Date	N/A	N/A	N/A	1224	16	0.800		False
+1266	2774095	July 31	Other	N/A	July 31	en	https://en.wikipedia.org/wiki/July_31	1224	7	0.800	0.202	False
+1267	2774095	Carex	Other	N/A	Carex	en	https://en.wikipedia.org/wiki/Carex	1289	5	0.800	0.792	True
+1268	2774095	One	Quantity	Number	N/A	N/A	N/A	1302	3	0.800		False
+1269	2774095	Bird	Other	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	1306	4	0.800	0.381	False
+1270	2774095	Bee	Other	N/A	Bee	en	https://en.wikipedia.org/wiki/Bee	1387	3	0.800	0.210	False
+1271	2774095	Richard Lydekker	Person	N/A	Richard Lydekker	en	https://en.wikipedia.org/wiki/Richard_Lydekker	1430	8	0.800	0.781	False
+1272	2774095	Willow	Organization	N/A	Willow	en	https://en.wikipedia.org/wiki/Willow	1792	5	0.969	0.408	False
+1273	2774095	Clan MacFarlane	Person	N/A	Clan MacFarlane	en	https://en.wikipedia.org/wiki/Clan_MacFarlane	1845	10	0.927	0.008	False
+1274	2774095	1905	DateTime	DateRange	N/A	N/A	N/A	1857	4	0.800		False
+1275	2774095	689	Quantity	Number	N/A	N/A	N/A	1869	3	0.800		False
+1276	2774095	Adolphus Greely	Other	N/A	Adolphus Greely	en	https://en.wikipedia.org/wiki/Adolphus_Greely	1903	6	0.899	0.004	False
+1277	2774095	Adolphus Greely	Other	N/A	Adolphus Greely	en	https://en.wikipedia.org/wiki/Adolphus_Greely	1971	6	0.997	0.004	False
+1278	2774095	1886	DateTime	DateRange	N/A	N/A	N/A	1911	4	0.800		False
+1279	2774095	104	Quantity	Number	N/A	N/A	N/A	1921	3	0.800		False
+1280	2774095	105	Quantity	Number	N/A	N/A	N/A	1925	3	0.800		False
+1281	2774095	Animal	Other	N/A	Animal	en	https://en.wikipedia.org/wiki/Animal	2020	7	0.800	0.087	False
+1282	2774096	the winter	DateTime	DateRange	N/A	N/A	N/A	146	10	0.800		False
+1283	2774096	1910	DateTime	DateRange	N/A	N/A	N/A	234	4	0.800		False
+1284	2774096	1910	DateTime	DateRange	N/A	N/A	N/A	1706	4	0.800		False
+1285	2774096	88	Quantity	Number	N/A	N/A	N/A	244	2	0.800		False
+1286	2774096	89	Quantity	Number	N/A	N/A	N/A	247	2	0.800		False
+1287	2774096	four	Quantity	Number	N/A	N/A	N/A	263	4	0.800		False
+1288	2774096	October 31, 1906	DateTime	Date	N/A	N/A	N/A	292	16	0.800		False
+1289	2774096	Halloween	Other	N/A	Halloween	en	https://en.wikipedia.org/wiki/Halloween	292	10	0.800	0.105	False
+1290	2774096	August 26, 1907	DateTime	Date	N/A	N/A	N/A	382	15	0.800		False
+1291	2774096	August 26	Other	N/A	August 26	en	https://en.wikipedia.org/wiki/August_26	382	9	0.800	0.229	False
+1292	2774096	Night Watch (Lukyanenko novel)	Other	N/A	Night Watch (Lukyanenko novel)	en	https://en.wikipedia.org/wiki/Night_Watch_(Lukyanenko_novel)	441	6	0.800	0.018	False
+1293	2774096	Willow	Organization	N/A	Willow	en	https://en.wikipedia.org/wiki/Willow	500	5	0.558	0.498	False
+1294	2774096	1908	DateTime	DateRange	N/A	N/A	N/A	518	4	0.800		False
+1295	2774096	154	Quantity	Number	N/A	N/A	N/A	527	3	0.800		False
+1296	2774096	Dease River	Location	N/A	Dease River	en	https://en.wikipedia.org/wiki/Dease_River	598	11	0.944	0.689	False
+1297	2774096	August 7	DateTime	Date	August 7	en	https://en.wikipedia.org/wiki/August_7	613	8	0.800	0.186	False
+1298	2774096	Polar bear	Other	N/A	Polar bear	en	https://en.wikipedia.org/wiki/Polar_bear	670	20	0.800	0.874	False
+1299	2774096	Polar bear	Other	N/A	Polar bear	en	https://en.wikipedia.org/wiki/Polar_bear	745	10	0.800	0.874	False
+1300	2774096	Polar bear	Other	N/A	Polar bear	en	https://en.wikipedia.org/wiki/Polar_bear	780	11	0.800	0.874	False
+1301	2774096	Karl Friedrich Meyer	Person	N/A	Karl Friedrich Meyer	en	https://en.wikipedia.org/wiki/Karl_Friedrich_Meyer	719	5	0.800	0.007	False
+1302	2774096	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	730	14	0.609	0.142	False
+1303	2774096	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	765	14	0.800	0.142	False
+1304	2774096	Two	Quantity	Number	N/A	N/A	N/A	761	3	0.800		False
+1305	2774096	East Greenland Polar Bears	Location	N/A	N/A	N/A	N/A	765	26	0.550		False
+1306	2774096	1936	DateTime	DateRange	N/A	N/A	N/A	810	4	0.800		False
+1307	2774096	Fish	Other	N/A	Fish	en	https://en.wikipedia.org/wiki/Fish	911	4	0.800	0.126	False
+1308	2774096	Gadidae	Other	N/A	Gadidae	en	https://en.wikipedia.org/wiki/Gadidae	982	7	0.800	0.802	True
+1309	2774096	one	Quantity	Number	N/A	N/A	N/A	1009	3	0.800		False
+1310	2774096	J. Dewey Soper	Person	N/A	J. Dewey Soper	en	https://en.wikipedia.org/wiki/J._Dewey_Soper	1126	5	0.921	0.015	False
+1311	2774096	1928	DateTime	DateRange	N/A	N/A	N/A	1133	4	0.800		False
+1312	2774096	31	Quantity	Number	N/A	N/A	N/A	1142	2	0.800		False
+1313	2774096	Brown trout	Person	N/A	Brown trout	en	https://en.wikipedia.org/wiki/Brown_trout	1253	5	0.998	0.115	False
+1314	2774096	1868	DateTime	DateRange	N/A	N/A	N/A	1260	4	0.800		False
+1315	2774096	344	Quantity	Number	N/A	N/A	N/A	1269	3	0.800		False
+1316	2774096	Egg	Other	N/A	Egg	en	https://en.wikipedia.org/wiki/Egg	1423	4	0.800	0.042	False
+1317	2774096	few hours	DateTime	Duration	N/A	N/A	N/A	1450	9	0.800		False
+1318	2774096	66	Quantity	Number	N/A	N/A	N/A	1715	2	0.800		False
+1319	2774096	Animal	Other	N/A	Animal	en	https://en.wikipedia.org/wiki/Animal	1931	7	0.800	0.251	False
+1320	2774096	Animal	Other	N/A	Animal	en	https://en.wikipedia.org/wiki/Animal	2464	6	0.800	0.251	False
+1321	2774096	Ice	Other	N/A	Ice	en	https://en.wikipedia.org/wiki/Ice	1976	3	0.800	0.147	False
+1322	2774096	Vegetable	Other	N/A	Vegetable	en	https://en.wikipedia.org/wiki/Vegetable	2108	9	0.800	0.229	False
+1323	2774096	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	2169	14	0.800	0.879	False
+1324	2774096	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	2211	10	0.800	0.879	False
+1325	2774096	Clinton Hart Merriam	Person	N/A	Clinton Hart Merriam	en	https://en.wikipedia.org/wiki/Clinton_Hart_Merriam	2192	7	0.800	0.206	False
+1326	2774096	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	2202	8	0.800	0.017	False
+1327	2774096	LABRADOR ARCTIC Fox	Location	N/A	N/A	N/A	N/A	2202	19	0.840		False
+1328	2774096	Fox	Other	N/A	Fox	en	https://en.wikipedia.org/wiki/Fox	2259	3	0.800	0.037	False
+1329	2774096	Sea captain	Other	N/A	Sea captain	en	https://en.wikipedia.org/wiki/Sea_captain	2279	7	0.800	0.023	False
+1330	2774096	Bartletts Island	Person	N/A	Bartletts Island	en	https://en.wikipedia.org/wiki/Bartletts_Island	2290	8	0.908	0.032	False
+1331	2774096	August 6	Other	N/A	August 6	en	https://en.wikipedia.org/wiki/August_6	2302	8	0.800	0.192	False
+1332	2774096	August 6, 1935	DateTime	Date	N/A	N/A	N/A	2302	14	0.800		False
+1333	2774096	Bushnous Island	Location	N/A	N/A	N/A	N/A	2323	15	0.942		False
+1334	2774096	Island	Other	N/A	Island	en	https://en.wikipedia.org/wiki/Island	2332	6	0.800	0.108	False
+1335	2774096	Melville Bay	Location	N/A	Melville Bay	en	https://en.wikipedia.org/wiki/Melville_Bay	2340	12	0.995	0.798	False
+1336	2774096	recently	DateTime	N/A	N/A	N/A	N/A	2475	8	0.800		False
+1337	2774096	Little auk	Other	N/A	Little auk	en	https://en.wikipedia.org/wiki/Little_auk	2507	9	0.800	0.790	False
+1338	2774097	1928	DateTime	DateRange	N/A	N/A	N/A	57	4	0.800		False
+1339	2774097	35	Quantity	Number	N/A	N/A	N/A	66	2	0.800		False
+1340	2774097	Baffin Island	Location	N/A	Baffin Island	en	https://en.wikipedia.org/wiki/Baffin_Island	90	13	0.990	0.883	False
+1341	2774097	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	130	3	0.800	0.869	False
+1342	2774097	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	597	6	0.954	0.869	False
+1343	2774097	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	631	20	0.939	0.869	False
+1344	2774097	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	669	20	0.907	0.869	False
+1345	2774097	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	731	9	0.638	0.869	False
+1346	2774097	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	895	9	0.800	0.869	False
+1347	2774097	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	947	9	0.800	0.869	False
+1348	2774097	Arctic fox	Other	N/A	Arctic fox	en	https://en.wikipedia.org/wiki/Arctic_fox	1023	9	0.628	0.869	False
+1349	2774097	the    year	DateTime	DateRange	N/A	N/A	N/A	171	11	0.800		False
+1350	2774097	County of March	DateTime	DateRange	County of March	en	https://en.wikipedia.org/wiki/County_of_March	318	5	0.800	0.014	False
+1351	2774097	April (Finnish band)	DateTime	DateRange	April (Finnish band)	en	https://en.wikipedia.org/wiki/April_(Finnish_band)	328	5	0.800	0.007	False
+1352	2774097	Ice	Other	N/A	Ice	en	https://en.wikipedia.org/wiki/Ice	437	3	0.800	0.078	False
+1353	2774097	Edward Alexander Preble	Person	N/A	Edward Alexander Preble	en	https://en.wikipedia.org/wiki/Edward_Alexander_Preble	442	6	0.800	0.212	False
+1354	2774097	Edward Alexander Preble	Person	N/A	Edward Alexander Preble	en	https://en.wikipedia.org/wiki/Edward_Alexander_Preble	1911	6	0.800	0.212	False
+1355	2774097	1902	DateTime	DateRange	N/A	N/A	N/A	450	4	0.800		False
+1356	2774097	62	Quantity	Number	N/A	N/A	N/A	462	2	0.800		False
+1357	2774097	C. Bechstein	Organization	N/A	C. Bechstein	en	https://en.wikipedia.org/wiki/C._Bechstein	619	9	0.800	0.107	False
+1358	2774097	Ymer Island	Location	N/A	Ymer Island	en	https://en.wikipedia.org/wiki/Ymer_Island	705	11	0.684	0.845	False
+1359	2774097	August 3	Other	N/A	August 3	en	https://en.wikipedia.org/wiki/August_3	745	8	0.800	0.169	False
+1360	2774097	August 3, 1936	DateTime	Date	N/A	N/A	N/A	745	14	0.800		False
+1361	2774097	Remains (The Only Ones album)	Other	N/A	Remains (The Only Ones album)	en	https://en.wikipedia.org/wiki/Remains_(The_Only_Ones_album)	761	7	0.800	0.028	False
+1362	2774097	Collared lemming	Other	N/A	Collared lemming	en	https://en.wikipedia.org/wiki/Collared_lemming	804	11	0.800	0.778	False
+1363	2774097	Arctic hare	Other	N/A	Arctic hare	en	https://en.wikipedia.org/wiki/Arctic_hare	858	14	0.800	0.837	False
+1364	2774097	Rhoads	Person	N/A	N/A	N/A	N/A	887	6	0.896		False
+1365	2774097	Rhoads	Person	N/A	N/A	N/A	N/A	1600	6	0.817		False
+1366	2774097	GREENLAND HARE	Organization	N/A	N/A	N/A	N/A	895	14	0.712		False
+1367	2774097	Hare	Other	N/A	Hare	en	https://en.wikipedia.org/wiki/Hare	905	4	0.800	0.054	False
+1368	2774097	Hare	Other	N/A	Hare	en	https://en.wikipedia.org/wiki/Hare	957	4	0.800	0.054	False
+1369	2774097	Two	Quantity	Number	N/A	N/A	N/A	915	3	0.800		False
+1370	2774097	Greenland Hare	Location	N/A	N/A	N/A	N/A	947	14	0.918		False
+1371	2774097	the first    week of August	DateTime	DateRange	N/A	N/A	N/A	969	27	0.800		False
+1372	2774097	August (Rossner novel)	Other	N/A	August (Rossner novel)	en	https://en.wikipedia.org/wiki/August_(Rossner_novel)	990	6	0.800	0.019	False
+1373	2774097	North Fjord	Location	N/A	N/A	N/A	N/A	1000	11	0.808		False
+1374	2774097	Fjord	Other	N/A	Fjord	en	https://en.wikipedia.org/wiki/Fjord	1006	5	0.800	0.458	False
+1375	2774097	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	1072	5	0.800	0.379	False
+1376	2774097	Car	Other	N/A	Car	en	https://en.wikipedia.org/wiki/Car	1195	3	0.800	0.081	True
+1377	2774097	Calamagrostis	Other	N/A	Calamagrostis	en	https://en.wikipedia.org/wiki/Calamagrostis	1207	13	0.800	0.734	True
+1378	2774097	Potentilla	Other	N/A	Potentilla	en	https://en.wikipedia.org/wiki/Potentilla	1230	10	0.800	0.767	True
+1379	2774097	47.5 per cent	Quantity	Percentage	N/A	N/A	N/A	1293	13	0.800		False
+1380	2774097	25 per cent	Quantity	Percentage	N/A	N/A	N/A	1308	11	0.800		False
+1381	2774097	17.5	Quantity	Number	N/A	N/A	N/A	1325	4	0.800		False
+1382	2774097	cent	Quantity	Currency	N/A	N/A	N/A	1337	4	0.800		False
+1383	2774097	Pedicularis	Other	N/A	Pedicularis	en	https://en.wikipedia.org/wiki/Pedicularis	1369	11	0.800	0.719	True
+1384	2774097	Poaceae	Other	N/A	Poaceae	en	https://en.wikipedia.org/wiki/Poaceae	1415	7	0.800	0.882	True
+1385	2774097	one	Quantity	Number	N/A	N/A	N/A	1451	3	0.800		False
+1386	2774097	one	Quantity	Number	N/A	N/A	N/A	1590	3	0.800		False
+1387	2774097	10 per cent	Quantity	Percentage	N/A	N/A	N/A	1487	11	0.800		False
+1388	2774097	Plant	Other	N/A	Plant	en	https://en.wikipedia.org/wiki/Plant	1540	5	0.800	0.065	True
+1389	2774097	Draba	Other	N/A	Draba	en	https://en.wikipedia.org/wiki/Draba	1558	5	0.800	0.723	True
+1390	2774097	1897	DateTime	DateRange	N/A	N/A	N/A	1608	4	0.800		False
+1391	2774097	359	Quantity	Number	N/A	N/A	N/A	1620	3	0.800		False
+1392	2774097	winter	DateTime	DateRange	N/A	N/A	N/A	1753	6	0.800		False
+1393	2774097	Labrador	Location	N/A	Labrador	en	https://en.wikipedia.org/wiki/Labrador	1882	8	0.492	0.032	False
+1394	2774097	Rhododendron subsect. Ledum	Other	N/A	Rhododendron subsect. Ledum	en	https://en.wikipedia.org/wiki/Rhododendron_subsect._Ledum	1899	5	0.800	0.782	False
+1395	2774097	1908	DateTime	DateRange	N/A	N/A	N/A	1919	4	0.800		False
+1396	2774097	199	Quantity	Number	N/A	N/A	N/A	1928	3	0.800		False
+1397	2774097	Athabasca Valles	Location	N/A	Athabasca Valles	en	https://en.wikipedia.org/wiki/Athabasca_Valles	1964	9	0.657	0.009	False
+1398	2774097	Mackenzie River	Location	N/A	Mackenzie River	en	https://en.wikipedia.org/wiki/Mackenzie_River	1978	9	0.800	0.175	False
+1399	2774097	1903	DateTime	DateRange	N/A	N/A	N/A	2021	4	0.800		False
+1400	2774097	Shrub	Other	N/A	Shrub	en	https://en.wikipedia.org/wiki/Shrub	2090	6	0.800	0.476	False
+1401	2774097	Hooded seal	Other	N/A	Hooded seal	en	https://en.wikipedia.org/wiki/Hooded_seal	2201	19	0.800	0.800	False
+1402	2774097	Hooded seal	Other	N/A	Hooded seal	en	https://en.wikipedia.org/wiki/Hooded_seal	2233	11	0.800	0.800	False
+1403	2774097	Erxleben, Börde	Location	N/A	Erxleben, Börde	en	https://en.wikipedia.org/wiki/Erxleben,_Börde	2222	8	0.525	0.029	False
+1404	2774098	AUSTIN	Person	N/A	N/A	N/A	N/A	71	6	0.990		False
+1405	2774098	Open Library	Organization	N/A	Open Library	en	https://en.wikipedia.org/wiki/Open_Library	79	5	0.800	0.081	False
+1406	2774098	1932	DateTime	DateRange	N/A	N/A	N/A	89	4	0.800		False
+1407	2774098	1932	DateTime	DateRange	N/A	N/A	N/A	617	4	0.800		False
+1408	2774098	1932	DateTime	DateRange	N/A	N/A	N/A	1121	4	0.800		False
+1409	2774098	The Birds (film)	Other	N/A	The Birds (film)	en	https://en.wikipedia.org/wiki/The_Birds_(film)	95	9	0.800	0.043	False
+1410	2774098	The Birds of Newfoundland, Labrador	Organization	N/A	N/A	N/A	N/A	95	35	0.789		False
+1411	2774098	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	108	12	0.800	0.056	False
+1412	2774098	Newfoundland and Labrador	Location	N/A	Newfoundland and Labrador	en	https://en.wikipedia.org/wiki/Newfoundland_and_Labrador	122	8	0.800	0.056	False
+1413	2774098	Thomas Nuttall	Person	N/A	Thomas Nuttall	en	https://en.wikipedia.org/wiki/Thomas_Nuttall	137	4	0.989	0.192	False
+1414	2774098	Vii	Other	N/A	Vii	en	https://en.wikipedia.org/wiki/Vii	164	3	0.800	0.023	False
+1415	2774098	1	Quantity	Number	N/A	N/A	N/A	173	1	0.800		False
+1416	2774098	1	Quantity	Number	N/A	N/A	N/A	293	1	0.800		False
+1417	2774098	1	Quantity	Number	N/A	N/A	N/A	401	1	0.800		False
+1418	2774098	1	Quantity	Number	N/A	N/A	N/A	779	1	0.800		False
+1419	2774098	1	Quantity	Number	N/A	N/A	N/A	786	1	0.800		False
+1420	2774098	1	Quantity	Number	N/A	N/A	N/A	867	1	0.800		False
+1421	2774098	1	Quantity	Number	N/A	N/A	N/A	1013	1	0.800		False
+1422	2774098	1	Quantity	Number	N/A	N/A	N/A	1217	1	0.800		False
+1423	2774098	1	Quantity	Number	N/A	N/A	N/A	1510	1	0.800		False
+1424	2774098	1	Quantity	Number	N/A	N/A	N/A	1581	1	0.800		False
+1425	2774098	1	Quantity	Number	N/A	N/A	N/A	1596	1	0.800		False
+1426	2774098	1	Quantity	Number	N/A	N/A	N/A	1627	1	0.800		False
+1427	2774098	1	Quantity	Number	N/A	N/A	N/A	1760	1	0.800		False
+1428	2774098	1	Quantity	Number	N/A	N/A	N/A	1876	1	0.800		False
+1429	2774098	1	Quantity	Number	N/A	N/A	N/A	2117	1	0.800		False
+1430	2774098	1	Quantity	Number	N/A	N/A	N/A	2255	1	0.800		False
+1431	2774098	229	Quantity	Number	N/A	N/A	N/A	175	3	0.800		False
+1432	2774098	Air conditioning	Person	N/A	Air conditioning	en	https://en.wikipedia.org/wiki/Air_conditioning	190	5	0.998	0.010	False
+1433	2774098	1919	DateTime	DateRange	N/A	N/A	N/A	200	4	0.800		False
+1434	2774098	Life Histories of North American Diving Birds	Organization	N/A	N/A	N/A	N/A	206	45	0.925		False
+1435	2774098	United States	Location	N/A	United States	en	https://en.wikipedia.org/wiki/United_States	224	14	0.800	0.023	False
+1436	2774098	United States	Location	N/A	United States	en	https://en.wikipedia.org/wiki/United_States	327	14	0.800	0.023	False
+1437	2774098	United States	Location	N/A	United States	en	https://en.wikipedia.org/wiki/United_States	1722	14	0.800	0.023	False
+1438	2774098	Diving bird	Other	N/A	Diving bird	en	https://en.wikipedia.org/wiki/Diving_bird	239	12	0.800	0.672	False
+1439	2774098	Cattle	Other	N/A	Cattle	en	https://en.wikipedia.org/wiki/Cattle	253	4	0.898	0.018	False
+1440	2774098	Cattle	Other	N/A	Cattle	en	https://en.wikipedia.org/wiki/Cattle	353	4	0.898	0.018	False
+1441	2774098	Cattle	Other	N/A	Cattle	en	https://en.wikipedia.org/wiki/Cattle	2233	4	0.705	0.018	False
+1442	2774098	U. S. Nat	Person	N/A	N/A	N/A	N/A	259	9	0.999		False
+1443	2774098	U. S. Nat	Person	N/A	N/A	N/A	N/A	359	9	0.999		False
+1444	2774098	U. S. Nat	Person	N/A	N/A	N/A	N/A	1353	9	0.999		False
+1445	2774098	107	Quantity	Number	N/A	N/A	N/A	284	3	0.800		False
+1446	2774098	239	Quantity	Number	N/A	N/A	N/A	295	3	0.800		False
+1447	2774098	1925	DateTime	DateRange	N/A	N/A	N/A	303	4	0.800		False
+1448	2774098	1925	DateTime	DateRange	N/A	N/A	N/A	698	4	0.800		False
+1449	2774098	Life Histories of North American Wild Fowl	Organization	N/A	N/A	N/A	N/A	309	42	0.864		False
+1450	2774098	Wildlife	Other	N/A	Wildlife	en	https://en.wikipedia.org/wiki/Wildlife	342	4	0.800	0.077	False
+1451	2774098	Fowl	Other	N/A	Fowl	en	https://en.wikipedia.org/wiki/Fowl	347	4	0.800	0.155	False
+1452	2774098	No. 130 Squadron RAF	Organization	N/A	No. 130 Squadron RAF	en	https://en.wikipedia.org/wiki/No._130_Squadron_RAF	380	7	0.800	0.396	False
+1453	2774098	311	Quantity	Number	N/A	N/A	N/A	403	3	0.800		False
+1454	2774098	Robert Curtis Brown	Person	N/A	Robert Curtis Brown	en	https://en.wikipedia.org/wiki/Robert_Curtis_Brown	412	13	0.800	0.012	False
+1455	2774098	1868	DateTime	DateRange	N/A	N/A	N/A	430	4	0.800		False
+1456	2774098	Mammal	Other	N/A	Mammal	en	https://en.wikipedia.org/wiki/Mammal	443	9	0.800	0.392	False
+1457	2774098	Fauna	Other	N/A	Fauna	en	https://en.wikipedia.org/wiki/Fauna	453	5	0.800	0.180	False
+1458	2774098	Fauna	Other	N/A	Fauna	en	https://en.wikipedia.org/wiki/Fauna	1741	5	0.800	0.180	False
+1459	2774098	Fauna	Other	N/A	Fauna	en	https://en.wikipedia.org/wiki/Fauna	1857	5	0.800	0.180	False
+1460	2774098	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	462	9	0.890	0.410	False
+1461	2774098	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	1467	9	0.800	0.410	False
+1462	2774098	Greenland	Location	N/A	Greenland	en	https://en.wikipedia.org/wiki/Greenland	2050	9	0.800	0.410	False
+1463	2774098	Zool	Person	N/A	Zool	en	https://en.wikipedia.org/wiki/Zool	479	4	0.528	0.065	False
+1464	2774098	System on a chip	Other	N/A	System on a chip	en	https://en.wikipedia.org/wiki/System_on_a_chip	485	4	0.800	0.006	False
+1465	2774098	University of London	Organization	N/A	University of London	en	https://en.wikipedia.org/wiki/University_of_London	490	4	0.800	0.096	False
+1466	2774098	Michael Cottam	Person	N/A	Michael Cottam	en	https://en.wikipedia.org/wiki/Michael_Cottam	505	6	0.800	0.012	False
+1467	2774098	Clarence (U.S. TV series)	Person	N/A	Clarence (U.S. TV series)	en	https://en.wikipedia.org/wiki/Clarence_(U.S._TV_series)	513	8	0.901	0.028	False
+1468	2774098	Clarence (U.S. TV series)	Person	N/A	Clarence (U.S. TV series)	en	https://en.wikipedia.org/wiki/Clarence_(U.S._TV_series)	988	4	0.800	0.028	False
+1469	2774098	Clarence (U.S. TV series)	Person	N/A	Clarence (U.S. TV series)	en	https://en.wikipedia.org/wiki/Clarence_(U.S._TV_series)	2200	4	0.800	0.028	False
+1470	2774098	1936	DateTime	DateRange	N/A	N/A	N/A	526	4	0.800		False
+1471	2774098	Food	Other	N/A	Food	en	https://en.wikipedia.org/wiki/Food	532	4	0.800	0.090	False
+1472	2774098	Arctic Birds	Location	N/A	N/A	N/A	N/A	540	12	0.783		False
+1473	2774098	Bird	Location	N/A	Bird	en	https://en.wikipedia.org/wiki/Bird	948	8	0.654	0.483	False
+1474	2774098	The Bartlett	Organization	N/A	The Bartlett	en	https://en.wikipedia.org/wiki/The_Bartlett	578	12	0.800	0.691	False
+1475	2774098	1931	Other	N/A	N/A	N/A	N/A	611	4	0.800		False
+1476	2774098	1931	Other	N/A	N/A	N/A	N/A	1539	4	0.800		False
+1477	2774098	1933	DateTime	DateRange	N/A	N/A	N/A	627	4	0.800		False
+1478	2774098	Journ	Person	N/A	N/A	N/A	N/A	633	5	0.565		False
+1479	2774098	Sci	Person	N/A	N/A	N/A	N/A	652	3	0.657		False
+1480	2774098	26	Quantity	Number	N/A	N/A	N/A	658	2	0.800		False
+1481	2774098	165	Quantity	Number	N/A	N/A	N/A	666	3	0.800		False
+1482	2774098	177	Quantity	Number	N/A	N/A	N/A	670	3	0.800		False
+1483	2774098	177	Quantity	Number	N/A	N/A	N/A	1054	3	0.800		False
+1484	2774098	Edward Howe Forbush	Person	N/A	Edward Howe Forbush	en	https://en.wikipedia.org/wiki/Edward_Howe_Forbush	679	7	0.766	0.159	False
+1485	2774098	E. H.	Person	N/A	N/A	N/A	N/A	688	5	0.993		False
+1486	2774098	Massachusetts	Location	N/A	Massachusetts	en	https://en.wikipedia.org/wiki/Massachusetts	713	13	0.944	0.153	False
+1487	2774098	Race and ethnicity in the United States Census	Other	N/A	Race and ethnicity in the United States Census	en	https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States_Census	731	5	0.800	0.189	False
+1488	2774098	New England	Location	N/A	New England	en	https://en.wikipedia.org/wiki/New_England	737	18	0.800	0.530	False
+1489	2774098	Mass. Dept.	Organization	N/A	N/A	N/A	N/A	757	11	0.535		False
+1490	2774098	481	Quantity	Number	N/A	N/A	N/A	788	3	0.800		False
+1491	2774098	Greely S. Curtis	Person	N/A	Greely S. Curtis	en	https://en.wikipedia.org/wiki/Greely_S._Curtis	797	6	0.761	0.037	False
+1492	2774098	A.W. (musician)	Person	N/A	A.W. (musician)	en	https://en.wikipedia.org/wiki/A.W._(musician)	805	5	0.997	0.013	False
+1493	2774098	1886	DateTime	DateRange	N/A	N/A	N/A	815	4	0.800		False
+1494	2774098	Three Years	DateTime	Duration	N/A	N/A	N/A	821	11	0.800		False
+1495	2774098	Tertiary sector of the economy	Other	N/A	Tertiary sector of the economy	en	https://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy	843	7	0.800	0.011	False
+1496	2774098	London & South East Premier	Organization	N/A	London & South East Premier	en	https://en.wikipedia.org/wiki/London_&_South_East_Premier	852	9	0.800	0.684	False
+1497	2774098	428	Quantity	Number	N/A	N/A	N/A	869	3	0.800		False
+1498	2774098	Bernhard Hantzsch	Person	N/A	Bernhard Hantzsch	en	https://en.wikipedia.org/wiki/Bernhard_Hantzsch	878	8	0.800	0.045	False
+1499	2774098	Thomas Bernhard	Person	N/A	Thomas Bernhard	en	https://en.wikipedia.org/wiki/Thomas_Bernhard	888	8	0.931	0.011	False
+1500	2774098	1928	Quantity	Number	N/A	N/A	N/A	901	4	0.800		False
+1501	2774098	29	Quantity	Number	N/A	N/A	N/A	906	2	0.800		False
+1502	2774098	Northeastern United States	Location	N/A	Northeastern United States	en	https://en.wikipedia.org/wiki/Northeastern_United_States	960	12	0.800	0.003	False
+1503	2774098	Northeastern United States	Location	N/A	Northeastern United States	en	https://en.wikipedia.org/wiki/Northeastern_United_States	1457	9	0.800	0.003	False
+1504	2774098	Labrador Retriever	Other	N/A	Labrador Retriever	en	https://en.wikipedia.org/wiki/Labrador_Retriever	973	3	0.800	0.045	False
+1505	2774098	Field Nat.	Organization	N/A	N/A	N/A	N/A	993	10	0.685		False
+1506	2774098	Field (agriculture)	Other	N/A	Field (agriculture)	en	https://en.wikipedia.org/wiki/Field_(agriculture)	993	5	0.800	0.024	False
+1507	2774098	42	Quantity	Number	N/A	N/A	N/A	1005	2	0.800		False
+1508	2774098	9	Quantity	Number	N/A	N/A	N/A	1015	1	0.800		False
+1509	2774098	33	Quantity	Number	N/A	N/A	N/A	1018	2	0.800		False
+1510	2774098	40	Quantity	Number	N/A	N/A	N/A	1021	2	0.800		False
+1511	2774098	87	Quantity	Number	N/A	N/A	N/A	1025	2	0.800		False
+1512	2774098	94	Quantity	Number	N/A	N/A	N/A	1028	2	0.800		False
+1513	2774098	123	Quantity	Number	N/A	N/A	N/A	1032	3	0.800		False
+1514	2774098	125	Quantity	Number	N/A	N/A	N/A	1036	3	0.800		False
+1515	2774098	146	Quantity	Number	N/A	N/A	N/A	1041	3	0.800		False
+1516	2774098	148	Quantity	Number	N/A	N/A	N/A	1045	3	0.800		False
+1517	2774098	172	Quantity	Number	N/A	N/A	N/A	1050	3	0.800		False
+1518	2774098	201	Quantity	Number	N/A	N/A	N/A	1062	3	0.800		False
+1519	2774098	207	Quantity	Number	N/A	N/A	N/A	1066	3	0.800		False
+1520	2774098	221	Quantity	Number	N/A	N/A	N/A	1071	3	0.800		False
+1521	2774098	227	Quantity	Number	N/A	N/A	N/A	1075	3	0.800		False
+1522	2774098	43	Quantity	Number	N/A	N/A	N/A	1080	2	0.800		False
+1523	2774098	52	Quantity	Number	N/A	N/A	N/A	1088	2	0.800		False
+1524	2774098	59	Quantity	Number	N/A	N/A	N/A	1091	2	0.800		False
+1525	2774098	Bernt Wilhelm Westermann	Person	N/A	Bernt Wilhelm Westermann	en	https://en.wikipedia.org/wiki/Bernt_Wilhelm_Westermann	1111	5	0.800	0.031	False
+1526	2774098	Die Vögel (opera)	Other	N/A	Die Vögel (opera)	en	https://en.wikipedia.org/wiki/Die_Vögel_(opera)	1127	9	0.800	0.662	False
+1527	2774098	70	Quantity	Number	N/A	N/A	N/A	1163	2	0.800		False
+1528	2774098	75	Quantity	Number	N/A	N/A	N/A	1170	2	0.800		False
+1529	2774098	30	Quantity	Number	N/A	N/A	N/A	1173	2	0.800		False
+1530	2774098	91	Quantity	Number	N/A	N/A	N/A	1202	2	0.800		False
+1531	2774098	No. 6	Other	N/A	No. 6	en	https://en.wikipedia.org/wiki/No._6	1206	5	0.800	0.063	False
+1532	2774098	128	Quantity	Number	N/A	N/A	N/A	1219	3	0.800		False
+1533	2774098	Seth MacFarlane	Person	N/A	Seth MacFarlane	en	https://en.wikipedia.org/wiki/Seth_MacFarlane	1228	10	0.809	0.032	False
+1534	2774098	ROBERT	Person	N/A	N/A	N/A	N/A	1240	6	0.962		False
+1535	2774098	1905	DateTime	DateRange	N/A	N/A	N/A	1251	4	0.800		False
+1536	2774098	Musical note	Other	N/A	Musical note	en	https://en.wikipedia.org/wiki/Musical_note	1257	5	0.800	0.016	False
+1537	2774098	Northern Hemisphere	Location	N/A	Northern Hemisphere	en	https://en.wikipedia.org/wiki/Northern_Hemisphere	1304	8	0.800	0.043	False
+1538	2774098	Northern Mackenzie    River District	Location	N/A	N/A	N/A	N/A	1304	36	0.939		False
+1539	2774098	Mackenzie River	Location	N/A	Mackenzie River	en	https://en.wikipedia.org/wiki/Mackenzie_River	1313	9	0.800	0.177	False
+1540	2774098	Mackenzie River	Location	N/A	Mackenzie River	en	https://en.wikipedia.org/wiki/Mackenzie_River	1820	9	0.800	0.177	False
+1541	2774098	28	Quantity	Number	N/A	N/A	N/A	1370	2	0.800		False
+1542	2774098	673	Quantity	Number	N/A	N/A	N/A	1378	3	0.800		False
+1543	2774098	764	Quantity	Number	N/A	N/A	N/A	1382	3	0.800		False
+1544	2774098	Claus Manniche	Person	N/A	Claus Manniche	en	https://en.wikipedia.org/wiki/Claus_Manniche	1391	8	0.800	0.066	False
+1545	2774098	A. L. V.	Person	N/A	N/A	N/A	N/A	1401	8	1.000		False
+1546	2774098	GCE Advanced Level	Other	N/A	GCE Advanced Level	en	https://en.wikipedia.org/wiki/GCE_Advanced_Level	1401	5	0.800	0.072	False
+1547	2774098	1910	DateTime	DateRange	N/A	N/A	N/A	1414	4	0.800		False
+1548	2774098	The Terrestrial Mammals	Organization	N/A	N/A	N/A	N/A	1420	23	0.535		False
+1549	2774098	Terrestrial animal	Other	N/A	Terrestrial animal	en	https://en.wikipedia.org/wiki/Terrestrial_animal	1424	19	0.800	0.568	False
+1550	2774098	Northeast Greenland	Location	N/A	N/A	N/A	N/A	1457	19	0.913		False
+1551	2774098	45	Quantity	Number	N/A	N/A	N/A	1502	2	0.800		False
+1552	2774098	200	Quantity	Number	N/A	N/A	N/A	1512	3	0.800		False
+1553	2774098	PETERS	Person	N/A	N/A	N/A	N/A	1521	6	0.990		False
+1554	2774098	J. L.	Person	N/A	N/A	N/A	N/A	1529	5	0.997		False
+1555	2774098	L	Quantity	Dimension	N/A	N/A	N/A	1532	1	0.800		False
+1556	2774098	34	Quantity	Number	N/A	N/A	N/A	1544	2	0.800		False
+1557	2774098	James L. Peters	Person	N/A	James L. Peters	en	https://en.wikipedia.org/wiki/James_L._Peters	1548	31	0.800	0.666	False
+1558	2774098	345	Quantity	Number	N/A	N/A	N/A	1598	3	0.800		False
+1559	2774098	1921	DateTime	DateRange	N/A	N/A	N/A	1603	4	0.800		False
+1560	2774098	2	Quantity	Number	N/A	N/A	N/A	1609	1	0.800		False
+1561	2774098	401	Quantity	Number	N/A	N/A	N/A	1629	3	0.800		False
+1562	2774098	1934	DateTime	DateRange	N/A	N/A	N/A	1634	4	0.800		False
+1563	2774098	Edward Alexander Preble	Person	N/A	Edward Alexander Preble	en	https://en.wikipedia.org/wiki/Edward_Alexander_Preble	1645	6	0.800	0.067	False
+1564	2774098	E. A.	Person	N/A	N/A	N/A	N/A	1653	5	0.923		False
+1565	2774098	1902	DateTime	DateRange	N/A	N/A	N/A	1663	4	0.800		False
+1566	2774098	Biological Investigation	Organization	N/A	N/A	N/A	N/A	1671	24	0.524		False
+1567	2774098	Biological Investigation	Organization	N/A	N/A	N/A	N/A	1778	24	0.518		False
+1568	2774098	Biology	Other	N/A	Biology	en	https://en.wikipedia.org/wiki/Biology	1671	10	0.800	0.006	False
+1569	2774098	Biology	Other	N/A	Biology	en	https://en.wikipedia.org/wiki/Biology	1778	10	0.800	0.006	False
+1570	2774098	Biology	Other	N/A	Biology	en	https://en.wikipedia.org/wiki/Biology	2221	4	0.800	0.006	False
+1571	2774098	Federal Bureau of Investigation	Organization	N/A	Federal Bureau of Investigation	en	https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation	1682	13	0.800	0.126	False
+1572	2774098	Federal Bureau of Investigation	Organization	N/A	Federal Bureau of Investigation	en	https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation	1789	13	0.800	0.126	False
+1573	2774098	Federal Bureau of Investigation	Organization	N/A	Federal Bureau of Investigation	en	https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation	2159	13	0.800	0.126	False
+1574	2774098	Hudson Bay Region	Organization	N/A	N/A	N/A	N/A	1703	17	0.506		False
+1575	2774098	Bay, Somalia	Location	N/A	Bay, Somalia	en	https://en.wikipedia.org/wiki/Bay,_Somalia	1710	10	0.800	0.554	False
+1576	2774098	22	Quantity	Number	N/A	N/A	N/A	1752	2	0.800		False
+1577	2774098	140	Quantity	Number	N/A	N/A	N/A	1762	3	0.800		False
+1578	2774098	1908	DateTime	DateRange	N/A	N/A	N/A	1770	4	0.800		False
+1579	2774098	Athabaskan languages	Location	N/A	Athabaskan languages	en	https://en.wikipedia.org/wiki/Athabaskan_languages	1810	9	0.690	0.022	False
+1580	2774098	North America	Location	N/A	North America	en	https://en.wikipedia.org/wiki/North_America	1942	13	0.859	0.005	False
+1581	2774098	27	Quantity	Number	N/A	N/A	N/A	1868	2	0.800		False
+1582	2774098	574	Quantity	Number	N/A	N/A	N/A	1878	3	0.800		False
+1583	2774098	RHOADS	Person	N/A	N/A	N/A	N/A	1887	6	0.822		False
+1584	2774098	Sine nomine	Person	N/A	Sine nomine	en	https://en.wikipedia.org/wiki/Sine_nomine	1895	5	0.999	0.019	False
+1585	2774098	1897	DateTime	DateRange	N/A	N/A	N/A	1905	4	0.800		False
+1586	2774098	Polar Hares	Organization	N/A	N/A	N/A	N/A	1927	11	0.939		False
+1587	2774098	Hare	Other	N/A	Hare	en	https://en.wikipedia.org/wiki/Hare	1933	5	0.800	0.198	False
+1588	2774098	Acad	Person	N/A	N/A	N/A	N/A	1963	4	0.528		False
+1589	2774098	Nat	Person	N/A	N/A	N/A	N/A	1969	3	0.976		False
+1590	2774098	Sci.    Phila.	Organization	N/A	N/A	N/A	N/A	1974	14	0.907		False
+1591	2774098	351	Quantity	Number	N/A	N/A	N/A	1994	3	0.800		False
+1592	2774098	376	Quantity	Number	N/A	N/A	N/A	1998	3	0.800		False
+1593	2774098	Finn Salomonsen	Person	N/A	Finn Salomonsen	en	https://en.wikipedia.org/wiki/Finn_Salomonsen	2007	10	0.909	0.132	False
+1594	2774098	FINN	Organization	N/A	N/A	N/A	N/A	2019	4	0.513		False
+1595	2774098	1926	DateTime	DateRange	N/A	N/A	N/A	2028	4	0.800		False
+1596	2774098	Mass of Paul VI	Other	N/A	Mass of Paul VI	en	https://en.wikipedia.org/wiki/Mass_of_Paul_VI	2034	8	0.800	0.003	False
+1597	2774098	Greenland Rock Ptarmigans	Location	N/A	N/A	N/A	N/A	2050	25	0.853		False
+1598	2774098	Rock music	Other	N/A	Rock music	en	https://en.wikipedia.org/wiki/Rock_music	2060	4	0.800	0.046	False
+1599	2774098	Lagopus	Other	N/A	Lagopus	en	https://en.wikipedia.org/wiki/Lagopus	2065	10	0.800	0.731	True
+1600	2774098	118	Quantity	Number	N/A	N/A	N/A	2101	3	0.800		False
+1601	2774098	No. 2 (film)	Other	N/A	No. 2 (film)	en	https://en.wikipedia.org/wiki/No._2_(film)	2106	5	0.800	0.110	False
+1602	2774098	36	Quantity	Number	N/A	N/A	N/A	2119	2	0.800		False
+1603	2774098	Tony Soper	Person	N/A	Tony Soper	en	https://en.wikipedia.org/wiki/Tony_Soper	2127	5	0.825	0.049	False
+1604	2774098	J. D.     1928	Person	N/A	N/A	N/A	N/A	2134	14	0.666		False
+1605	2774098	J.D. (Scrubs)	Other	N/A	J.D. (Scrubs)	en	https://en.wikipedia.org/wiki/J.D._(Scrubs)	2134	5	0.800	0.007	False
+1606	2774098	Faunal Investigation	Organization	N/A	N/A	N/A	N/A	2152	20	0.935		False
+1607	2774098	Southern Baffin Island	Location	N/A	N/A	N/A	N/A	2176	22	0.982		False
+1608	2774098	Southern United States	Location	N/A	Southern United States	en	https://en.wikipedia.org/wiki/Southern_United_States	2176	8	0.800	0.003	False
+1609	2774098	Baffin Island	Location	N/A	Baffin Island	en	https://en.wikipedia.org/wiki/Baffin_Island	2185	13	0.800	0.808	False
+1610	2774098	Mining	Other	N/A	Mining	en	https://en.wikipedia.org/wiki/Mining	2211	5	0.800	0.008	False
+1611	2774098	Serine	Person	N/A	Serine	en	https://en.wikipedia.org/wiki/Serine	2227	3	0.972	0.063	False
+1612	2774098	53	Quantity	Number	N/A	N/A	N/A	2239	2	0.800		False
+1613	2774098	129	Quantity	Number	N/A	N/A	N/A	2257	3	0.800		False
+1614	2774098	Halo: Combat Evolved	Other	N/A	Halo: Combat Evolved	en	https://en.wikipedia.org/wiki/Halo:_Combat_Evolved	2266	11	0.800	0.000	False
+1615	2774098	Outfielder	Other	N/A	Outfielder	en	https://en.wikipedia.org/wiki/Outfielder	2312	2	0.800	0.098	False
+1616	2774098	ILLINOIS	Location	N/A	N/A	N/A	N/A	2315	8	0.998		False

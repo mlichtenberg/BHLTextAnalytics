@@ -1,0 +1,1540 @@
+﻿PageID	Type	Name	Offset	Type	Name	Offset	IsScientificName
+2774073	Location	Library	139	Organization	University of Illinois at Urbana–Champaign	116	0
+2774073	Location	Library	139	Organization	University of Illinois Library	116	0
+2774077	Location	CHICAGO	135	Other	Outfielder	181	0
+2774077	Location	CHICAGO	135	Organization	Zoology	60	0
+2774077	Location	CHICAGO	135	Location	Field Museum of Natural History	89	0
+2774077	Location	CHICAGO	135	Other	Trade paperback (comics)	125	0
+2774077	Location	CHICAGO	135	Other	Super Bowl XX	132	0
+2774077	Location	CHICAGO	135	DateTime	JUNE 14, 1938	144	0
+2774077	Location	CHICAGO	135	Other	June 14	144	0
+2774077	Location	CHICAGO	135	Organization	ARCTIC BIRDS	189	0
+2774077	Location	CHICAGO	135	Person	CLARENCE COTTAM	224	0
+2774077	Location	CHICAGO	135	Quantity	31	162	0
+2774077	Location	CHICAGO	135	Other	Food choice	169	0
+2774077	Location	Chicago	376	Other	Sea captain	318	0
+2774077	Location	Chicago	376	Person	R. A. Bartlett	329	0
+2774077	Location	Chicago	376	Organization	Royal Academy of Arts	329	0
+2774077	Location	Chicago	376	Organization	Chicago Zoological    Society	376	0
+2774077	Location	Chicago	376	Other	Society	398	0
+2774077	Location	Chicago	376	Organization	Zoology	384	0
+2774077	Location	Field Museum of Natural History	89	Organization	Zoology	60	0
+2774077	Location	Field Museum of Natural History	89	Other	Outfielder	181	0
+2774077	Location	Field Museum of Natural History	89	Quantity	31	162	0
+2774077	Location	Field Museum of Natural History	89	Other	June 14	144	0
+2774077	Location	Field Museum of Natural History	89	Location	CHICAGO	135	0
+2774077	Location	Field Museum of Natural History	89	DateTime	JUNE 14, 1938	144	0
+2774077	Location	Field Museum of Natural History	89	Other	Super Bowl XX	132	0
+2774077	Location	Field Museum of Natural History	89	Other	Food choice	169	0
+2774077	Location	Field Museum of Natural History	89	Other	Trade paperback (comics)	125	0
+2774077	Location	Field Museum of Natural History	89	Organization	ARCTIC BIRDS	189	0
+2774077	Location	Field Museum of Natural History	2208	Location	United States	2129	0
+2774077	Location	Field Museum of Natural History	2208	Quantity	1	2109	0
+2774077	Location	Field Museum of Natural History	2208	Other	Senior status	2111	0
+2774077	Location	Field Museum of Natural History	2208	Other	Biology	2118	0
+2774077	Location	Field Museum of Natural History	2208	Organization	United States Biological Survey	2129	0
+2774077	Location	Field Museum of Natural History	2208	Other	Volunteering	2168	0
+2774077	Location	Field Museum of Natural History	2208	Other	Physician assistant	2178	0
+2774077	Location	Field Museum of Natural History	2208	Other	Phylum	2189	0
+2774077	Location	Field Museum of Natural History	2208	Organization	Birds, Field Museum of Natural History	2201	0
+2774077	Location	Field Museum of Natural History	2208	Other	Bird	2201	0
+2774077	Location	Field Museum of Natural History	2208	Quantity	416 405	2249	0
+2774077	Location	Greenland	571	Quantity	eight	654	0
+2774077	Location	Greenland	571	Quantity	98	624	0
+2774077	Location	Greenland	571	Quantity	23	636	0
+2774077	Location	Greenland	571	DateTime	September 4	512	0
+2774077	Location	Greenland	571	DateTime	June 23	491	0
+2774077	Location	Greenland	571	Location	Newfoundland and Labrador	557	0
+2774077	Location	Greenland	571	Location	Newfoundland and Labrador	543	0
+2774077	Location	Greenland	571	Location	New York City	479	0
+2774077	Location	National Museum of Natural History	1978	Other	Doctor of Philosophy	1886	0
+2774077	Location	National Museum of Natural History	1978	Other	Doctor of Philosophy	1936	0
+2774077	Location	National Museum of Natural History	1978	Person	Waldo Schmitt	1890	0
+2774077	Location	National Museum of Natural History	1978	Person	Clarence Shoemaker	1912	0
+2774077	Location	National Museum of Natural History	1978	Person	Harold Rehder	1940	0
+2774077	Location	National Museum of Natural History	1978	Organization	United    States National Museum	1961	0
+2774077	Location	New York City	479	Location	Newfoundland and Labrador	557	0
+2774077	Location	New York City	479	Location	Greenland	571	0
+2774077	Location	New York City	479	DateTime	September 4	512	0
+2774077	Location	New York City	479	Location	Newfoundland and Labrador	543	0
+2774077	Location	New York City	479	DateTime	June 23	491	0
+2774077	Location	New York City	479	Other	Society	398	0
+2774077	Location	New York City	479	Organization	Zoology	384	0
+2774077	Location	Newfoundland and Labrador	543	Location	New York City	479	0
+2774077	Location	Newfoundland and Labrador	543	DateTime	June 23	491	0
+2774077	Location	Newfoundland and Labrador	543	DateTime	September 4	512	0
+2774077	Location	Newfoundland and Labrador	543	Location	Greenland	571	0
+2774077	Location	Newfoundland and Labrador	543	Location	Newfoundland and Labrador	557	0
+2774077	Location	Newfoundland and Labrador	543	Quantity	98	624	0
+2774077	Location	Newfoundland and Labrador	543	Quantity	23	636	0
+2774077	Location	Newfoundland and Labrador	557	Quantity	23	636	0
+2774077	Location	Newfoundland and Labrador	557	Quantity	eight	654	0
+2774077	Location	Newfoundland and Labrador	557	Quantity	98	624	0
+2774077	Location	Newfoundland and Labrador	557	Location	Greenland	571	0
+2774077	Location	Newfoundland and Labrador	557	DateTime	September 4	512	0
+2774077	Location	Newfoundland and Labrador	557	Location	Newfoundland and Labrador	543	0
+2774077	Location	Newfoundland and Labrador	557	DateTime	June 23	491	0
+2774077	Location	Newfoundland and Labrador	557	Location	New York City	479	0
+2774077	Location	United States	780	Other	Food choice	750	0
+2774077	Location	United States	780	Organization	United States Biologi-    cal Survey	780	0
+2774077	Location	United States	780	Other	Surveying	810	0
+2774077	Location	United States	780	Other	Musical note	818	0
+2774077	Location	United States	780	Organization	Food Habits Laboratory	750	0
+2774077	Location	United States	780	Other	Laboratory	762	0
+2774077	Location	United States	2129	Quantity	1	2109	0
+2774077	Location	United States	2129	Location	Field Museum of Natural History	2208	0
+2774077	Location	United States	2129	Other	Bird	2201	0
+2774077	Location	United States	2129	Organization	Birds, Field Museum of Natural History	2201	0
+2774077	Location	United States	2129	Other	Phylum	2189	0
+2774077	Location	United States	2129	Other	Physician assistant	2178	0
+2774077	Location	United States	2129	Other	Volunteering	2168	0
+2774077	Location	United States	2129	Organization	United States Biological Survey	2129	0
+2774077	Location	United States	2129	Other	Biology	2118	0
+2774077	Location	United States	2129	Other	Senior status	2111	0
+2774078	Location	ATLANTIC	1758	Quantity	first	1787	0
+2774078	Location	ATLANTIC	1758	Organization	Funk Islands	1829	0
+2774078	Location	ATLANTIC	1758	Other	Island	1834	0
+2774078	Location	ATLANTIC	1758	Other	Northern fulmar	1717	0
+2774078	Location	ATLANTIC	1758	Person	Carl Linnaeus	1747	0
+2774078	Location	ATLANTIC	1758	Other	Fulmar	1767	0
+2774078	Location	ATLANTIC	1758	Other	Fulmar	1779	0
+2774078	Location	ATLANTIC	1758	DateTime	the following day	1849	0
+2774078	Location	Bay of Fundy	427	Location	Newfoundland and Labrador	469	0
+2774078	Location	Bay of Fundy	427	Location	Greenland	485	0
+2774078	Location	Bay of Fundy	427	Other	Sooty shearwater	355	0
+2774078	Location	Bay of Fundy	427	Quantity	1	343	0
+2774078	Location	Bay of Fundy	427	Quantity	Three	349	0
+2774078	Location	Bay of Fundy	427	Organization	Three Sooty Shearwaters	349	0
+2774078	Location	Bay of Fundy	427	DateTime	June 25	390	0
+2774078	Location	Bay of Fundy	427	Quantity	miles	405	0
+2774078	Location	Bay of Fundy	865	Other	Great shearwater	766	0
+2774078	Location	Bay of Fundy	865	Quantity	first	815	0
+2774078	Location	Bay of Fundy	865	Location	Cape Race	924	0
+2774078	Location	Bay of Fundy	865	DateTime	June 30	964	0
+2774078	Location	Cape Farewell, Greenland	1403	Location	Greenwich, Connecticut	1375	0
+2774078	Location	Cape Farewell, Greenland	1403	Location	Greenland	1421	0
+2774078	Location	Cape Farewell, Greenland	1403	Person	N. Lat	1455	0
+2774078	Location	Cape Farewell, Greenland	1403	Location	Newfoundland and Labrador	1390	0
+2774078	Location	Cape Farewell, Greenland	1403	Quantity	62	1452	0
+2774078	Location	Cape Race	924	Location	Bay of Fundy	865	0
+2774078	Location	Cape Race	924	DateTime	June 30	964	0
+2774078	Location	Cape Race	924	Organization	Funk Islands	1016	0
+2774078	Location	Cape Race	924	Other	Island	1021	0
+2774078	Location	Field Museum of Natural History	110	Other	Sea captain	172	0
+2774078	Location	Field Museum of Natural History	110	Person	Robert Bartlett (explorer)	180	0
+2774078	Location	Field Museum of Natural History	110	Other	.mr	69	0
+2774078	Location	Field Museum of Natural History	110	Person	Rudyerd Boulton	73	0
+2774078	Location	Field Museum of Natural History	110	Other	Curator	90	0
+2774078	Location	Field Museum of Natural History	110	Other	Bird	101	0
+2774078	Location	Greenland	485	Quantity	miles	405	0
+2774078	Location	Greenland	485	DateTime	June 25	390	0
+2774078	Location	Greenland	485	Location	Bay of Fundy	427	0
+2774078	Location	Greenland	485	Location	Newfoundland and Labrador	469	0
+2774078	Location	Greenland	607	DateTime	July 20	644	0
+2774078	Location	Greenland	607	Other	Great shearwater	704	0
+2774078	Location	Greenland	607	Person	N. Lat	635	0
+2774078	Location	Greenland	1421	Person	N. Lat	1455	0
+2774078	Location	Greenland	1421	Location	Newfoundland and Labrador	1390	0
+2774078	Location	Greenland	1421	Location	Cape Farewell, Greenland	1403	0
+2774078	Location	Greenland	1421	Location	Greenwich, Connecticut	1375	0
+2774078	Location	Greenland	1421	Quantity	62	1452	0
+2774078	Location	Greenland	2313	Other	Unless	2336	0
+2774078	Location	Greenland	2313	Quantity	1	2334	0
+2774078	Location	Greenwich, Connecticut	1375	Location	Greenland	1421	0
+2774078	Location	Greenwich, Connecticut	1375	Location	Cape Farewell, Greenland	1403	0
+2774078	Location	Greenwich, Connecticut	1375	Location	Newfoundland and Labrador	1390	0
+2774078	Location	Greenwich, Connecticut	1375	Person	N. Lat	1455	0
+2774078	Location	Greenwich, Connecticut	1375	Quantity	62	1452	0
+2774078	Location	Newfoundland and Labrador	469	Location	Greenland	485	0
+2774078	Location	Newfoundland and Labrador	469	Location	Bay of Fundy	427	0
+2774078	Location	Newfoundland and Labrador	469	Quantity	miles	405	0
+2774078	Location	Newfoundland and Labrador	469	DateTime	June 25	390	0
+2774078	Location	Newfoundland and Labrador	1390	Location	Greenland	1421	0
+2774078	Location	Newfoundland and Labrador	1390	Person	N. Lat	1455	0
+2774078	Location	Newfoundland and Labrador	1390	Quantity	62	1452	0
+2774078	Location	Newfoundland and Labrador	1390	Location	Cape Farewell, Greenland	1403	0
+2774078	Location	Newfoundland and Labrador	1390	Location	Greenwich, Connecticut	1375	0
+2774078	Location	Tasiilaq	1625	Other	Bird	1644	0
+2774078	Location	Tasiilaq	1625	DateTime	August 12	1585	0
+2774078	Location	Tasiilaq	1625	Other	Northern fulmar	1717	0
+2774079	Location	Atlantic Fulmar	1449	Location	Atlantic Ocean	1445	0
+2774079	Location	Atlantic Fulmar	1449	Other	Fulmar	1458	0
+2774079	Location	Atlantic Fulmar	1449	Person	John Lennon	1406	0
+2774079	Location	Atlantic Fulmar	1449	Other	Brunner-Winkle Bird	1371	0
+2774079	Location	Atlantic Fulmar	1449	Organization	Mammal	1379	0
+2774079	Location	Atlantic Fulmar	1449	Other	Sand dollar	1389	0
+2774079	Location	Atlantic Ocean	388	DateTime	previously	410	0
+2774079	Location	Atlantic Ocean	388	Organization	Biological Survey	463	0
+2774079	Location	Atlantic Ocean	388	Location	Greenland	291	0
+2774079	Location	Atlantic Ocean	1009	Other	Food	967	0
+2774079	Location	Atlantic Ocean	1009	Quantity	1	998	0
+2774079	Location	Atlantic Ocean	1009	Quantity	1	1048	0
+2774079	Location	Atlantic Ocean	1009	Quantity	12	1006	0
+2774079	Location	Atlantic Ocean	1009	Other	Fulmar	1018	0
+2774079	Location	Atlantic Ocean	1009	Quantity	8	1046	0
+2774079	Location	Atlantic Ocean	1009	Other	Cassette tape	1067	0
+2774079	Location	Atlantic Ocean	1009	Other	Spiny river snail	1070	0
+2774079	Location	Atlantic Ocean	1009	Organization	O E U W O	1076	0
+2774079	Location	Atlantic Ocean	1009	Other	Walkover	1082	0
+2774079	Location	Atlantic Ocean	1009	Quantity	15	1092	0
+2774079	Location	Atlantic Ocean	1009	Quantity	90f	1099	0
+2774079	Location	Atlantic Ocean	1445	Other	Brunner-Winkle Bird	1371	0
+2774079	Location	Atlantic Ocean	1445	Location	Atlantic Fulmar	1449	0
+2774079	Location	Atlantic Ocean	1445	Person	John Lennon	1406	0
+2774079	Location	Atlantic Ocean	1445	Other	Sand dollar	1389	0
+2774079	Location	Atlantic Ocean	1445	Organization	Mammal	1379	0
+2774079	Location	Atlantic Ocean	1445	Other	Fulmar	1458	0
+2774079	Location	Greenland	148	Person	Franz Boas	190	0
+2774079	Location	Greenland	148	Person	Franz    Josef Fjord	190	0
+2774079	Location	Greenland	148	Organization	Hanson, Massachusetts	51	0
+2774079	Location	Greenland	148	Quantity	407	62	0
+2774079	Location	Greenland	148	Location	Newfoundland and Labrador	136	0
+2774079	Location	Greenland	291	Location	Atlantic Ocean	388	0
+2774079	Location	Greenland	755	Quantity	64	777	0
+2774079	Location	Greenland	755	Quantity	67	783	0
+2774079	Location	Greenland	755	Person	N. Lat	789	0
+2774079	Location	Greenland	755	Quantity	39	801	0
+2774079	Location	Greenland	755	Person	W. Long	804	0
+2774079	Location	Newfoundland and Labrador	136	Location	Greenland	148	0
+2774079	Location	Newfoundland and Labrador	136	Quantity	407	62	0
+2774079	Location	Newfoundland and Labrador	136	Person	Franz Boas	190	0
+2774079	Location	Newfoundland and Labrador	136	Person	Franz    Josef Fjord	190	0
+2774079	Location	Newfoundland and Labrador	136	Organization	Hanson, Massachusetts	51	0
+2774079	Location	United States	1993	Quantity	1	1902	0
+2774079	Location	United States	1993	Other	Laboratory	1904	0
+2774079	Location	United States	1993	Organization	United States Biological Survey	1997	0
+2774080	Location	Bay of Fundy	2527	Other	Petrel	2427	0
+2774080	Location	Bay of Fundy	2527	Quantity	first	2440	0
+2774080	Location	Bay of Fundy	2527	Location	Long Island Sound	2458	0
+2774080	Location	Bay of Fundy	2527	DateTime	June 24	2482	0
+2774080	Location	Bay of Fundy	2527	DateTime	June 26	2546	0
+2774080	Location	Bay of Fundy	2527	Other	Water pollution	2570	0
+2774080	Location	Long Island Sound	2458	Location	Bay of Fundy	2527	0
+2774080	Location	Long Island Sound	2458	DateTime	June 26	2546	0
+2774080	Location	Long Island Sound	2458	DateTime	June 24	2482	0
+2774080	Location	Long Island Sound	2458	Quantity	first	2440	0
+2774080	Location	Long Island Sound	2458	Other	Wilson's storm petrel	2369	0
+2774080	Location	Long Island Sound	2458	Other	Wilson's storm petrel	2397	0
+2774080	Location	Long Island Sound	2458	Other	Wilson's storm petrel	2418	0
+2774080	Location	Long Island Sound	2458	Person	Heinrich Kuhl	2390	0
+2774080	Location	Long Island Sound	2458	Other	Petrel	2427	0
+2774081	Location	Cape Race	520	Person	Geography of Mauritius	457	0
+2774081	Location	Cape Race	520	Person	Carl Linnaeus	472	0
+2774081	Location	Cape Race	520	Quantity	a    dozen	551	0
+2774081	Location	Conception Bay	632	Quantity	a    dozen	551	0
+2774081	Location	Conception Bay	632	Other	Island	679	0
+2774081	Location	Conception Bay	632	Organization	Funk Islands	674	0
+2774081	Location	Conception Bay	632	Location	Newfoundland and Labrador	648	0
+2774081	Location	Greenland	1587	Organization	Tundra swan	1553	0
+2774081	Location	Greenland	1587	Location	Tasiilaq	1574	0
+2774081	Location	Greenland	1587	Organization	Tundra swan	1492	0
+2774081	Location	Greenland	1587	Quantity	four	1629	0
+2774081	Location	Greenland	1587	DateTime	May, 1935	1660	0
+2774081	Location	Greenland	1731	DateTime	May, 1935	1660	0
+2774081	Location	Greenland	1731	Other	Barnacle goose	1746	0
+2774081	Location	Greenland	1731	Other	Barnacle goose	1776	0
+2774081	Location	Greenland	1731	Organization	C. Bechstein	1764	0
+2774081	Location	Greenland	1731	Quantity	Fifteen	1796	0
+2774081	Location	Greenland	1731	Other	Barnacle goose	1804	0
+2774081	Location	Greenland	1731	Other	Bird	1716	0
+2774081	Location	Greenland	1867	Other	Barnacle goose	1804	0
+2774081	Location	Greenland	1867	Other	Muskox	1836	0
+2774081	Location	Greenland	1867	Organization	Musk-ox Fjord	1836	0
+2774081	Location	Greenland	1867	Other	Fjord	1844	0
+2774081	Location	Greenland	1867	Other	Ymer (1976 icebreaker)	1915	0
+2774081	Location	Greenland	1867	Quantity	Fifteen	1796	0
+2774081	Location	Greenland	1867	Other	Barnacle goose	1776	0
+2774081	Location	Greenland	1867	Organization	Hudson    Land	1851	0
+2774081	Location	Greenland	1867	Other	-land	1861	0
+2774081	Location	Greenland	1867	Location	Ymer    Island	1915	0
+2774081	Location	Greenland	2203	Person	Bartlett Expedition	2177	0
+2774081	Location	Greenland	2203	Other	Exploration	2186	0
+2774081	Location	Greenland	2203	DateTime	1936	2265	0
+2774081	Location	Greenland	2203	Quantity	167	2274	0
+2774081	Location	Greenland	2203	Quantity	a previous	2166	0
+2774081	Location	Greenland	2203	Quantity	one	2149	0
+2774081	Location	Greenland	2203	Person	Robert Bartlett (explorer)	2177	0
+2774081	Location	Iceland	955	Quantity	a previous	967	0
+2774081	Location	Iceland	955	Other	June 28	892	0
+2774081	Location	Iceland	955	DateTime	June 28, 1931	892	0
+2774081	Location	Iceland	955	Other	Sea captain	910	0
+2774081	Location	Iceland	955	Person	Robert Bartlett (explorer)	916	0
+2774081	Location	Indian    Harbor	243	DateTime	August 12	317	0
+2774081	Location	Indian    Harbor	243	Location	Newfoundland and Labrador	298	0
+2774081	Location	Indian    Harbor	243	Other	Harbor	253	0
+2774081	Location	Indian    Harbor	243	DateTime	July 12	263	0
+2774081	Location	Indian    Harbor	243	Location	Labrador	200	0
+2774081	Location	Labrador	200	Other	Harbor	253	0
+2774081	Location	Labrador	200	DateTime	July 12	263	0
+2774081	Location	Labrador	200	Location	Indian    Harbor	243	0
+2774081	Location	Labrador	200	Location	Newfoundland and Labrador	298	0
+2774081	Location	Newfoundland and Labrador	298	DateTime	August 12	317	0
+2774081	Location	Newfoundland and Labrador	298	Quantity	a hundred    miles	367	0
+2774081	Location	Newfoundland and Labrador	298	Location	Indian    Harbor	243	0
+2774081	Location	Newfoundland and Labrador	298	Other	Harbor	253	0
+2774081	Location	Newfoundland and Labrador	298	DateTime	July 12	263	0
+2774081	Location	Newfoundland and Labrador	298	Location	Labrador	200	0
+2774081	Location	Newfoundland and Labrador	648	Quantity	a    dozen	551	0
+2774081	Location	Newfoundland and Labrador	648	Location	Conception Bay	632	0
+2774081	Location	Newfoundland and Labrador	648	Organization	Funk Islands	674	0
+2774081	Location	Newfoundland and Labrador	648	Other	Island	679	0
+2774081	Location	Tasiilaq	1574	Organization	Tundra swan	1492	0
+2774081	Location	Tasiilaq	1574	DateTime	May, 1935	1660	0
+2774081	Location	Tasiilaq	1574	Organization	Tundra swan	1553	0
+2774081	Location	Tasiilaq	1574	Location	Greenland	1587	0
+2774081	Location	Tasiilaq	1574	Quantity	four	1629	0
+2774081	Location	Ymer    Island	1915	Other	Ymer (1976 icebreaker)	1915	0
+2774081	Location	Ymer    Island	1915	Other	-land	1861	0
+2774081	Location	Ymer    Island	1915	Location	Greenland	1867	0
+2774081	Location	Ymer    Island	1915	Other	Muskox	1836	0
+2774081	Location	Ymer    Island	1915	Organization	Hudson    Land	1851	0
+2774081	Location	Ymer    Island	1915	Other	Fjord	1844	0
+2774081	Location	Ymer    Island	1915	Organization	Musk-ox Fjord	1836	0
+2774082	Location	Clavering Island	470	DateTime	July 31	378	0
+2774082	Location	Clavering Island	470	DateTime	previously	411	0
+2774082	Location	Clavering Island	470	Location	Greenland	501	0
+2774082	Location	Clavering Island	470	DateTime	August 6,    1931	515	0
+2774082	Location	Clavering Island	470	Other	Sea captain	447	0
+2774082	Location	Clavering Island	470	Person	Bartletts Island	458	0
+2774082	Location	Clavering Island	470	Other	August 6	515	0
+2774082	Location	Clavering Island	1468	Other	Dietary fiber	1564	0
+2774082	Location	Clavering Island	1468	Quantity	4 per cent	1370	0
+2774082	Location	Clavering Island	1468	Quantity	three	1382	0
+2774082	Location	Clavering Island	1468	Quantity	5 per cent	1407	0
+2774082	Location	Clavering Island	1468	Quantity	10 per cent	1448	0
+2774082	Location	Clavering Island	1468	Quantity	93	1519	0
+2774082	Location	Clavering Island	1468	Quantity	cent	1529	0
+2774082	Location	Clavering Island	1468	Other	Carex	1548	1
+2774082	Location	Greenland	163	DateTime	1932	189	0
+2774082	Location	Greenland	163	Quantity	33	199	0
+2774082	Location	Greenland	163	Quantity	38	202	0
+2774082	Location	Greenland	163	Quantity	120	206	0
+2774082	Location	Greenland	163	DateTime	1936	254	0
+2774082	Location	Greenland	163	Other	Pink-footed goose	87	0
+2774082	Location	Greenland	163	Other	Pink-footed goose	114	0
+2774082	Location	Greenland	163	Person	Louis Antoine François Baillon	78	0
+2774082	Location	Greenland	358	Organization	Musk-ox Fjord, North Greenland	343	0
+2774082	Location	Greenland	358	Other	Muskox	343	0
+2774082	Location	Greenland	358	Other	Fjord	351	0
+2774082	Location	Greenland	358	DateTime	July 31	378	0
+2774082	Location	Greenland	358	Other	Sea captain	447	0
+2774082	Location	Greenland	358	DateTime	previously	411	0
+2774082	Location	Greenland	358	Person	Bartletts Island	458	0
+2774082	Location	Greenland	501	Person	Bartletts Island	458	0
+2774082	Location	Greenland	501	Location	Clavering Island	470	0
+2774082	Location	Greenland	501	Other	August 6	515	0
+2774082	Location	Greenland	501	DateTime	previously	411	0
+2774082	Location	Greenland	501	Other	Sea captain	447	0
+2774082	Location	Greenland	501	DateTime	August 6,    1931	515	0
+2774083	Location	Feather	606	Organization	Common eider	670	0
+2774083	Location	Feather	606	Quantity	1	698	0
+2774083	Location	Feather	606	Location	NORTHERN	700	0
+2774083	Location	Feather	606	Other	Crustacean	532	0
+2774083	Location	Feather	606	Quantity	10 per cent	543	0
+2774083	Location	Feather	606	Quantity	1 per cent	591	0
+2774083	Location	Greenland	973	DateTime	1936	1029	0
+2774083	Location	Greenland	973	Quantity	five	1071	0
+2774083	Location	Greenland	2266	Quantity	3 per cent	2205	0
+2774083	Location	Greenland	2266	Other	Dietary fiber	2170	0
+2774083	Location	Greenland	2266	Quantity	5	2199	0
+2774083	Location	Greenland	2266	Other	Rock ptarmigan	2235	0
+2774083	Location	Greenland	2266	Other	Rock ptarmigan	2276	0
+2774083	Location	Greenland	2266	Quantity	2	2256	0
+2774083	Location	Greenland	2266	Person	Wilhelm Peters	2258	0
+2774083	Location	Greenland	2266	Location	GREENLAND ROCK PTARMIGAN	2266	0
+2774083	Location	Greenland	2266	Quantity	seven	2334	0
+2774083	Location	Greenland	2266	Quantity	two	2353	0
+2774083	Location	Greenland	2535	Organization	The A.	2435	0
+2774083	Location	Greenland	2535	Other	Division by zero	2439	0
+2774083	Location	Greenland	2535	Location	North America	2496	0
+2774083	Location	Greenland	2535	DateTime	1931	2579	0
+2774083	Location	Greenland	2535	Person	U. Checklist	2445	0
+2774083	Location	Greenland	2535	Quantity	179	2588	0
+2774083	Location	Greenland	2535	Person	Wilhelm Peters	2571	0
+2774083	Location	Greenland	2535	Location	Greenland	2623	0
+2774083	Location	Greenland	2623	Location	Greenland	2535	0
+2774083	Location	Greenland	2623	Person	Wilhelm Peters	2571	0
+2774083	Location	Greenland	2623	Location	Greenland	2651	0
+2774083	Location	Greenland	2623	Quantity	179	2588	0
+2774083	Location	Greenland	2623	DateTime	1931	2579	0
+2774083	Location	Greenland	2651	Person	Wilhelm Peters	2571	0
+2774083	Location	Greenland	2651	Quantity	2	2751	0
+2774083	Location	Greenland	2651	Quantity	179	2588	0
+2774083	Location	Greenland	2651	Location	Greenland	2623	0
+2774083	Location	Greenland	2651	DateTime	1931	2579	0
+2774083	Location	Greenland	2797	Organization	Greenland Rock Ptarmigan	2797	0
+2774083	Location	Greenland	2797	DateTime	1934	2837	0
+2774083	Location	Greenland	2797	Quantity	35	2846	0
+2774083	Location	Greenland	2797	Person	Finn Salomonsen	2854	0
+2774083	Location	Greenland	2797	DateTime	1926	2866	0
+2774083	Location	Greenland	2797	Quantity	33	2875	0
+2774083	Location	Greenland	2797	Quantity	2	2751	0
+2774083	Location	Greenland	2797	Person	Wilhelm Peters	2829	0
+2774083	Location	Greenland	2797	Other	Rock ptarmigan	2807	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Quantity	2	2256	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Other	Rock ptarmigan	2276	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Other	Rock ptarmigan	2235	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Person	Wilhelm Peters	2258	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Quantity	two	2353	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Quantity	seven	2334	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Location	Greenland	2266	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Quantity	5	2199	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Other	Dietary fiber	2170	0
+2774083	Location	GREENLAND ROCK PTARMIGAN	2266	Quantity	3 per cent	2205	0
+2774083	Location	Liverpool	1092	Quantity	five	1071	0
+2774083	Location	Liverpool	1092	DateTime	1936	1029	0
+2774083	Location	North-    ern Eider	1270	Quantity	ern	1280	0
+2774083	Location	North-    ern Eider	1270	DateTime	previously	1242	0
+2774083	Location	North-    ern Eider	1270	Location	Northern Canada	1266	0
+2774083	Location	North-    ern Eider	1270	Other	Anatidae	1348	1
+2774083	Location	North-    ern Eider	1270	Organization	Mergini	1369	0
+2774083	Location	North America	2496	Location	Greenland	2535	0
+2774083	Location	North America	2496	Quantity	1	2433	0
+2774083	Location	North America	2496	Quantity	One	2425	0
+2774083	Location	North America	2496	Other	Division by zero	2439	0
+2774083	Location	North America	2496	Organization	The A.	2435	0
+2774083	Location	North America	2496	DateTime	1931	2579	0
+2774083	Location	North America	2496	Quantity	179	2588	0
+2774083	Location	North America	2496	Person	U. Checklist	2445	0
+2774083	Location	North America	2496	Person	Wilhelm Peters	2571	0
+2774083	Location	North Fjord	1458	Organization	Mergini	1369	0
+2774083	Location	North Fjord	1458	Other	Fjord	1464	0
+2774083	Location	North Fjord	1458	Other	-land	1481	0
+2774083	Location	North Fjord	1458	DateTime	August 1 (film)	1490	0
+2774083	Location	NORTHERN	700	Quantity	1	698	0
+2774083	Location	NORTHERN	700	Organization	Common eider	670	0
+2774083	Location	NORTHERN	700	Organization	Common eider	713	0
+2774083	Location	NORTHERN	700	Location	Feather	606	0
+2774083	Location	Northern Canada	1266	DateTime	previously	1242	0
+2774083	Location	Northern Canada	1266	Location	North-    ern Eider	1270	0
+2774083	Location	Northern Canada	1266	Quantity	ern	1280	0
+2774083	Location	Northern Canada	1266	Other	Anatidae	1348	1
+2774084	Location	Hudson Bay	584	Other	Rock ptarmigan	603	0
+2774084	Location	Hudson Bay	584	Other	Rock ptarmigan	550	0
+2774084	Location	Hudson Bay	584	Quantity	two	494	0
+2774084	Location	Hudson Bay	584	Quantity	three	510	0
+2774084	Location	Hudson Bay	584	Person	Johann Friedrich Gmelin	575	0
+2774084	Location	Hudson Bay	584	Location	HUDSON BAY ROCK    PTARMIGAN	584	0
+2774084	Location	Hudson Bay	584	Other	Rock music	595	0
+2774084	Location	Hudson Bay	584	Quantity	six	622	0
+2774084	Location	Hudson Bay	584	Other	Tasiilaq	641	0
+2774084	Location	HUDSON BAY ROCK    PTARMIGAN	584	Other	Tasiilaq	641	0
+2774084	Location	HUDSON BAY ROCK    PTARMIGAN	584	Quantity	six	622	0
+2774084	Location	HUDSON BAY ROCK    PTARMIGAN	584	Other	Rock music	595	0
+2774084	Location	HUDSON BAY ROCK    PTARMIGAN	584	Person	Johann Friedrich Gmelin	575	0
+2774084	Location	HUDSON BAY ROCK    PTARMIGAN	584	Location	Hudson Bay	584	0
+2774084	Location	HUDSON BAY ROCK    PTARMIGAN	584	Quantity	three	510	0
+2774084	Location	HUDSON BAY ROCK    PTARMIGAN	584	Quantity	two	494	0
+2774084	Location	HUDSON BAY ROCK    PTARMIGAN	584	Other	Rock ptarmigan	550	0
+2774084	Location	HUDSON BAY ROCK    PTARMIGAN	584	Other	Rock ptarmigan	603	0
+2774084	Location	North America	2236	Quantity	Five	2150	0
+2774084	Location	Ymer Island	95	Quantity	88 per cent	127	0
+2774084	Location	Ymer Island	95	Organization	Willow	174	0
+2774084	Location	Ymer Island	95	Quantity	12 per cent	184	0
+2774084	Location	Ymer Island	95	Other	Rock ptarmigan	57	0
+2774085	Location	Charles Lucien Bonaparte	603	Other	Semipalmated plover	579	0
+2774085	Location	Charles Lucien Bonaparte	603	Other	Semipalmated plover	614	0
+2774085	Location	Europe	2081	Other	Ruddy turnstone	1988	0
+2774085	Location	Europe	2081	Person	Carl Linnaeus	2018	0
+2774085	Location	Europe	2081	Organization	EUROPEAN TURNSTONE	2029	0
+2774085	Location	Europe	2081	Other	Turnstone	2038	0
+2774085	Location	Europe	2081	Quantity	Two	2053	0
+2774085	Location	Europe	2081	Organization	Hudson Land	2114	0
+2774085	Location	Europe	2081	Other	Earth	2121	0
+2774085	Location	Europe	2081	DateTime	July 31	2127	0
+2774085	Location	Europe	2081	Quantity	previous	2162	0
+2774085	Location	Greenwich, Connecticut	1072	Location	Newfoundland and Labrador	1087	0
+2774085	Location	Greenwich, Connecticut	1072	Quantity	42	1097	0
+2774085	Location	Greenwich, Connecticut	1072	Other	Cidaria	1110	1
+2774085	Location	Greenwich, Connecticut	1072	Other	Geometer moth	1126	0
+2774085	Location	Greenwich, Connecticut	1072	Quantity	35 per cent	1169	0
+2774085	Location	Greenwich, Connecticut	1072	Other	Semipalmated plover	1031	0
+2774085	Location	Greenwich, Connecticut	1072	Quantity	one	1006	0
+2774085	Location	Greenwich, Connecticut	1072	DateTime	July 8	1061	0
+2774085	Location	Newfoundland and Labrador	1087	DateTime	July 8	1061	0
+2774085	Location	Newfoundland and Labrador	1087	Location	Greenwich, Connecticut	1072	0
+2774085	Location	Newfoundland and Labrador	1087	Quantity	one	1006	0
+2774085	Location	Newfoundland and Labrador	1087	Other	Semipalmated plover	1031	0
+2774085	Location	Newfoundland and Labrador	1087	Quantity	35 per cent	1169	0
+2774085	Location	Newfoundland and Labrador	1087	Quantity	1	1182	0
+2774085	Location	Newfoundland and Labrador	1087	Other	Geometer moth	1126	0
+2774085	Location	Newfoundland and Labrador	1087	Other	Cidaria	1110	1
+2774085	Location	Newfoundland and Labrador	1087	Quantity	42	1097	0
+2774086	Location	Cape Cod	1496	Location	Newfoundland and Labrador	1480	0
+2774086	Location	Cape Cod	1496	Other	Dietary fiber	1400	0
+2774086	Location	Cape Cod	1496	Quantity	10 per cent	1407	0
+2774086	Location	Cape Cod	1496	Other	This (fly)	1420	0
+2774086	Location	Cape Cod	1496	Person	Pomarine jaeger	1546	0
+2774086	Location	Cape Cod	1496	Person	Pomarine jaeger	1581	0
+2774086	Location	Cape Cod	1496	Person	Coenraad Jacob Temminck	1570	0
+2774086	Location	Cape Cod	1496	DateTime	August	1534	0
+2774086	Location	Greenland	2070	DateTime	July 27	2036	0
+2774086	Location	Greenland	2070	Other	Davy (film)	2048	0
+2774086	Location	Greenland	2070	Organization	Davy Sound	2048	0
+2774086	Location	Greenland	2070	Organization	Kittiwake	2112	0
+2774086	Location	Greenland	2070	Person	Pomarine jaeger	1983	0
+2774086	Location	Greenland	2070	Quantity	three	2169	0
+2774086	Location	Greenland	2396	Quantity	one	2492	0
+2774086	Location	Greenland	2396	Other	Bird	2381	0
+2774086	Location	Greenland	2396	Other	Long-tailed jaeger	2454	0
+2774086	Location	Greenland	2396	Quantity	ten	2485	0
+2774086	Location	Greenwich, Connecticut	423	Organization	the Least Sandpiper	371	0
+2774086	Location	Greenwich, Connecticut	423	Quantity	one	342	0
+2774086	Location	Greenwich, Connecticut	423	Location	Newfoundland and Labrador	438	0
+2774086	Location	Greenwich, Connecticut	423	DateTime	July	457	0
+2774086	Location	Greenwich, Connecticut	423	Other	Food	463	0
+2774086	Location	Greenwich, Connecticut	423	Other	Least sandpiper	375	0
+2774086	Location	Greenwich, Connecticut	997	Location	Newfoundland and Labrador	1012	0
+2774086	Location	Greenwich, Connecticut	997	DateTime	July 8	965	0
+2774086	Location	Newfoundland and Labrador	438	Quantity	one	342	0
+2774086	Location	Newfoundland and Labrador	438	Organization	the Least Sandpiper	371	0
+2774086	Location	Newfoundland and Labrador	438	Location	Greenwich, Connecticut	423	0
+2774086	Location	Newfoundland and Labrador	438	Other	Food	463	0
+2774086	Location	Newfoundland and Labrador	438	DateTime	July	457	0
+2774086	Location	Newfoundland and Labrador	438	Other	Least sandpiper	375	0
+2774086	Location	Newfoundland and Labrador	1012	Location	Greenwich, Connecticut	997	0
+2774086	Location	Newfoundland and Labrador	1012	DateTime	July 8	965	0
+2774086	Location	Newfoundland and Labrador	1012	Other	Bird	1112	0
+2774086	Location	Newfoundland and Labrador	1480	Other	This (fly)	1420	0
+2774086	Location	Newfoundland and Labrador	1480	Location	Cape Cod	1496	0
+2774086	Location	Newfoundland and Labrador	1480	DateTime	August	1534	0
+2774086	Location	Newfoundland and Labrador	1480	Person	Coenraad Jacob Temminck	1570	0
+2774086	Location	Newfoundland and Labrador	1480	Person	Pomarine jaeger	1546	0
+2774086	Location	Newfoundland and Labrador	1480	Other	Dietary fiber	1400	0
+2774086	Location	Newfoundland and Labrador	1480	Quantity	10 per cent	1407	0
+2774086	Location	NORTHERN	888	DateTime	July 8	965	0
+2774086	Location	NORTHERN	888	Quantity	bits	810	0
+2774086	Location	NORTHERN	888	Person	Lobipes	860	0
+2774086	Location	NORTHERN	888	Person	Carl Linnaeus	877	0
+2774087	Location	Greenland	538	Location	Ymer Island	596	0
+2774087	Location	Greenland	538	Other	Fish	443	0
+2774087	Location	Greenland	538	Other	Polish language	449	0
+2774087	Location	Greenland	1068	Person	Hanson (band)	1017	0
+2774087	Location	Greenland	1068	Other	Muskox	1027	0
+2774087	Location	Greenland	1068	Organization	Hudson Land	1042	0
+2774087	Location	Greenland	1068	Location	Greenland	1135	0
+2774087	Location	Greenland	1068	Other	-land	1049	0
+2774087	Location	Greenland	1068	Quantity	eight	1159	0
+2774087	Location	Greenland	1068	DateTime	July 31	1082	0
+2774087	Location	Greenland	1068	Other	Flocking (behavior)	1146	0
+2774087	Location	Greenland	1135	Other	Flocking (behavior)	1146	0
+2774087	Location	Greenland	1135	DateTime	July 31	1082	0
+2774087	Location	Greenland	1135	Quantity	eight	1159	0
+2774087	Location	Greenland	1135	Quantity	ten	1169	0
+2774087	Location	Greenland	1135	Other	Kittiwake	1188	0
+2774087	Location	Greenland	1135	Other	-land	1049	0
+2774087	Location	Greenland	1135	Organization	Hudson Land	1042	0
+2774087	Location	Greenland	1135	Location	Greenland	1068	0
+2774087	Location	Norway	163	Person	Carl Linnaeus	212	0
+2774087	Location	Norway	163	Organization	Parasitic jaeger	186	0
+2774087	Location	Norway	163	Organization	Parasitic jaeger	223	0
+2774087	Location	Ymer Island	311	Organization	Parasitic jaeger	223	0
+2774087	Location	Ymer Island	311	Organization	Parasitic jaeger	272	0
+2774087	Location	Ymer Island	311	Person	Carl Linnaeus	212	0
+2774087	Location	Ymer Island	311	DateTime	August 3	295	0
+2774087	Location	Ymer Island	311	Person	Pomarine jaeger	360	0
+2774087	Location	Ymer Island	596	Location	Greenland	538	0
+2774087	Location	Ymer Island	596	Other	Long-tailed jaeger	666	0
+2774087	Location	Ymer Island	596	Person	Louis Jean Pierre Vieillot	691	0
+2774088	Location	Greenland	658	Organization	Greenland Collared    Lemming	658	0
+2774088	Location	Greenland	658	Other	Collar (order)	668	0
+2774088	Location	Greenland	658	Other	Northern collared lemming	689	0
+2774088	Location	Greenland	658	Quantity	56.25 per cent	744	0
+2774088	Location	Iceland	1577	Other	Green sea turtle	1555	0
+2774089	Location	Cape Farewell, Greenland	289	Quantity	Four	198	0
+2774089	Location	Cape Farewell, Greenland	289	Location	Tasiilaq	325	0
+2774089	Location	Cape Farewell, Greenland	289	Other	Religion in Canada	338	0
+2774089	Location	Cape Farewell, Greenland	289	Location	Liverpool	362	0
+2774089	Location	Cape Farewell, Greenland	289	Person	William Rathbone IV	381	0
+2774089	Location	Cape Farewell, Greenland	289	Location	Rathbone    Island	381	0
+2774089	Location	Con-    ception Bay	1968	Location	Tasiilaq	2063	0
+2774089	Location	Con-    ception Bay	1968	Other	Great black-backed gull	1888	0
+2774089	Location	Con-    ception Bay	1968	Person	Carl Linnaeus	1878	0
+2774089	Location	Con-    ception Bay	1968	Other	Black-backed jackal	1915	0
+2774089	Location	Con-    ception Bay	1968	Organization	Conservative Party (UK)	1968	0
+2774089	Location	Con-    ception Bay	1968	Other	Bay	1984	0
+2774089	Location	Con-    ception Bay	1968	Location	Newfoundland and Labrador	1989	0
+2774089	Location	Con-    ception Bay	1968	Location	Newfoundland and Labrador	2025	0
+2774089	Location	Con-    ception Bay	1968	Location	Greenwich, Connecticut	2010	0
+2774089	Location	Greenland	629	Quantity	previous	660	0
+2774089	Location	Greenland	629	Organization	Scoresby Sound	693	0
+2774089	Location	Greenland	629	Quantity	two	716	0
+2774089	Location	Greenland	629	Other	Bird	613	0
+2774089	Location	Greenland	864	DateTime	June, 1928	764	0
+2774089	Location	Greenland	864	DateTime	The summer of 1936	776	0
+2774089	Location	Greenland	864	DateTime	This may	884	0
+2774089	Location	Greenland	2076	Location	Tasiilaq	2063	0
+2774089	Location	Greenland	2076	Location	Newfoundland and Labrador	2025	0
+2774089	Location	Greenland	2076	Location	Newfoundland and Labrador	2092	0
+2774089	Location	Greenland	2076	Location	Newfoundland and Labrador	2112	0
+2774089	Location	Greenland	2076	Location	Newfoundland and Labrador	1989	0
+2774089	Location	Greenland	2076	Other	Bay	1984	0
+2774089	Location	Greenland	2076	Location	Greenwich, Connecticut	2010	0
+2774089	Location	Greenland	2076	Quantity	bits	2175	0
+2774089	Location	Greenwich, Connecticut	2010	Location	Newfoundland and Labrador	2092	0
+2774089	Location	Greenwich, Connecticut	2010	Location	Greenland	2076	0
+2774089	Location	Greenwich, Connecticut	2010	Other	Bay	1984	0
+2774089	Location	Greenwich, Connecticut	2010	Location	Con-    ception Bay	1968	0
+2774089	Location	Greenwich, Connecticut	2010	Organization	Conservative Party (UK)	1968	0
+2774089	Location	Greenwich, Connecticut	2010	Location	Newfoundland and Labrador	1989	0
+2774089	Location	Greenwich, Connecticut	2010	Location	Newfoundland and Labrador	2025	0
+2774089	Location	Greenwich, Connecticut	2010	Other	Black-backed jackal	1915	0
+2774089	Location	Greenwich, Connecticut	2010	Location	Tasiilaq	2063	0
+2774089	Location	Ivory gull	1005	Quantity	Four	1089	0
+2774089	Location	Ivory gull	1005	Other	Sabine's gull	1023	0
+2774089	Location	Ivory gull	1005	Other	Glaucous gull	1042	0
+2774089	Location	Ivory gull	1005	Other	Glaucous gull	1070	0
+2774089	Location	Ivory gull	1005	Person	Johan Ernst Gunnerus	1060	0
+2774089	Location	Liverpool	362	Location	Cape Farewell, Greenland	289	0
+2774089	Location	Liverpool	362	Location	Tasiilaq	325	0
+2774089	Location	Liverpool	362	Other	Religion in Canada	338	0
+2774089	Location	Liverpool	362	Person	William Rathbone IV	381	0
+2774089	Location	Liverpool	362	Location	Rathbone    Island	381	0
+2774089	Location	Liverpool	362	DateTime	August 6	401	0
+2774089	Location	Liverpool	362	Other	Davy (film)	438	0
+2774089	Location	Liverpool	362	Organization	Davy Sound	438	0
+2774089	Location	Liverpool	362	Other	Sound (geography)	443	0
+2774089	Location	Liverpool	362	Quantity	72	450	0
+2774089	Location	Liverpool	362	Person	N. Lat	453	0
+2774089	Location	Liverpool	1570	Other	Andrée Land (Greenland)	1560	0
+2774089	Location	Liverpool	1570	Other	Andrée Land (Greenland)	1550	0
+2774089	Location	Liverpool	1570	Other	Bird	1521	0
+2774089	Location	Liverpool	1570	Quantity	two	1656	0
+2774089	Location	Liverpool	1570	Organization	Andree    Land	1550	0
+2774089	Location	Liverpool	1570	Location	Ymer Island	1591	0
+2774089	Location	Liverpool	1570	DateTime	August 3	1607	0
+2774089	Location	Newfoundland and Labrador	1989	Organization	Conservative Party (UK)	1968	0
+2774089	Location	Newfoundland and Labrador	1989	Other	Black-backed jackal	1915	0
+2774089	Location	Newfoundland and Labrador	1989	Location	Greenland	2076	0
+2774089	Location	Newfoundland and Labrador	1989	Location	Newfoundland and Labrador	2025	0
+2774089	Location	Newfoundland and Labrador	1989	Location	Con-    ception Bay	1968	0
+2774089	Location	Newfoundland and Labrador	1989	Other	Bay	1984	0
+2774089	Location	Newfoundland and Labrador	1989	Location	Greenwich, Connecticut	2010	0
+2774089	Location	Newfoundland and Labrador	1989	Location	Tasiilaq	2063	0
+2774089	Location	Newfoundland and Labrador	2025	Location	Tasiilaq	2063	0
+2774089	Location	Newfoundland and Labrador	2025	Location	Greenwich, Connecticut	2010	0
+2774089	Location	Newfoundland and Labrador	2025	Other	Bay	1984	0
+2774089	Location	Newfoundland and Labrador	2025	Location	Con-    ception Bay	1968	0
+2774089	Location	Newfoundland and Labrador	2025	Location	Newfoundland and Labrador	1989	0
+2774089	Location	Newfoundland and Labrador	2025	Location	Newfoundland and Labrador	2112	0
+2774089	Location	Newfoundland and Labrador	2025	Location	Newfoundland and Labrador	2092	0
+2774089	Location	Newfoundland and Labrador	2025	Location	Greenland	2076	0
+2774089	Location	Newfoundland and Labrador	2025	Organization	Conservative Party (UK)	1968	0
+2774089	Location	Newfoundland and Labrador	2092	Location	Greenland	2076	0
+2774089	Location	Newfoundland and Labrador	2092	Other	Fishing	2186	0
+2774089	Location	Newfoundland and Labrador	2092	Location	Newfoundland and Labrador	2112	0
+2774089	Location	Newfoundland and Labrador	2092	Location	Newfoundland and Labrador	2025	0
+2774089	Location	Newfoundland and Labrador	2092	Location	Greenwich, Connecticut	2010	0
+2774089	Location	Newfoundland and Labrador	2092	Quantity	bits	2175	0
+2774089	Location	Newfoundland and Labrador	2092	Location	Tasiilaq	2063	0
+2774089	Location	Newfoundland and Labrador	2112	Location	Tasiilaq	2063	0
+2774089	Location	Newfoundland and Labrador	2112	Quantity	bits	2175	0
+2774089	Location	Newfoundland and Labrador	2112	Location	Newfoundland and Labrador	2025	0
+2774089	Location	Newfoundland and Labrador	2112	Location	Newfoundland and Labrador	2092	0
+2774089	Location	Newfoundland and Labrador	2112	Other	Fishing	2186	0
+2774089	Location	Newfoundland and Labrador	2112	Location	Greenland	2076	0
+2774089	Location	NORTHERN	179	Other	Great skua	153	0
+2774089	Location	NORTHERN	179	Person	Morten Thrane Brünnich	169	0
+2774089	Location	NORTHERN	179	Quantity	Four	198	0
+2774089	Location	Rathbone    Island	381	Location	Cape Farewell, Greenland	289	0
+2774089	Location	Rathbone    Island	381	Person	N. Lat	453	0
+2774089	Location	Rathbone    Island	381	Quantity	72	450	0
+2774089	Location	Rathbone    Island	381	Other	Sound (geography)	443	0
+2774089	Location	Rathbone    Island	381	Organization	Davy Sound	438	0
+2774089	Location	Rathbone    Island	381	Other	Davy (film)	438	0
+2774089	Location	Rathbone    Island	381	DateTime	August 6	401	0
+2774089	Location	Rathbone    Island	381	Person	William Rathbone IV	381	0
+2774089	Location	Rathbone    Island	381	Location	Liverpool	362	0
+2774089	Location	Rathbone    Island	381	Other	Religion in Canada	338	0
+2774089	Location	Rathbone    Island	381	Location	Tasiilaq	325	0
+2774089	Location	Tasiilaq	325	Other	Religion in Canada	338	0
+2774089	Location	Tasiilaq	325	Location	Liverpool	362	0
+2774089	Location	Tasiilaq	325	Person	William Rathbone IV	381	0
+2774089	Location	Tasiilaq	325	DateTime	August 6	401	0
+2774089	Location	Tasiilaq	325	Location	Rathbone    Island	381	0
+2774089	Location	Tasiilaq	325	Location	Cape Farewell, Greenland	289	0
+2774089	Location	Tasiilaq	2063	Location	Greenland	2076	0
+2774089	Location	Tasiilaq	2063	Organization	Conservative Party (UK)	1968	0
+2774089	Location	Tasiilaq	2063	Location	Newfoundland and Labrador	2112	0
+2774089	Location	Tasiilaq	2063	Location	Greenwich, Connecticut	2010	0
+2774089	Location	Tasiilaq	2063	Location	Newfoundland and Labrador	2092	0
+2774089	Location	Tasiilaq	2063	Location	Newfoundland and Labrador	2025	0
+2774089	Location	Tasiilaq	2063	Location	Newfoundland and Labrador	1989	0
+2774089	Location	Tasiilaq	2063	Location	Con-    ception Bay	1968	0
+2774089	Location	Tasiilaq	2063	Other	Bay	1984	0
+2774089	Location	Ymer Island	1591	DateTime	August 3	1607	0
+2774089	Location	Ymer Island	1591	Organization	Andree    Land	1550	0
+2774089	Location	Ymer Island	1591	Quantity	two	1656	0
+2774089	Location	Ymer Island	1591	Other	Bird	1521	0
+2774089	Location	Ymer Island	1591	Other	Andrée Land (Greenland)	1560	0
+2774089	Location	Ymer Island	1591	Other	Andrée Land (Greenland)	1550	0
+2774089	Location	Ymer Island	1591	Location	Liverpool	1570	0
+2774090	Location	Arctic tern	1968	Quantity	three	2018	0
+2774090	Location	Arctic tern	1968	Other	Plant	1872	1
+2774090	Location	Arctic tern	1968	Quantity	cent	1958	0
+2774090	Location	Arctic tern	1968	Location	Arctic tern	1996	0
+2774090	Location	Arctic tern	1968	Location	Arctic tern	2040	0
+2774090	Location	Arctic tern	1968	Person	Morten Thrane Brünnich	1986	0
+2774090	Location	Arctic tern	1968	Quantity	one	2053	0
+2774090	Location	Arctic tern	1968	Organization	Hudson    Land, Ymer Island	2067	0
+2774090	Location	Arctic tern	1996	Organization	Hudson    Land, Ymer Island	2067	0
+2774090	Location	Arctic tern	1996	Quantity	one	2053	0
+2774090	Location	Arctic tern	1996	Other	Land	2077	0
+2774090	Location	Arctic tern	1996	Location	Ymer Island	2083	0
+2774090	Location	Arctic tern	1996	Person	Morten Thrane Brünnich	1986	0
+2774090	Location	Arctic tern	1996	Location	Arctic tern	2040	0
+2774090	Location	Arctic tern	1996	Quantity	cent	1958	0
+2774090	Location	Arctic tern	1996	Location	Arctic tern	1968	0
+2774090	Location	Arctic tern	1996	Quantity	three	2018	0
+2774090	Location	Arctic tern	2040	Quantity	three	2018	0
+2774090	Location	Arctic tern	2040	Location	Arctic tern	1968	0
+2774090	Location	Arctic tern	2040	Quantity	cent	1958	0
+2774090	Location	Arctic tern	2040	Location	Arctic tern	1996	0
+2774090	Location	Arctic tern	2040	Person	Morten Thrane Brünnich	1986	0
+2774090	Location	Arctic tern	2040	Location	Ymer Island	2083	0
+2774090	Location	Arctic tern	2040	Other	Land	2077	0
+2774090	Location	Arctic tern	2040	Quantity	one	2053	0
+2774090	Location	Arctic tern	2040	Organization	Hudson    Land, Ymer Island	2067	0
+2774090	Location	Arctic tern	2040	Quantity	69	2122	0
+2774090	Location	Arctic tern	2040	Person	N. Lat	2125	0
+2774090	Location	Atlantic    Kittiwakes	428	Quantity	123	400	0
+2774090	Location	Atlantic    Kittiwakes	428	Location	Atlantic Ocean	428	0
+2774090	Location	Atlantic    Kittiwakes	428	Person	Bernard Hantzsch	373	0
+2774090	Location	Atlantic    Kittiwakes	428	DateTime	1928	391	0
+2774090	Location	Atlantic    Kittiwakes	428	Person	Kittiwake	440	0
+2774090	Location	Atlantic    Kittiwakes	428	Person	William Rathbone IV	335	0
+2774090	Location	Atlantic    Kittiwakes	428	Location	Rathbone Island	335	0
+2774090	Location	Atlantic    Kittiwakes	428	Location	Liverpool	352	0
+2774090	Location	ATLANTIC KITTIWAKE	97	Location	Greenland	131	0
+2774090	Location	ATLANTIC KITTIWAKE	97	Other	Black-legged kittiwake	57	0
+2774090	Location	ATLANTIC KITTIWAKE	97	Person	Kittiwake	151	0
+2774090	Location	ATLANTIC KITTIWAKE	97	Person	Carl Linnaeus	86	0
+2774090	Location	ATLANTIC KITTIWAKE	97	Person	Kittiwake	106	0
+2774090	Location	Atlantic Ocean	428	Person	Kittiwake	440	0
+2774090	Location	Atlantic Ocean	428	Person	William Rathbone IV	335	0
+2774090	Location	Atlantic Ocean	428	Person	Bernard Hantzsch	373	0
+2774090	Location	Atlantic Ocean	428	Location	Rathbone Island	335	0
+2774090	Location	Atlantic Ocean	428	Location	Liverpool	352	0
+2774090	Location	Atlantic Ocean	428	Quantity	123	400	0
+2774090	Location	Atlantic Ocean	428	DateTime	1928	391	0
+2774090	Location	Atlantic Ocean	428	Location	Atlantic    Kittiwakes	428	0
+2774090	Location	Greenland	131	Person	Kittiwake	151	0
+2774090	Location	Greenland	131	Person	Kittiwake	106	0
+2774090	Location	Greenland	131	Person	Carl Linnaeus	86	0
+2774090	Location	Greenland	131	Location	ATLANTIC KITTIWAKE	97	0
+2774090	Location	Greenland	131	Other	Black-legged kittiwake	57	0
+2774090	Location	Greenland	2141	Quantity	one	2053	0
+2774090	Location	Greenland	2141	Organization	Hudson    Land, Ymer Island	2067	0
+2774090	Location	Greenland	2141	Other	Land	2077	0
+2774090	Location	Greenland	2141	Quantity	69	2122	0
+2774090	Location	Greenland	2141	Location	Ymer Island	2083	0
+2774090	Location	Greenland	2141	Person	N. Lat	2125	0
+2774090	Location	Liverpool	352	Person	Kittiwake	440	0
+2774090	Location	Liverpool	352	Person	Bernard Hantzsch	373	0
+2774090	Location	Liverpool	352	Person	William Rathbone IV	335	0
+2774090	Location	Liverpool	352	Location	Rathbone Island	335	0
+2774090	Location	Liverpool	352	DateTime	1928	391	0
+2774090	Location	Liverpool	352	Quantity	123	400	0
+2774090	Location	Liverpool	352	Location	Atlantic Ocean	428	0
+2774090	Location	Liverpool	352	Location	Atlantic    Kittiwakes	428	0
+2774090	Location	Rathbone Island	335	Quantity	123	400	0
+2774090	Location	Rathbone Island	335	DateTime	1928	391	0
+2774090	Location	Rathbone Island	335	Location	Atlantic    Kittiwakes	428	0
+2774090	Location	Rathbone Island	335	Location	Atlantic Ocean	428	0
+2774090	Location	Rathbone Island	335	DateTime	the    summer	243	0
+2774090	Location	Rathbone Island	335	Person	William Rathbone IV	335	0
+2774090	Location	Rathbone Island	335	Person	Bernard Hantzsch	373	0
+2774090	Location	Rathbone Island	335	Location	Liverpool	352	0
+2774090	Location	Ymer Island	2083	Location	Greenland	2141	0
+2774090	Location	Ymer Island	2083	Quantity	three	2018	0
+2774090	Location	Ymer Island	2083	Person	Morten Thrane Brünnich	1986	0
+2774090	Location	Ymer Island	2083	Location	Arctic tern	1996	0
+2774090	Location	Ymer Island	2083	Location	Arctic tern	2040	0
+2774090	Location	Ymer Island	2083	Quantity	69	2122	0
+2774090	Location	Ymer Island	2083	Person	N. Lat	2125	0
+2774090	Location	Ymer Island	2083	Other	Land	2077	0
+2774090	Location	Ymer Island	2083	Organization	Hudson    Land, Ymer Island	2067	0
+2774090	Location	Ymer Island	2083	Quantity	one	2053	0
+2774091	Location	ATLANTIC	75	Person	Erik Pontoppidan	61	0
+2774091	Location	ATLANTIC	75	Other	Uria	84	1
+2774091	Location	ATLANTIC	75	Other	Uria	108	1
+2774091	Location	ATLANTIC	75	Location	Funk Island	138	0
+2774091	Location	ATLANTIC	75	Location	Atlantic Ocean	95	0
+2774091	Location	Atlantic Ocean	95	Location	Funk Island	138	0
+2774091	Location	Atlantic Ocean	95	Other	Uria	108	1
+2774091	Location	Atlantic Ocean	95	Other	Uria	84	1
+2774091	Location	Atlantic Ocean	95	Location	ATLANTIC	75	0
+2774091	Location	Atlantic Ocean	95	Person	Erik Pontoppidan	61	0
+2774091	Location	Funk Island	138	Person	Erik Pontoppidan	61	0
+2774091	Location	Funk Island	138	Location	ATLANTIC	75	0
+2774091	Location	Funk Island	138	Other	Uria	84	1
+2774091	Location	Funk Island	138	Other	Uria	108	1
+2774091	Location	Funk Island	138	Other	Thick-billed murre	212	0
+2774091	Location	Funk Island	138	Person	Carl Linnaeus	232	0
+2774091	Location	Funk Island	138	Location	Atlantic Ocean	95	0
+2774091	Location	Greenland	293	Quantity	first	340	0
+2774091	Location	Greenland	293	Quantity	68	380	0
+2774091	Location	Greenland	293	Person	Carl Linnaeus	232	0
+2774091	Location	Greenland	293	Person	BRDNNICH	243	0
+2774091	Location	Greenland	293	Person	Briinnich	314	0
+2774091	Location	Greenland	293	Other	Thick-billed murre	212	0
+2774091	Location	Greenland	293	Person	N. Lat	383	0
+2774091	Location	Greenland	293	Other	Uria	254	1
+2774091	Location	Liverpool	414	Person	N. Lat	383	0
+2774091	Location	Liverpool	414	Location	Rathbone Island	397	0
+2774091	Location	Liverpool	414	Quantity	68	380	0
+2774091	Location	Liverpool	414	Person	Hanson Formation	507	0
+2774091	Location	Liverpool	414	Person	Briinnich	314	0
+2774091	Location	Liverpool	414	Quantity	first	340	0
+2774091	Location	Rathbone Island	397	Quantity	68	380	0
+2774091	Location	Rathbone Island	397	Quantity	first	340	0
+2774091	Location	Rathbone Island	397	Person	Briinnich	314	0
+2774091	Location	Rathbone Island	397	Location	Liverpool	414	0
+2774091	Location	Rathbone Island	397	Person	N. Lat	383	0
+2774092	Location	Greenland	1857	Quantity	six	1789	0
+2774092	Location	Greenland	1857	DateTime	July	1815	0
+2774092	Location	Greenland	1857	DateTime	August Alle	1824	0
+2774092	Location	Greenland	1857	Quantity	four	1879	0
+2774092	Location	Greenland	1857	Other	Fish as food	1894	0
+2774092	Location	Liverpool	1620	Organization	Dovekies	1652	0
+2774092	Location	Newfoundland and Labrador	2542	Quantity	six	2497	0
+2774092	Location	Newfoundland and Labrador	2542	Quantity	one	2553	0
+2774092	Location	Newfoundland and Labrador	2542	Person	Bernhard Hantzsch	2451	0
+2774092	Location	Newfoundland and Labrador	2542	DateTime	1928	2470	0
+2774092	Location	Newfoundland and Labrador	2542	Quantity	92	2479	0
+2774092	Location	Scoresby Sound	1056	Quantity	63	967	0
+2774092	Location	Scoresby Sound	1056	Person	20-N	970	0
+2774092	Location	Scoresby Sound	1056	Person	N. Lat	974	0
+2774092	Location	Scoresby Sound	1056	Quantity	one hundred miles	1029	0
+2774092	Location	Scoresby Sound	1056	Organization	Scoresby    Sound	1056	0
+2774092	Location	Scoresby Sound	1056	Other	Sound (geography)	1068	0
+2774092	Location	Scoresby Sound	1056	DateTime	in the evening	1100	0
+2774092	Location	The Green (Frogmore, South Carolina)	1470	Quantity	three	1441	0
+2774092	Location	The Green (Frogmore, South Carolina)	1470	Organization	Green-    land Right Whale	1474	0
+2774092	Location	The Green (Frogmore, South Carolina)	1470	Other	Right whale	1489	0
+2774093	Location	Greenland	897	Quantity	one	908	0
+2774093	Location	Greenland	897	Quantity	four	838	0
+2774093	Location	Greenland	897	Other	Snail	820	0
+2774093	Location	Greenland	897	Location	Liverpool	870	0
+2774093	Location	Greenland	897	Quantity	18	922	0
+2774093	Location	Greenland	897	Person	Margarites	947	0
+2774093	Location	Greenland	2211	Location	Liverpool	2184	0
+2774093	Location	Greenland	2211	Quantity	one	2270	0
+2774093	Location	Greenland	2211	Person	William Rathbone IV	2161	0
+2774093	Location	Greenland	2211	Location	Rathbone Island	2161	0
+2774093	Location	Greenland	2211	Other	Island	2170	0
+2774093	Location	Greenland	2211	Other	Worm	2288	0
+2774093	Location	Greenland	2211	Other	August 6	2225	0
+2774093	Location	Greenland	2491	Quantity	68	2510	0
+2774093	Location	Greenland	2491	Person	N. Lat	2513	0
+2774093	Location	Greenland	2491	Other	Visual perception	2554	0
+2774093	Location	Greenland	2491	Person	Wilhelm Peters	2558	0
+2774093	Location	Greenland	2491	DateTime	1934	2566	0
+2774093	Location	Greenland	2491	Quantity	354	2575	0
+2774093	Location	Greenland	2491	Quantity	1	2552	0
+2774093	Location	Greenland	2491	Quantity	1 per cent	2395	0
+2774093	Location	Greenland	2491	Quantity	99 per cent	2422	0
+2774093	Location	Liverpool	870	Quantity	18	922	0
+2774093	Location	Liverpool	870	Person	Margarites	947	0
+2774093	Location	Liverpool	870	Location	Greenland	897	0
+2774093	Location	Liverpool	870	Quantity	four	838	0
+2774093	Location	Liverpool	870	Other	Gammarus	771	1
+2774093	Location	Liverpool	870	Person	Atylus	791	0
+2774093	Location	Liverpool	870	Other	Snail	820	0
+2774093	Location	Liverpool	870	Quantity	one	908	0
+2774093	Location	Liverpool	2184	Quantity	one	2270	0
+2774093	Location	Liverpool	2184	Location	Greenland	2211	0
+2774093	Location	Liverpool	2184	Person	William Rathbone IV	2161	0
+2774093	Location	Liverpool	2184	Other	Bird	2102	0
+2774093	Location	Liverpool	2184	Location	Rathbone Island	2161	0
+2774093	Location	Liverpool	2184	Other	August 6	2225	0
+2774093	Location	Liverpool	2184	Other	Island	2170	0
+2774093	Location	Rathbone Island	2161	Person	William Rathbone IV	2161	0
+2774093	Location	Rathbone Island	2161	Other	Island	2170	0
+2774093	Location	Rathbone Island	2161	Other	August 6	2225	0
+2774093	Location	Rathbone Island	2161	Other	Bird	2102	0
+2774093	Location	Rathbone Island	2161	Quantity	one half	2070	0
+2774093	Location	Rathbone Island	2161	Location	Greenland	2211	0
+2774093	Location	Rathbone Island	2161	Location	Liverpool	2184	0
+2774094	Location	Cape Tattershall	2159	Other	Common raven	2072	0
+2774094	Location	Cape Tattershall	2159	Other	Common raven	2106	0
+2774094	Location	Cape Tattershall	2159	Other	Common raven	2128	0
+2774094	Location	Cape Tattershall	2159	Person	Robert Ridgway	2097	0
+2774094	Location	Cape Tattershall	2159	Location	Tattershall	2164	0
+2774094	Location	Cape Tattershall	2159	Organization	Liverpool	2177	0
+2774094	Location	Cape Tattershall	2159	Location	Tasiilaq	2239	0
+2774094	Location	Cape Tattershall	2159	Person	Hanson (band)	2255	0
+2774094	Location	Greenwich, Connecticut	768	DateTime	July 8	758	0
+2774094	Location	Greenwich, Connecticut	768	Location	Newfoundland and Labrador	783	0
+2774094	Location	Greenwich, Connecticut	768	Other	Bird	806	0
+2774094	Location	Greenwich, Connecticut	768	Other	Horned puffin	709	0
+2774094	Location	Greenwich, Connecticut	768	Quantity	three	733	0
+2774094	Location	Greenwich, Connecticut	768	Person	Carl Linnaeus	689	0
+2774094	Location	Greenwich, Connecticut	768	Other	Common raven	700	0
+2774094	Location	Labrador	98	Person	Austin, Texas	57	0
+2774094	Location	Labrador	98	DateTime	1932	65	0
+2774094	Location	Labrador	98	Quantity	143	74	0
+2774094	Location	Labrador	98	Other	Atlantic puffin	136	0
+2774094	Location	Labrador	98	Other	Fish	171	0
+2774094	Location	Newfoundland and Labrador	783	Other	Common raven	700	0
+2774094	Location	Newfoundland and Labrador	783	Person	Carl Linnaeus	689	0
+2774094	Location	Newfoundland and Labrador	783	Quantity	three	733	0
+2774094	Location	Newfoundland and Labrador	783	Other	Horned puffin	709	0
+2774094	Location	Newfoundland and Labrador	783	Other	Bird	806	0
+2774094	Location	Newfoundland and Labrador	783	DateTime	July 8	758	0
+2774094	Location	Newfoundland and Labrador	783	Location	Greenwich, Connecticut	768	0
+2774094	Location	Tasiilaq	2239	Location	Tattershall	2164	0
+2774094	Location	Tasiilaq	2239	Location	Cape Tattershall	2159	0
+2774094	Location	Tasiilaq	2239	Organization	Liverpool	2177	0
+2774094	Location	Tasiilaq	2239	Person	Hanson (band)	2255	0
+2774094	Location	Tasiilaq	2239	Other	Stomach	2321	0
+2774094	Location	Tattershall	2164	Organization	Liverpool	2177	0
+2774094	Location	Tattershall	2164	Person	Hanson (band)	2255	0
+2774094	Location	Tattershall	2164	Location	Tasiilaq	2239	0
+2774094	Location	Tattershall	2164	Person	Robert Ridgway	2097	0
+2774094	Location	Tattershall	2164	Location	Cape Tattershall	2159	0
+2774094	Location	Tattershall	2164	Other	Common raven	2128	0
+2774094	Location	Tattershall	2164	Other	Common raven	2106	0
+2774094	Location	Tattershall	2164	Other	Common raven	2072	0
+2774095	Location	Eastern Settlement	943	Person	Carl Linnaeus	932	0
+2774095	Location	Eastern Settlement	943	Organization	Hudson Land	1041	0
+2774095	Location	Eastern Settlement	943	Other	Food	845	0
+2774095	Location	Eastern Settlement	943	Other	Snow bunting	901	0
+2774095	Location	Eastern Settlement	943	Other	Snow	951	0
+2774095	Location	Eastern Settlement	943	Other	Bunting (bird)	959	0
+2774095	Location	Greenwich, Connecticut	357	Person	Carl Linnaeus	453	0
+2774095	Location	Greenwich, Connecticut	357	Location	Labrador	375	0
+2774095	Location	Greenwich, Connecticut	357	Other	Meadow pipit	435	0
+2774095	Location	Greenwich, Connecticut	357	Location	Tunstall, Staffordshire	281	0
+2774095	Location	Greenwich, Connecticut	357	Other	Buff-bellied pipit	292	0
+2774095	Location	Greenwich, Connecticut	357	Other	Buff-bellied pipit	316	0
+2774095	Location	Greenwich, Connecticut	357	Organization	The American Pipit	312	0
+2774095	Location	Labrador	375	Organization	The American Pipit	312	0
+2774095	Location	Labrador	375	Other	Buff-bellied pipit	316	0
+2774095	Location	Labrador	375	Other	Buff-bellied pipit	292	0
+2774095	Location	Labrador	375	Location	Tunstall, Staffordshire	281	0
+2774095	Location	Labrador	375	Other	Meadow pipit	435	0
+2774095	Location	Labrador	375	Location	Greenwich, Connecticut	357	0
+2774095	Location	Labrador	375	Other	Meadow pipit	473	0
+2774095	Location	Labrador	375	Person	Carl Linnaeus	453	0
+2774095	Location	Labrador	375	Organization	EUROPEAN MEADOW	464	0
+2774095	Location	Tasiilaq	195	Location	Tunstall, Staffordshire	281	0
+2774095	Location	Tasiilaq	195	Other	Buff-bellied pipit	292	0
+2774095	Location	Tasiilaq	195	Other	Northern wheatear	112	0
+2774095	Location	Tasiilaq	195	Other	Water pipit	252	0
+2774095	Location	Tasiilaq	558	Other	Northern wheatear	531	0
+2774095	Location	Tasiilaq	558	Other	Meadow pipit	473	0
+2774095	Location	Tasiilaq	558	Other	Lapland longspur	646	0
+2774095	Location	Tasiilaq	558	Organization	EUROPEAN MEADOW	464	0
+2774095	Location	Tasiilaq	750	Person	Carl Linnaeus	679	0
+2774095	Location	Tasiilaq	750	Organization	Sápmi	690	0
+2774095	Location	Tasiilaq	750	Other	Longspur	702	0
+2774095	Location	Tasiilaq	750	Quantity	Three	716	0
+2774095	Location	Tasiilaq	750	Other	Food	845	0
+2774095	Location	Tasiilaq	1085	Organization	Hudson Land	1041	0
+2774095	Location	Tasiilaq	1085	Other	Land	1048	0
+2774095	Location	Tasiilaq	1085	Quantity	Two	1101	0
+2774095	Location	Tasiilaq	1085	Organization	Hudson Land, Musk-ox Fjord	1182	0
+2774095	Location	Tunstall, Staffordshire	281	Location	Labrador	375	0
+2774095	Location	Tunstall, Staffordshire	281	Location	Tasiilaq	195	0
+2774095	Location	Tunstall, Staffordshire	281	Other	Buff-bellied pipit	292	0
+2774095	Location	Tunstall, Staffordshire	281	Other	Water pipit	252	0
+2774095	Location	Tunstall, Staffordshire	281	Other	Buff-bellied pipit	316	0
+2774095	Location	Tunstall, Staffordshire	281	Organization	The American Pipit	312	0
+2774095	Location	Tunstall, Staffordshire	281	Location	Greenwich, Connecticut	357	0
+2774096	Location	Bushnous Island	2323	Other	Fox	2259	0
+2774096	Location	Bushnous Island	2323	Other	Sea captain	2279	0
+2774096	Location	Bushnous Island	2323	Person	Bartletts Island	2290	0
+2774096	Location	Bushnous Island	2323	Other	August 6	2302	0
+2774096	Location	Bushnous Island	2323	DateTime	August 6, 1935	2302	0
+2774096	Location	Bushnous Island	2323	Other	Island	2332	0
+2774096	Location	Bushnous Island	2323	Location	Melville Bay	2340	0
+2774096	Location	Dease River	598	Organization	Willow	500	0
+2774096	Location	Dease River	598	DateTime	1908	518	0
+2774096	Location	Dease River	598	Quantity	154	527	0
+2774096	Location	Dease River	598	DateTime	August 7	613	0
+2774096	Location	Dease River	598	Other	Polar bear	670	0
+2774096	Location	East Greenland Polar Bears	765	Other	Polar bear	745	0
+2774096	Location	East Greenland Polar Bears	765	Other	Polar bear	670	0
+2774096	Location	East Greenland Polar Bears	765	Other	Polar bear	780	0
+2774096	Location	East Greenland Polar Bears	765	Person	Karl Friedrich Meyer	719	0
+2774096	Location	East Greenland Polar Bears	765	Location	Greenland	730	0
+2774096	Location	East Greenland Polar Bears	765	Location	Greenland	765	0
+2774096	Location	East Greenland Polar Bears	765	Quantity	Two	761	0
+2774096	Location	East Greenland Polar Bears	765	DateTime	1936	810	0
+2774096	Location	Greenland	730	Location	East Greenland Polar Bears	765	0
+2774096	Location	Greenland	730	DateTime	1936	810	0
+2774096	Location	Greenland	730	Quantity	Two	761	0
+2774096	Location	Greenland	730	Location	Greenland	765	0
+2774096	Location	Greenland	730	Person	Karl Friedrich Meyer	719	0
+2774096	Location	Greenland	730	Other	Polar bear	780	0
+2774096	Location	Greenland	730	Other	Polar bear	745	0
+2774096	Location	Greenland	730	Other	Polar bear	670	0
+2774096	Location	Greenland	765	Other	Polar bear	670	0
+2774096	Location	Greenland	765	Other	Polar bear	745	0
+2774096	Location	Greenland	765	Other	Polar bear	780	0
+2774096	Location	Greenland	765	Person	Karl Friedrich Meyer	719	0
+2774096	Location	Greenland	765	Location	Greenland	730	0
+2774096	Location	Greenland	765	Quantity	Two	761	0
+2774096	Location	Greenland	765	DateTime	1936	810	0
+2774096	Location	Greenland	765	Location	East Greenland Polar Bears	765	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	Other	Vegetable	2108	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	Other	Fox	2259	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	Other	Sea captain	2279	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	Person	Bartletts Island	2290	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	Other	Arctic fox	2169	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	Other	Arctic fox	2211	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	Person	Clinton Hart Merriam	2192	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	Location	Newfoundland and Labrador	2202	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	Other	August 6	2302	0
+2774096	Location	LABRADOR ARCTIC Fox	2202	DateTime	August 6, 1935	2302	0
+2774096	Location	Melville Bay	2340	Location	Bushnous Island	2323	0
+2774096	Location	Melville Bay	2340	Other	Island	2332	0
+2774096	Location	Melville Bay	2340	DateTime	August 6, 1935	2302	0
+2774096	Location	Melville Bay	2340	Other	August 6	2302	0
+2774096	Location	Melville Bay	2340	Other	Fox	2259	0
+2774096	Location	Melville Bay	2340	Person	Bartletts Island	2290	0
+2774096	Location	Melville Bay	2340	Other	Sea captain	2279	0
+2774096	Location	Newfoundland and Labrador	2202	Other	Sea captain	2279	0
+2774096	Location	Newfoundland and Labrador	2202	Person	Bartletts Island	2290	0
+2774096	Location	Newfoundland and Labrador	2202	Other	Fox	2259	0
+2774096	Location	Newfoundland and Labrador	2202	Location	LABRADOR ARCTIC Fox	2202	0
+2774096	Location	Newfoundland and Labrador	2202	Person	Clinton Hart Merriam	2192	0
+2774096	Location	Newfoundland and Labrador	2202	Other	Arctic fox	2211	0
+2774096	Location	Newfoundland and Labrador	2202	Other	Arctic fox	2169	0
+2774096	Location	Newfoundland and Labrador	2202	Other	Vegetable	2108	0
+2774096	Location	Newfoundland and Labrador	2202	Other	August 6	2302	0
+2774096	Location	Newfoundland and Labrador	2202	DateTime	August 6, 1935	2302	0
+2774097	Location	Athabasca Valles	1964	Person	Edward Alexander Preble	1911	0
+2774097	Location	Athabasca Valles	1964	Location	Labrador	1882	0
+2774097	Location	Athabasca Valles	1964	Other	Rhododendron subsect. Ledum	1899	0
+2774097	Location	Athabasca Valles	1964	DateTime	1908	1919	0
+2774097	Location	Athabasca Valles	1964	Quantity	199	1928	0
+2774097	Location	Athabasca Valles	1964	Location	Mackenzie River	1978	0
+2774097	Location	Athabasca Valles	1964	DateTime	1903	2021	0
+2774097	Location	Baffin Island	90	DateTime	the    year	171	0
+2774097	Location	Baffin Island	90	DateTime	1928	57	0
+2774097	Location	Baffin Island	90	Quantity	35	66	0
+2774097	Location	Baffin Island	90	Other	Arctic fox	130	0
+2774097	Location	Erxleben, Börde	2222	Other	Hooded seal	2201	0
+2774097	Location	Erxleben, Börde	2222	Other	Hooded seal	2233	0
+2774097	Location	Greenland Hare	947	Other	August (Rossner novel)	990	0
+2774097	Location	Greenland Hare	947	Quantity	Two	915	0
+2774097	Location	Greenland Hare	947	DateTime	the first    week of August	969	0
+2774097	Location	Greenland Hare	947	Location	North Fjord	1000	0
+2774097	Location	Greenland Hare	947	Other	Fjord	1006	0
+2774097	Location	Greenland Hare	947	Other	Hare	957	0
+2774097	Location	Greenland Hare	947	Other	Arctic hare	858	0
+2774097	Location	Greenland Hare	947	Person	Rhoads	887	0
+2774097	Location	Greenland Hare	947	Organization	GREENLAND HARE	895	0
+2774097	Location	Greenland Hare	947	Other	Hare	905	0
+2774097	Location	Greenland Hare	947	Other	Arctic fox	895	0
+2774097	Location	Greenland Hare	947	Other	Arctic fox	947	0
+2774097	Location	Greenland Hare	947	Other	Arctic fox	1023	0
+2774097	Location	Labrador	1882	Person	Edward Alexander Preble	1911	0
+2774097	Location	Labrador	1882	Other	Rhododendron subsect. Ledum	1899	0
+2774097	Location	Labrador	1882	DateTime	1908	1919	0
+2774097	Location	Labrador	1882	Location	Athabasca Valles	1964	0
+2774097	Location	Labrador	1882	Quantity	199	1928	0
+2774097	Location	Labrador	1882	Location	Mackenzie River	1978	0
+2774097	Location	Mackenzie River	1978	Location	Athabasca Valles	1964	0
+2774097	Location	Mackenzie River	1978	Quantity	199	1928	0
+2774097	Location	Mackenzie River	1978	DateTime	1908	1919	0
+2774097	Location	Mackenzie River	1978	DateTime	1903	2021	0
+2774097	Location	Mackenzie River	1978	Other	Rhododendron subsect. Ledum	1899	0
+2774097	Location	Mackenzie River	1978	Location	Labrador	1882	0
+2774097	Location	Mackenzie River	1978	Person	Edward Alexander Preble	1911	0
+2774097	Location	North Fjord	1000	Other	Arctic fox	1023	0
+2774097	Location	North Fjord	1000	Other	Arctic fox	947	0
+2774097	Location	North Fjord	1000	Other	Hare	957	0
+2774097	Location	North Fjord	1000	Other	Hare	905	0
+2774097	Location	North Fjord	1000	Other	August (Rossner novel)	990	0
+2774097	Location	North Fjord	1000	Other	Fjord	1006	0
+2774097	Location	North Fjord	1000	Other	Food	1072	0
+2774097	Location	North Fjord	1000	DateTime	the first    week of August	969	0
+2774097	Location	North Fjord	1000	Quantity	Two	915	0
+2774097	Location	North Fjord	1000	Location	Greenland Hare	947	0
+2774097	Location	Ymer Island	705	Organization	C. Bechstein	619	0
+2774097	Location	Ymer Island	705	Other	August 3	745	0
+2774097	Location	Ymer Island	705	DateTime	August 3, 1936	745	0
+2774097	Location	Ymer Island	705	Other	Remains (The Only Ones album)	761	0
+2774097	Location	Ymer Island	705	Other	Collared lemming	804	0
+2774097	Location	Ymer Island	705	Other	Arctic fox	631	0
+2774097	Location	Ymer Island	705	Other	Arctic fox	669	0
+2774097	Location	Ymer Island	705	Other	Arctic fox	731	0
+2774098	Location	Arctic Birds	540	DateTime	1932	617	0
+2774098	Location	Arctic Birds	540	Other	Mammal	443	0
+2774098	Location	Arctic Birds	540	Other	Fauna	453	0
+2774098	Location	Arctic Birds	540	Location	Greenland	462	0
+2774098	Location	Arctic Birds	540	Person	Zool	479	0
+2774098	Location	Arctic Birds	540	Other	System on a chip	485	0
+2774098	Location	Arctic Birds	540	Organization	University of London	490	0
+2774098	Location	Arctic Birds	540	Person	Michael Cottam	505	0
+2774098	Location	Arctic Birds	540	Person	Clarence (U.S. TV series)	513	0
+2774098	Location	Arctic Birds	540	DateTime	1936	526	0
+2774098	Location	Arctic Birds	540	Other	Food	532	0
+2774098	Location	Arctic Birds	540	Organization	The Bartlett	578	0
+2774098	Location	Arctic Birds	540	Other	1931	611	0
+2774098	Location	Arctic Birds	540	Person	Journ	633	0
+2774098	Location	Arctic Birds	540	DateTime	1933	627	0
+2774098	Location	Athabaskan languages	1810	Location	Mackenzie River	1820	0
+2774098	Location	Athabaskan languages	1810	Organization	Biological Investigation	1778	0
+2774098	Location	Athabaskan languages	1810	Other	Biology	1778	0
+2774098	Location	Athabaskan languages	1810	Organization	Federal Bureau of Investigation	1789	0
+2774098	Location	Athabaskan languages	1810	Location	Bay, Somalia	1710	0
+2774098	Location	Athabaskan languages	1810	Quantity	22	1752	0
+2774098	Location	Athabaskan languages	1810	Quantity	140	1762	0
+2774098	Location	Athabaskan languages	1810	DateTime	1908	1770	0
+2774098	Location	Athabaskan languages	1810	Quantity	27	1868	0
+2774098	Location	Athabaskan languages	1810	Quantity	574	1878	0
+2774098	Location	Athabaskan languages	1810	Person	RHOADS	1887	0
+2774098	Location	Athabaskan languages	1810	Person	Sine nomine	1895	0
+2774098	Location	Athabaskan languages	1810	DateTime	1897	1905	0
+2774098	Location	Athabaskan languages	1810	Other	Fauna	1741	0
+2774098	Location	Athabaskan languages	1810	Other	Fauna	1857	0
+2774098	Location	Athabaskan languages	1810	Quantity	1	1760	0
+2774098	Location	Athabaskan languages	1810	Quantity	1	1876	0
+2774098	Location	Athabaskan languages	1810	Location	United States	1722	0
+2774098	Location	Baffin Island	2185	Other	Cattle	2233	0
+2774098	Location	Baffin Island	2185	Quantity	1	2117	0
+2774098	Location	Baffin Island	2185	Quantity	1	2255	0
+2774098	Location	Baffin Island	2185	Organization	Federal Bureau of Investigation	2159	0
+2774098	Location	Baffin Island	2185	Other	Biology	2221	0
+2774098	Location	Baffin Island	2185	Person	Clarence (U.S. TV series)	2200	0
+2774098	Location	Baffin Island	2185	Quantity	118	2101	0
+2774098	Location	Baffin Island	2185	Other	No. 2 (film)	2106	0
+2774098	Location	Baffin Island	2185	Quantity	36	2119	0
+2774098	Location	Baffin Island	2185	Person	Tony Soper	2127	0
+2774098	Location	Baffin Island	2185	Person	J. D.     1928	2134	0
+2774098	Location	Baffin Island	2185	Other	J.D. (Scrubs)	2134	0
+2774098	Location	Baffin Island	2185	Organization	Faunal Investigation	2152	0
+2774098	Location	Baffin Island	2185	Location	Southern Baffin Island	2176	0
+2774098	Location	Baffin Island	2185	Location	Southern United States	2176	0
+2774098	Location	Baffin Island	2185	Other	Mining	2211	0
+2774098	Location	Baffin Island	2185	Person	Serine	2227	0
+2774098	Location	Baffin Island	2185	Quantity	53	2239	0
+2774098	Location	Baffin Island	2185	Quantity	129	2257	0
+2774098	Location	Baffin Island	2185	Other	Halo: Combat Evolved	2266	0
+2774098	Location	Bay, Somalia	1710	Organization	Federal Bureau of Investigation	1682	0
+2774098	Location	Bay, Somalia	1710	Other	Biology	1671	0
+2774098	Location	Bay, Somalia	1710	Organization	Biological Investigation	1671	0
+2774098	Location	Bay, Somalia	1710	Organization	Biological Investigation	1778	0
+2774098	Location	Bay, Somalia	1710	Quantity	401	1629	0
+2774098	Location	Bay, Somalia	1710	DateTime	1934	1634	0
+2774098	Location	Bay, Somalia	1710	Person	Edward Alexander Preble	1645	0
+2774098	Location	Bay, Somalia	1710	Person	E. A.	1653	0
+2774098	Location	Bay, Somalia	1710	DateTime	1902	1663	0
+2774098	Location	Bay, Somalia	1710	Organization	Hudson Bay Region	1703	0
+2774098	Location	Bay, Somalia	1710	Other	Biology	1778	0
+2774098	Location	Bay, Somalia	1710	Organization	Federal Bureau of Investigation	1789	0
+2774098	Location	Bay, Somalia	1710	Quantity	22	1752	0
+2774098	Location	Bay, Somalia	1710	Quantity	140	1762	0
+2774098	Location	Bay, Somalia	1710	DateTime	1908	1770	0
+2774098	Location	Bay, Somalia	1710	Location	Athabaskan languages	1810	0
+2774098	Location	Bay, Somalia	1710	Quantity	1	1760	0
+2774098	Location	Bay, Somalia	1710	Location	United States	1722	0
+2774098	Location	Bay, Somalia	1710	Other	Fauna	1741	0
+2774098	Location	Bay, Somalia	1710	Quantity	1	1627	0
+2774098	Location	Bird	948	Quantity	1	1013	0
+2774098	Location	Bird	948	Quantity	1	867	0
+2774098	Location	Bird	948	Person	Clarence (U.S. TV series)	988	0
+2774098	Location	Bird	948	Organization	London & South East Premier	852	0
+2774098	Location	Bird	948	Quantity	428	869	0
+2774098	Location	Bird	948	Person	Bernhard Hantzsch	878	0
+2774098	Location	Bird	948	Person	Thomas Bernhard	888	0
+2774098	Location	Bird	948	Quantity	1928	901	0
+2774098	Location	Bird	948	Quantity	29	906	0
+2774098	Location	Bird	948	Location	Northeastern United States	960	0
+2774098	Location	Bird	948	Other	Labrador Retriever	973	0
+2774098	Location	Bird	948	Organization	Field Nat.	993	0
+2774098	Location	Bird	948	Other	Field (agriculture)	993	0
+2774098	Location	Bird	948	Quantity	42	1005	0
+2774098	Location	Bird	948	Quantity	9	1015	0
+2774098	Location	Bird	948	Quantity	33	1018	0
+2774098	Location	Bird	948	Quantity	40	1021	0
+2774098	Location	Bird	948	Quantity	87	1025	0
+2774098	Location	Bird	948	Quantity	94	1028	0
+2774098	Location	Bird	948	Quantity	123	1032	0
+2774098	Location	Bird	948	Quantity	125	1036	0
+2774098	Location	Bird	948	Quantity	148	1045	0
+2774098	Location	Bird	948	Quantity	146	1041	0
+2774098	Location	Greenland	462	Person	Zool	479	0
+2774098	Location	Greenland	462	DateTime	1936	526	0
+2774098	Location	Greenland	462	Person	Clarence (U.S. TV series)	513	0
+2774098	Location	Greenland	462	Person	Michael Cottam	505	0
+2774098	Location	Greenland	462	Organization	University of London	490	0
+2774098	Location	Greenland	462	Other	System on a chip	485	0
+2774098	Location	Greenland	462	Location	Arctic Birds	540	0
+2774098	Location	Greenland	462	Other	Food	532	0
+2774098	Location	Greenland	462	Quantity	1	401	0
+2774098	Location	Greenland	462	Other	Fauna	453	0
+2774098	Location	Greenland	462	Person	Robert Curtis Brown	412	0
+2774098	Location	Greenland	462	DateTime	1868	430	0
+2774098	Location	Greenland	462	Other	Mammal	443	0
+2774098	Location	Greenland	462	Organization	No. 130 Squadron RAF	380	0
+2774098	Location	Greenland	462	Quantity	311	403	0
+2774098	Location	Greenland	1467	Quantity	1	1510	0
+2774098	Location	Greenland	1467	Location	Northeastern United States	1457	0
+2774098	Location	Greenland	1467	Quantity	28	1370	0
+2774098	Location	Greenland	1467	Quantity	673	1378	0
+2774098	Location	Greenland	1467	Other	1931	1539	0
+2774098	Location	Greenland	1467	Person	James L. Peters	1548	0
+2774098	Location	Greenland	1467	Quantity	L	1532	0
+2774098	Location	Greenland	1467	Quantity	34	1544	0
+2774098	Location	Greenland	1467	Quantity	764	1382	0
+2774098	Location	Greenland	1467	Person	Claus Manniche	1391	0
+2774098	Location	Greenland	1467	Person	A. L. V.	1401	0
+2774098	Location	Greenland	1467	Other	GCE Advanced Level	1401	0
+2774098	Location	Greenland	1467	DateTime	1910	1414	0
+2774098	Location	Greenland	1467	Organization	The Terrestrial Mammals	1420	0
+2774098	Location	Greenland	1467	Other	Terrestrial animal	1424	0
+2774098	Location	Greenland	1467	Location	Northeast Greenland	1457	0
+2774098	Location	Greenland	1467	Quantity	45	1502	0
+2774098	Location	Greenland	1467	Quantity	200	1512	0
+2774098	Location	Greenland	1467	Person	PETERS	1521	0
+2774098	Location	Greenland	1467	Person	J. L.	1529	0
+2774098	Location	Greenland	2050	Person	Acad	1963	0
+2774098	Location	Greenland	2050	Person	Nat	1969	0
+2774098	Location	Greenland	2050	Organization	Sci.    Phila.	1974	0
+2774098	Location	Greenland	2050	Quantity	351	1994	0
+2774098	Location	Greenland	2050	Quantity	376	1998	0
+2774098	Location	Greenland	2050	Person	Finn Salomonsen	2007	0
+2774098	Location	Greenland	2050	Organization	FINN	2019	0
+2774098	Location	Greenland	2050	DateTime	1926	2028	0
+2774098	Location	Greenland	2050	Other	J.D. (Scrubs)	2134	0
+2774098	Location	Greenland	2050	Person	J. D.     1928	2134	0
+2774098	Location	Greenland	2050	Person	Tony Soper	2127	0
+2774098	Location	Greenland	2050	Quantity	36	2119	0
+2774098	Location	Greenland	2050	Other	No. 2 (film)	2106	0
+2774098	Location	Greenland	2050	Quantity	118	2101	0
+2774098	Location	Greenland	2050	Other	Lagopus	2065	1
+2774098	Location	Greenland	2050	Other	Mass of Paul VI	2034	0
+2774098	Location	Greenland	2050	Location	Greenland Rock Ptarmigans	2050	0
+2774098	Location	Greenland	2050	Other	Rock music	2060	0
+2774098	Location	Greenland	2050	Quantity	1	2117	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Quantity	1	2117	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Location	Greenland	2050	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Other	Lagopus	2065	1
+2774098	Location	Greenland Rock Ptarmigans	2050	Other	Rock music	2060	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Quantity	118	2101	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Other	No. 2 (film)	2106	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Quantity	36	2119	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Person	Tony Soper	2127	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Person	J. D.     1928	2134	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Other	J.D. (Scrubs)	2134	0
+2774098	Location	Greenland Rock Ptarmigans	2050	DateTime	1926	2028	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Other	Mass of Paul VI	2034	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Person	Finn Salomonsen	2007	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Organization	FINN	2019	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Quantity	351	1994	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Quantity	376	1998	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Person	Nat	1969	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Organization	Sci.    Phila.	1974	0
+2774098	Location	Greenland Rock Ptarmigans	2050	Person	Acad	1963	0
+2774098	Location	ILLINOIS	2315	Other	Biology	2221	0
+2774098	Location	ILLINOIS	2315	Other	Halo: Combat Evolved	2266	0
+2774098	Location	ILLINOIS	2315	Other	Outfielder	2312	0
+2774098	Location	ILLINOIS	2315	Quantity	129	2257	0
+2774098	Location	ILLINOIS	2315	Quantity	53	2239	0
+2774098	Location	ILLINOIS	2315	Person	Serine	2227	0
+2774098	Location	ILLINOIS	2315	Quantity	1	2255	0
+2774098	Location	ILLINOIS	2315	Other	Cattle	2233	0
+2774098	Location	Mackenzie River	1313	Person	U. S. Nat	1353	0
+2774098	Location	Mackenzie River	1313	Quantity	1	1217	0
+2774098	Location	Mackenzie River	1313	Other	GCE Advanced Level	1401	0
+2774098	Location	Mackenzie River	1313	Person	Claus Manniche	1391	0
+2774098	Location	Mackenzie River	1313	Person	A. L. V.	1401	0
+2774098	Location	Mackenzie River	1313	Quantity	28	1370	0
+2774098	Location	Mackenzie River	1313	Quantity	673	1378	0
+2774098	Location	Mackenzie River	1313	Quantity	764	1382	0
+2774098	Location	Mackenzie River	1313	Quantity	128	1219	0
+2774098	Location	Mackenzie River	1313	Person	Seth MacFarlane	1228	0
+2774098	Location	Mackenzie River	1313	Person	ROBERT	1240	0
+2774098	Location	Mackenzie River	1313	DateTime	1905	1251	0
+2774098	Location	Mackenzie River	1313	Other	Musical note	1257	0
+2774098	Location	Mackenzie River	1313	Location	Northern Hemisphere	1304	0
+2774098	Location	Mackenzie River	1313	Location	Northern Mackenzie    River District	1304	0
+2774098	Location	Mackenzie River	1820	Organization	Biological Investigation	1778	0
+2774098	Location	Mackenzie River	1820	Other	Biology	1778	0
+2774098	Location	Mackenzie River	1820	Person	Sine nomine	1895	0
+2774098	Location	Mackenzie River	1820	DateTime	1897	1905	0
+2774098	Location	Mackenzie River	1820	Location	Athabaskan languages	1810	0
+2774098	Location	Mackenzie River	1820	DateTime	1908	1770	0
+2774098	Location	Mackenzie River	1820	Quantity	27	1868	0
+2774098	Location	Mackenzie River	1820	Quantity	574	1878	0
+2774098	Location	Mackenzie River	1820	Person	RHOADS	1887	0
+2774098	Location	Mackenzie River	1820	Quantity	140	1762	0
+2774098	Location	Mackenzie River	1820	Quantity	22	1752	0
+2774098	Location	Mackenzie River	1820	Organization	Federal Bureau of Investigation	1789	0
+2774098	Location	Mackenzie River	1820	Other	Fauna	1857	0
+2774098	Location	Mackenzie River	1820	Other	Fauna	1741	0
+2774098	Location	Mackenzie River	1820	Location	United States	1722	0
+2774098	Location	Mackenzie River	1820	Quantity	1	1876	0
+2774098	Location	Mackenzie River	1820	Quantity	1	1760	0
+2774098	Location	Massachusetts	713	DateTime	1925	698	0
+2774098	Location	Massachusetts	713	Quantity	1	779	0
+2774098	Location	Massachusetts	713	Quantity	1	786	0
+2774098	Location	Massachusetts	713	DateTime	1932	617	0
+2774098	Location	Massachusetts	713	DateTime	1933	627	0
+2774098	Location	Massachusetts	713	Quantity	26	658	0
+2774098	Location	Massachusetts	713	Person	Journ	633	0
+2774098	Location	Massachusetts	713	Person	Sci	652	0
+2774098	Location	Massachusetts	713	Person	A.W. (musician)	805	0
+2774098	Location	Massachusetts	713	Quantity	165	666	0
+2774098	Location	Massachusetts	713	Quantity	177	670	0
+2774098	Location	Massachusetts	713	Person	Edward Howe Forbush	679	0
+2774098	Location	Massachusetts	713	Person	E. H.	688	0
+2774098	Location	Massachusetts	713	Other	Race and ethnicity in the United States Census	731	0
+2774098	Location	Massachusetts	713	Location	New England	737	0
+2774098	Location	Massachusetts	713	Organization	Mass. Dept.	757	0
+2774098	Location	Massachusetts	713	Quantity	481	788	0
+2774098	Location	Massachusetts	713	Person	Greely S. Curtis	797	0
+2774098	Location	New England	737	Person	Greely S. Curtis	797	0
+2774098	Location	New England	737	Quantity	481	788	0
+2774098	Location	New England	737	Organization	Mass. Dept.	757	0
+2774098	Location	New England	737	Other	Race and ethnicity in the United States Census	731	0
+2774098	Location	New England	737	Person	E. H.	688	0
+2774098	Location	New England	737	Location	Massachusetts	713	0
+2774098	Location	New England	737	Person	Edward Howe Forbush	679	0
+2774098	Location	New England	737	Quantity	177	670	0
+2774098	Location	New England	737	Quantity	165	666	0
+2774098	Location	New England	737	Person	A.W. (musician)	805	0
+2774098	Location	New England	737	DateTime	1886	815	0
+2774098	Location	New England	737	DateTime	Three Years	821	0
+2774098	Location	New England	737	Person	Sci	652	0
+2774098	Location	New England	737	Quantity	26	658	0
+2774098	Location	New England	737	Quantity	1	786	0
+2774098	Location	New England	737	Quantity	1	779	0
+2774098	Location	New England	737	DateTime	1925	698	0
+2774098	Location	Newfoundland and Labrador	108	Quantity	229	175	0
+2774098	Location	Newfoundland and Labrador	108	Person	Air conditioning	190	0
+2774098	Location	Newfoundland and Labrador	108	DateTime	1919	200	0
+2774098	Location	Newfoundland and Labrador	108	Organization	Life Histories of North American Diving Birds	206	0
+2774098	Location	Newfoundland and Labrador	108	Other	Vii	164	0
+2774098	Location	Newfoundland and Labrador	108	Other	The Birds (film)	95	0
+2774098	Location	Newfoundland and Labrador	108	DateTime	1932	89	0
+2774098	Location	Newfoundland and Labrador	108	Organization	The Birds of Newfoundland, Labrador	95	0
+2774098	Location	Newfoundland and Labrador	108	Location	Newfoundland and Labrador	122	0
+2774098	Location	Newfoundland and Labrador	108	Person	Thomas Nuttall	137	0
+2774098	Location	Newfoundland and Labrador	108	Quantity	1	173	0
+2774098	Location	Newfoundland and Labrador	108	Organization	Open Library	79	0
+2774098	Location	Newfoundland and Labrador	108	Person	AUSTIN	71	0
+2774098	Location	Newfoundland and Labrador	122	Person	AUSTIN	71	0
+2774098	Location	Newfoundland and Labrador	122	Organization	Open Library	79	0
+2774098	Location	Newfoundland and Labrador	122	Quantity	1	173	0
+2774098	Location	Newfoundland and Labrador	122	Person	Thomas Nuttall	137	0
+2774098	Location	Newfoundland and Labrador	122	Organization	The Birds of Newfoundland, Labrador	95	0
+2774098	Location	Newfoundland and Labrador	122	Location	Newfoundland and Labrador	108	0
+2774098	Location	Newfoundland and Labrador	122	DateTime	1932	89	0
+2774098	Location	Newfoundland and Labrador	122	Other	The Birds (film)	95	0
+2774098	Location	Newfoundland and Labrador	122	Other	Vii	164	0
+2774098	Location	Newfoundland and Labrador	122	Organization	Life Histories of North American Diving Birds	206	0
+2774098	Location	Newfoundland and Labrador	122	DateTime	1919	200	0
+2774098	Location	Newfoundland and Labrador	122	Person	Air conditioning	190	0
+2774098	Location	Newfoundland and Labrador	122	Quantity	229	175	0
+2774098	Location	North America	1942	Quantity	1	1876	0
+2774098	Location	North America	1942	Other	Fauna	1857	0
+2774098	Location	North America	1942	Person	Sine nomine	1895	0
+2774098	Location	North America	1942	Person	RHOADS	1887	0
+2774098	Location	North America	1942	Quantity	574	1878	0
+2774098	Location	North America	1942	Quantity	27	1868	0
+2774098	Location	North America	1942	Organization	Polar Hares	1927	0
+2774098	Location	North America	1942	Other	Hare	1933	0
+2774098	Location	North America	1942	Person	Acad	1963	0
+2774098	Location	North America	1942	DateTime	1897	1905	0
+2774098	Location	North America	1942	Quantity	351	1994	0
+2774098	Location	North America	1942	Organization	Sci.    Phila.	1974	0
+2774098	Location	North America	1942	Person	Nat	1969	0
+2774098	Location	North America	1942	Quantity	376	1998	0
+2774098	Location	North America	1942	Organization	FINN	2019	0
+2774098	Location	North America	1942	Person	Finn Salomonsen	2007	0
+2774098	Location	North America	1942	DateTime	1926	2028	0
+2774098	Location	North America	1942	Other	Mass of Paul VI	2034	0
+2774098	Location	Northeast Greenland	1457	Person	James L. Peters	1548	0
+2774098	Location	Northeast Greenland	1457	Quantity	34	1544	0
+2774098	Location	Northeast Greenland	1457	DateTime	1910	1414	0
+2774098	Location	Northeast Greenland	1457	Other	GCE Advanced Level	1401	0
+2774098	Location	Northeast Greenland	1457	Person	A. L. V.	1401	0
+2774098	Location	Northeast Greenland	1457	Person	Claus Manniche	1391	0
+2774098	Location	Northeast Greenland	1457	Quantity	L	1532	0
+2774098	Location	Northeast Greenland	1457	Person	J. L.	1529	0
+2774098	Location	Northeast Greenland	1457	Person	PETERS	1521	0
+2774098	Location	Northeast Greenland	1457	Quantity	200	1512	0
+2774098	Location	Northeast Greenland	1457	Quantity	45	1502	0
+2774098	Location	Northeast Greenland	1457	Other	Terrestrial animal	1424	0
+2774098	Location	Northeast Greenland	1457	Organization	The Terrestrial Mammals	1420	0
+2774098	Location	Northeast Greenland	1457	Other	1931	1539	0
+2774098	Location	Northeast Greenland	1457	Location	Northeastern United States	1457	0
+2774098	Location	Northeast Greenland	1457	Quantity	764	1382	0
+2774098	Location	Northeast Greenland	1457	Quantity	673	1378	0
+2774098	Location	Northeast Greenland	1457	Quantity	28	1370	0
+2774098	Location	Northeast Greenland	1457	Location	Greenland	1467	0
+2774098	Location	Northeast Greenland	1457	Quantity	1	1510	0
+2774098	Location	Northeastern United States	960	Quantity	1	867	0
+2774098	Location	Northeastern United States	960	Quantity	1	1013	0
+2774098	Location	Northeastern United States	960	Other	Labrador Retriever	973	0
+2774098	Location	Northeastern United States	960	Organization	Field Nat.	993	0
+2774098	Location	Northeastern United States	960	Quantity	42	1005	0
+2774098	Location	Northeastern United States	960	Other	Field (agriculture)	993	0
+2774098	Location	Northeastern United States	960	Quantity	87	1025	0
+2774098	Location	Northeastern United States	960	Quantity	40	1021	0
+2774098	Location	Northeastern United States	960	Quantity	33	1018	0
+2774098	Location	Northeastern United States	960	Quantity	9	1015	0
+2774098	Location	Northeastern United States	960	Quantity	148	1045	0
+2774098	Location	Northeastern United States	960	Quantity	172	1050	0
+2774098	Location	Northeastern United States	960	Quantity	146	1041	0
+2774098	Location	Northeastern United States	960	Quantity	125	1036	0
+2774098	Location	Northeastern United States	960	Quantity	123	1032	0
+2774098	Location	Northeastern United States	960	Quantity	94	1028	0
+2774098	Location	Northeastern United States	960	Quantity	29	906	0
+2774098	Location	Northeastern United States	960	Quantity	1928	901	0
+2774098	Location	Northeastern United States	960	Person	Thomas Bernhard	888	0
+2774098	Location	Northeastern United States	960	Person	Bernhard Hantzsch	878	0
+2774098	Location	Northeastern United States	960	Quantity	428	869	0
+2774098	Location	Northeastern United States	960	Quantity	177	1054	0
+2774098	Location	Northeastern United States	960	Location	Bird	948	0
+2774098	Location	Northeastern United States	960	Person	Clarence (U.S. TV series)	988	0
+2774098	Location	Northeastern United States	1457	Other	1931	1539	0
+2774098	Location	Northeastern United States	1457	Quantity	28	1370	0
+2774098	Location	Northeastern United States	1457	Quantity	673	1378	0
+2774098	Location	Northeastern United States	1457	Quantity	764	1382	0
+2774098	Location	Northeastern United States	1457	Organization	The Terrestrial Mammals	1420	0
+2774098	Location	Northeastern United States	1457	Other	Terrestrial animal	1424	0
+2774098	Location	Northeastern United States	1457	Quantity	45	1502	0
+2774098	Location	Northeastern United States	1457	Location	Northeast Greenland	1457	0
+2774098	Location	Northeastern United States	1457	Quantity	200	1512	0
+2774098	Location	Northeastern United States	1457	Person	PETERS	1521	0
+2774098	Location	Northeastern United States	1457	Person	J. L.	1529	0
+2774098	Location	Northeastern United States	1457	Quantity	L	1532	0
+2774098	Location	Northeastern United States	1457	Person	Claus Manniche	1391	0
+2774098	Location	Northeastern United States	1457	Person	A. L. V.	1401	0
+2774098	Location	Northeastern United States	1457	Other	GCE Advanced Level	1401	0
+2774098	Location	Northeastern United States	1457	DateTime	1910	1414	0
+2774098	Location	Northeastern United States	1457	Quantity	34	1544	0
+2774098	Location	Northeastern United States	1457	Person	James L. Peters	1548	0
+2774098	Location	Northeastern United States	1457	Quantity	1	1510	0
+2774098	Location	Northeastern United States	1457	Location	Greenland	1467	0
+2774098	Location	Northern Hemisphere	1304	Person	U. S. Nat	1353	0
+2774098	Location	Northern Hemisphere	1304	Quantity	1	1217	0
+2774098	Location	Northern Hemisphere	1304	Other	GCE Advanced Level	1401	0
+2774098	Location	Northern Hemisphere	1304	Person	A. L. V.	1401	0
+2774098	Location	Northern Hemisphere	1304	Person	Claus Manniche	1391	0
+2774098	Location	Northern Hemisphere	1304	Quantity	764	1382	0
+2774098	Location	Northern Hemisphere	1304	Quantity	673	1378	0
+2774098	Location	Northern Hemisphere	1304	Quantity	28	1370	0
+2774098	Location	Northern Hemisphere	1304	Location	Mackenzie River	1313	0
+2774098	Location	Northern Hemisphere	1304	Location	Northern Mackenzie    River District	1304	0
+2774098	Location	Northern Hemisphere	1304	Other	Musical note	1257	0
+2774098	Location	Northern Hemisphere	1304	DateTime	1905	1251	0
+2774098	Location	Northern Hemisphere	1304	Person	ROBERT	1240	0
+2774098	Location	Northern Hemisphere	1304	Person	Seth MacFarlane	1228	0
+2774098	Location	Northern Hemisphere	1304	Other	No. 6	1206	0
+2774098	Location	Northern Hemisphere	1304	Quantity	128	1219	0
+2774098	Location	Northern Mackenzie    River District	1304	Quantity	128	1219	0
+2774098	Location	Northern Mackenzie    River District	1304	Other	No. 6	1206	0
+2774098	Location	Northern Mackenzie    River District	1304	Person	Seth MacFarlane	1228	0
+2774098	Location	Northern Mackenzie    River District	1304	Person	ROBERT	1240	0
+2774098	Location	Northern Mackenzie    River District	1304	DateTime	1905	1251	0
+2774098	Location	Northern Mackenzie    River District	1304	Other	Musical note	1257	0
+2774098	Location	Northern Mackenzie    River District	1304	Location	Northern Hemisphere	1304	0
+2774098	Location	Northern Mackenzie    River District	1304	Location	Mackenzie River	1313	0
+2774098	Location	Northern Mackenzie    River District	1304	Quantity	28	1370	0
+2774098	Location	Northern Mackenzie    River District	1304	Quantity	673	1378	0
+2774098	Location	Northern Mackenzie    River District	1304	Quantity	764	1382	0
+2774098	Location	Northern Mackenzie    River District	1304	Person	Claus Manniche	1391	0
+2774098	Location	Northern Mackenzie    River District	1304	Person	A. L. V.	1401	0
+2774098	Location	Northern Mackenzie    River District	1304	Other	GCE Advanced Level	1401	0
+2774098	Location	Northern Mackenzie    River District	1304	Quantity	1	1217	0
+2774098	Location	Northern Mackenzie    River District	1304	Person	U. S. Nat	1353	0
+2774098	Location	Southern Baffin Island	2176	Quantity	1	2117	0
+2774098	Location	Southern Baffin Island	2176	Quantity	1	2255	0
+2774098	Location	Southern Baffin Island	2176	Other	Cattle	2233	0
+2774098	Location	Southern Baffin Island	2176	Other	Biology	2221	0
+2774098	Location	Southern Baffin Island	2176	Organization	Federal Bureau of Investigation	2159	0
+2774098	Location	Southern Baffin Island	2176	Person	Clarence (U.S. TV series)	2200	0
+2774098	Location	Southern Baffin Island	2176	Person	Serine	2227	0
+2774098	Location	Southern Baffin Island	2176	Quantity	53	2239	0
+2774098	Location	Southern Baffin Island	2176	Other	Mining	2211	0
+2774098	Location	Southern Baffin Island	2176	Location	Baffin Island	2185	0
+2774098	Location	Southern Baffin Island	2176	Location	Southern United States	2176	0
+2774098	Location	Southern Baffin Island	2176	Quantity	129	2257	0
+2774098	Location	Southern Baffin Island	2176	Other	Halo: Combat Evolved	2266	0
+2774098	Location	Southern Baffin Island	2176	Other	J.D. (Scrubs)	2134	0
+2774098	Location	Southern Baffin Island	2176	Organization	Faunal Investigation	2152	0
+2774098	Location	Southern Baffin Island	2176	Person	J. D.     1928	2134	0
+2774098	Location	Southern Baffin Island	2176	Person	Tony Soper	2127	0
+2774098	Location	Southern Baffin Island	2176	Quantity	36	2119	0
+2774098	Location	Southern Baffin Island	2176	Other	No. 2 (film)	2106	0
+2774098	Location	Southern Baffin Island	2176	Quantity	118	2101	0
+2774098	Location	Southern United States	2176	Quantity	118	2101	0
+2774098	Location	Southern United States	2176	Other	No. 2 (film)	2106	0
+2774098	Location	Southern United States	2176	Quantity	36	2119	0
+2774098	Location	Southern United States	2176	Person	Tony Soper	2127	0
+2774098	Location	Southern United States	2176	Person	J. D.     1928	2134	0
+2774098	Location	Southern United States	2176	Location	Southern Baffin Island	2176	0
+2774098	Location	Southern United States	2176	Organization	Faunal Investigation	2152	0
+2774098	Location	Southern United States	2176	Other	J.D. (Scrubs)	2134	0
+2774098	Location	Southern United States	2176	Other	Halo: Combat Evolved	2266	0
+2774098	Location	Southern United States	2176	Location	Baffin Island	2185	0
+2774098	Location	Southern United States	2176	Other	Mining	2211	0
+2774098	Location	Southern United States	2176	Person	Serine	2227	0
+2774098	Location	Southern United States	2176	Quantity	129	2257	0
+2774098	Location	Southern United States	2176	Quantity	53	2239	0
+2774098	Location	Southern United States	2176	Person	Clarence (U.S. TV series)	2200	0
+2774098	Location	Southern United States	2176	Organization	Federal Bureau of Investigation	2159	0
+2774098	Location	Southern United States	2176	Other	Biology	2221	0
+2774098	Location	Southern United States	2176	Quantity	1	2255	0
+2774098	Location	Southern United States	2176	Quantity	1	2117	0
+2774098	Location	Southern United States	2176	Other	Cattle	2233	0
+2774098	Location	United States	224	Quantity	107	284	0
+2774098	Location	United States	224	Quantity	239	295	0
+2774098	Location	United States	224	DateTime	1925	303	0
+2774098	Location	United States	224	Organization	Life Histories of North American Wild Fowl	309	0
+2774098	Location	United States	224	Quantity	229	175	0
+2774098	Location	United States	224	Person	Air conditioning	190	0
+2774098	Location	United States	224	Person	U. S. Nat	259	0
+2774098	Location	United States	224	Other	Cattle	253	0
+2774098	Location	United States	224	DateTime	1919	200	0
+2774098	Location	United States	224	Organization	Life Histories of North American Diving Birds	206	0
+2774098	Location	United States	224	Other	Diving bird	239	0
+2774098	Location	United States	224	Other	Vii	164	0
+2774098	Location	United States	224	Person	Thomas Nuttall	137	0
+2774098	Location	United States	224	Quantity	1	173	0
+2774098	Location	United States	224	Quantity	1	293	0
+2774098	Location	United States	327	Quantity	1	293	0
+2774098	Location	United States	327	Quantity	1	401	0
+2774098	Location	United States	327	Other	Diving bird	239	0
+2774098	Location	United States	327	Other	Cattle	253	0
+2774098	Location	United States	327	Other	Cattle	353	0
+2774098	Location	United States	327	Person	U. S. Nat	259	0
+2774098	Location	United States	327	Person	U. S. Nat	359	0
+2774098	Location	United States	327	Organization	Life Histories of North American Wild Fowl	309	0
+2774098	Location	United States	327	Other	Wildlife	342	0
+2774098	Location	United States	327	Other	Fowl	347	0
+2774098	Location	United States	327	Organization	No. 130 Squadron RAF	380	0
+2774098	Location	United States	327	Person	Robert Curtis Brown	412	0
+2774098	Location	United States	327	Quantity	311	403	0
+2774098	Location	United States	327	DateTime	1925	303	0
+2774098	Location	United States	327	Quantity	239	295	0
+2774098	Location	United States	327	Quantity	107	284	0
+2774098	Location	United States	1722	Other	Fauna	1741	0
+2774098	Location	United States	1722	Quantity	1	1627	0
+2774098	Location	United States	1722	Quantity	1	1760	0
+2774098	Location	United States	1722	Organization	Federal Bureau of Investigation	1789	0
+2774098	Location	United States	1722	Organization	Federal Bureau of Investigation	1682	0
+2774098	Location	United States	1722	Other	Biology	1671	0
+2774098	Location	United States	1722	Other	Biology	1778	0
+2774098	Location	United States	1722	Organization	Biological Investigation	1778	0
+2774098	Location	United States	1722	Quantity	401	1629	0
+2774098	Location	United States	1722	DateTime	1934	1634	0
+2774098	Location	United States	1722	Organization	Biological Investigation	1671	0
+2774098	Location	United States	1722	DateTime	1902	1663	0
+2774098	Location	United States	1722	Person	E. A.	1653	0
+2774098	Location	United States	1722	Person	Edward Alexander Preble	1645	0
+2774098	Location	United States	1722	Organization	Hudson Bay Region	1703	0
+2774098	Location	United States	1722	Location	Bay, Somalia	1710	0
+2774098	Location	United States	1722	Quantity	140	1762	0
+2774098	Location	United States	1722	Quantity	22	1752	0
+2774098	Location	United States	1722	DateTime	1908	1770	0
+2774098	Location	United States	1722	Location	Athabaskan languages	1810	0
+2774098	Location	United States	1722	Location	Mackenzie River	1820	0
