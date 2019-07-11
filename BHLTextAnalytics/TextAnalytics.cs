@@ -48,7 +48,7 @@ namespace BHLTextAnalytics
             List<string> outputLines = new List<string>();
 
             // Add the header for the output file
-            outputLines.Add("Seq\tPageID\tName\tType\tSubType\tWikipediaID\tWikipediaLanguage\tWikipediaUrl\tOffset\tLength\tScore\tWikipediaScore\tIsScientificName");
+            outputLines.Add("ItemID\tSeq\tPageID\tName\tType\tSubType\tWikipediaID\tWikipediaLanguage\tWikipediaUrl\tOffset\tLength\tScore\tWikipediaScore\tIsScientificName");
             int docCount = 0;
             int sequence = 1;
             foreach (var document in entitiesResult.Documents)
@@ -73,7 +73,7 @@ namespace BHLTextAnalytics
                             string isName = IsSciName(entity) ? "True" : "False";
 
                             // Build the data to be output
-                            string outputLine = string.Format($"{sequence}\t{pageID}\t{eName}\t{eType}\t{eSubType}\t{eWikipediaId}\t{eWikipediaLanguage}\t{eWikipediaUrl}\t{match.Offset}\t{match.Length}\t{match.EntityTypeScore:F3}\t{match.WikipediaScore:F3}\t{isName}");
+                            string outputLine = string.Format($"{itemID}\t{sequence}\t{pageID}\t{eName}\t{eType}\t{eSubType}\t{eWikipediaId}\t{eWikipediaLanguage}\t{eWikipediaUrl}\t{match.Offset}\t{match.Length}\t{match.EntityTypeScore:F3}\t{match.WikipediaScore:F3}\t{isName}");
                             outputLines.Add(outputLine);
                             sequence++;
                         }
