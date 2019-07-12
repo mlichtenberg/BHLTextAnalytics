@@ -66,17 +66,13 @@ namespace BHLTextAnalytics
 
                     foreach (var match in entity.Matches)
                     {
-                        // Make sure this entity meets our criteria for inclusion in the output
-                        if (IncludeEntity(entity, match))
-                        {
-                            // Determine if the entity is a scientific name
-                            string isName = IsSciName(entity) ? "True" : "False";
+                        // Determine if the entity is a scientific name
+                        string isName = IsSciName(entity) ? "True" : "False";
 
-                            // Build the data to be output
-                            string outputLine = string.Format($"{itemID}\t{sequence}\t{pageID}\t{eName}\t{eType}\t{eSubType}\t{eWikipediaId}\t{eWikipediaLanguage}\t{eWikipediaUrl}\t{match.Offset}\t{match.Length}\t{match.EntityTypeScore:F3}\t{match.WikipediaScore:F3}\t{isName}");
-                            outputLines.Add(outputLine);
-                            sequence++;
-                        }
+                        // Build the data to be output
+                        string outputLine = string.Format($"{itemID}\t{sequence}\t{pageID}\t{eName}\t{eType}\t{eSubType}\t{eWikipediaId}\t{eWikipediaLanguage}\t{eWikipediaUrl}\t{match.Offset}\t{match.Length}\t{match.EntityTypeScore:F3}\t{match.WikipediaScore:F3}\t{isName}");
+                        outputLines.Add(outputLine);
+                        sequence++;
                     }
                 }
 
@@ -88,35 +84,6 @@ namespace BHLTextAnalytics
             if (!Directory.Exists(Config.OutputFolder)) Directory.CreateDirectory(Config.OutputFolder);
             File.WriteAllLines(string.Format("{0}\\Item{1}.tsv", Config.OutputFolder, itemID), 
                 outputLines.ToArray(), Encoding.UTF8);
-        }
-
-        /// <summary>
-        /// Apply some filters that are specific to this input data set.
-        /// </summary>
-        /// <param name="entity"></param>
-        /// <param name="match"></param>
-        /// <returns>True to include this entity in the output, False otherwise.</returns>
-        private static bool IncludeEntity(EntityRecord entity, MatchRecord match)
-        {
-            // Skip any entities that appear in the first 50 characters of the document.
-            // The goal is to skip data extracted from page headers.
-            // This parameter should be modified... perhaps set to 0... for books that do 
-            // not include page headers.
-            if (match.Offset <= 50) return false;
-
-            if (entity.Type.ToLower() == "location")
-            {
-                // Skip any locations that are equal or less than 6 characters in length.
-                // In limited observations, such locations have proven to be mostly invalid.
-                // Future tests might consider modifying this parameter.
-                if (match.Length <= 6) return false;
-
-                // Skip any locations that start with a lowercase letter, as they are likely
-                // to be invalid.
-                if (Char.IsLower(entity.Name[0])) return false;
-            }
-
-            return true;
         }
 
         /// <summary>
